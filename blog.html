@@ -1,0 +1,19 @@
+---
+layout: default
+title: join diaspora - freedom to share - blog
+---
+
+<div id="home">  
+  <h1>the blog</h1>
+  <ul class="posts">
+    {% for post in site.posts %}
+      <!-- <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ post.url }}">{{ post.title }}</a></li> -->
+      {{post.content}}
+    {% endfor %}
+  </ul>
+  
+{{paginator.per_page}}  
+{{paginator.next_page}}
+{{paginator.previous_page}}
+</div>
+  
