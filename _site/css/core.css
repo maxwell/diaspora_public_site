@@ -3,7 +3,7 @@ a { color: #e31441; }
 
 body { border-top: 3px solid #000; } 
 
-div#header { margin: 10px 0 40px 0; }
+div#header { margin: 0 0 40px 0; }
 
 div#header > h1.title {
 	font-size: 30px;
@@ -94,4 +94,15 @@ div#home p + p {
 
 div#home {
 	margin-left: 40px
+}
+
+div#sliver {
+	height: 90px;
+	background: url('../images/dandy.jpg') 0 680px;
+}
+
+div#shadow {
+	-webkit-box-shadow: 0 -8px 10px #000;
+	background-color: #fff;
+	height: 20px;
 }
