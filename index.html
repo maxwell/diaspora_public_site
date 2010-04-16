@@ -3,10 +3,12 @@ layout: default
 title: join diaspora - freedom to share
 ---
 
+<div id="big_block">
+	<p> Diaspora is a decentralized open source network for sharing your stuff online.</p>
+</div>
 <h1>the latest news</h1>
 <div id="home">  
-  {% for post in site.posts limit:1git  %}
+  {% for post in site.posts limit:1  %}
   {{post.content}}
   {% endfor %}
 </div>
-  
