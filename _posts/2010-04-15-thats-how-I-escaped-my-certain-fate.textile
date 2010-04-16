@@ -1,11 +1,14 @@
 ---
 layout: post
 title: why are we doing this?
+author: maxwell
 ---
 
 h2. {{ page.title }}
 
-p(meta). 15 APRIL 2010 - New York
+p(meta). 15 APRIL 2010 by {{page.author}}
+
+
 
 All of these big web services have evolved rapidly since the boom of the internet.  They have got bigger and faster and more full featured as computing resources became more and more prevalent.  Huge websites became larger and larger, and many great companies emerged to help us share our photos, thoughts, memories, and opinions and broadcast them to the world.  They really changed the world, I would argue for the better.   
 
