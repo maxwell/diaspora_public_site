@@ -1,0 +1,164 @@
+a { color: #e31441; }
+
+
+body { border-top: 3px solid #000; overflow-x:hidden; } 
+
+div#header { margin: 0 0 40px 0; }
+
+div#header > h1.title {
+	font-size: 30px;
+	letter-spacing: -0.09em;
+	font-weight: bold;
+	display: inline;
+}
+div#header > h1.title a {
+	color: #000;
+}
+
+div#header > ul#nav {
+	display: inline;
+	margin: 0;
+	padding: 0;
+	float: right;
+}
+
+div#header > ul#nav > li {
+	display: inline;
+	font-size: 18px;
+}
+
+div#header > ul#nav > li + li {
+	margin-left: 10px;
+}
+
+div#header a {
+	text-decoration: none;
+}
+
+div#alert{
+	color: #fff;
+	text-align: center;
+	background: #000;
+	padding: 5px;
+	border-radius: 5px;
+	-webkit-border-radius: 5px;
+	-moz-border-radius: 5px;
+	margin-bottom: 30px;
+}
+
+div#alert a:hover {
+	color: green;
+}
+
+div.main {
+	margin-bottom: 50px;
+}
+
+h1 {
+	letter-spacing: -0.03em;
+}
+
+h2 {
+	font-size: 26px;
+	letter-spacing: -0.07em;
+	margin-bottom: 0;
+}
+
+p.meta {
+	font-size: 16px;
+	font-style: italic;
+	font-family: georgia;
+	color: #ccc;
+	margin-top: 0;
+}
+
+
+div#footer {
+	margin-top: 30px;
+	text-align: center;
+	padding-bottom: 30px;
+	font-style: italic;
+	color: #999;
+}
+
+div#footer ul {
+	margin: 0;
+	padding: 0;
+}
+
+div#footer li {
+	display: inline;
+}
+
+div#footer li + li {
+	margin-left: 30px;
+}
+
+div#footer h4 {
+	letter-spacing: -0.065em;
+	color: #666;
+}
+
+div#home p + p {
+	text-indent: 10px;
+}
+
+div#home {
+	margin-left: 40px
+}
+
+div#sliver {
+	height: 90px;
+	background: url('../images/dandy.jpg') 0 680px;
+}
+
+div#shadow {
+	-webkit-box-shadow: 0 -8px 10px #000;
+	-moz-box-shadow: 0 -8px 10px #000;
+	background-color: #fff;
+	height: 20px;
+}
+
+img.us_image {
+	background: white;
+	padding: 5px;
+	-webkit-box-shadow: 0px 2px 5px #666;
+	-moz-box-shadow: 0px 2px 5px #666;
+	width: 93%;
+}
+
+ul#people {
+	margin-top: 20px;
+	margin-left: 120px;
+	padding: 0;
+	font-weight: bold;
+}
+
+ul#people > li {
+	display: inline;
+}
+
+ul#people > li + li {
+	margin-left: 40px;
+}
+
+div#big_block p {
+	text-align: center;
+	font-family: georgia;
+	font-size: 40px;
+	font-style: italic;
+	color: #999;
+	letter-spacing: -0.05em;
+	padding: 10px;
+	margin-bottom: 30px;
+}
+
+div#cc_info {
+	margin-top: 30px;
+	color: #999;
+	font-size: 8px;
+}
+
+div#cc_info a {
+	color: #333;
+}
