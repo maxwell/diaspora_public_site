@@ -11,6 +11,9 @@ div#header > h1.title {
 	font-weight: bold;
 	display: inline;
 }
+div#header > h1.title a {
+	color: #000;
+}
 
 div#header > ul#nav {
 	display: inline;
