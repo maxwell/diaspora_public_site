@@ -103,6 +103,7 @@ div#sliver {
 
 div#shadow {
 	-webkit-box-shadow: 0 -8px 10px #000;
+	-moz-box-shadow: 0 -8px 10px #000;
 	background-color: #fff;
 	height: 20px;
 }
