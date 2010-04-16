@@ -3,7 +3,7 @@ layout: post
 title: why are we doing this?
 ---
 
-h1. {{ page.title }}
+h2. {{ page.title }}
 
 p(meta). 15 APRIL 2010 - New York
 

@@ -4,7 +4,7 @@
  <title>Tom Preston-Werner</title>
  <link href="http://tom.preston-werner.com/atom.xml" rel="self"/>
  <link href="http://tom.preston-werner.com/"/>
- <updated>2010-04-15T02:57:15-04:00</updated>
+ <updated>2010-04-15T23:12:54-04:00</updated>
  <id>http://tom.preston-werner.com/</id>
  <author>
    <name>Tom Preston-Werner</name>
@@ -17,7 +17,7 @@
    <link href="http://tom.preston-werner.com/2010/04/15/thats-how-I-escaped-my-certain-fate.html"/>
    <updated>2010-04-15T00:00:00-04:00</updated>
    <id>http://tom.preston-werner.com/2010/04/15/thats-how-I-escaped-my-certain-fate</id>
-   <content type="html">&lt;h1&gt;why are we doing this?&lt;/h1&gt;
+   <content type="html">&lt;h2&gt;why are we doing this?&lt;/h2&gt;
 &lt;p class=&quot;meta&quot;&gt;15 &lt;span class=&quot;caps&quot;&gt;APRIL&lt;/span&gt; 2010 &amp;#8211; New York&lt;/p&gt;
 &lt;p&gt;All of these big web services have evolved rapidly since the boom of the internet.  They have got bigger and faster and more full featured as computing resources became more and more prevalent.  Huge websites became larger and larger, and many great companies emerged to help us share our photos, thoughts, memories, and opinions and broadcast them to the world.  They really changed the world, I would argue for the better.&lt;/p&gt;
 &lt;p&gt;But what really sucks is that none of that stuff that you create is actually still yours.  The second you upload that photo to Facebook, or post that comment to the New York Times, or check in on Foursquare, you are actually just giving that part of your online identity away.  Poof.  Not yours.&lt;/p&gt;
