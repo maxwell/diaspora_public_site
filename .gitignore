@@ -1,2 +1,3 @@
-_site/*.*
+_site/*.html
 .DS_STORE
+_site/*.css
