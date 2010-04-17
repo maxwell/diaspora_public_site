@@ -1,6 +1,6 @@
 ---
 layout: post
-title: why are we doing this?
+title: How did we get here?
 author: maxwell
 ---
 
@@ -8,6 +8,20 @@ h2. {{ page.title }}
 
 p(meta). 15 APRIL 2010 by {{page.author}}
 
+//maxwell rant, go
+The way I see it, people have to solving the wrong problem online.
+
+We all know that the Internet has forever changed the way people communicate online.  And I think most people, including myself, say it has changed for the better. 
+
+All of these big social network and sharing site say that they are changing the way people communicate, changing the way they express themselves, and change the way they interact with human beings.  But when you really think about it, we are forced to express ourselves through this platforms, rather than these services simply helping us communicate.  The communication becoming about the platform.  This of course, with much reason, is because these services currently would like to make money from your eyeballs being on their website, a topic which I won't begin to unpack here.  This is how they work, this is what they are doing, so whatever.  To each his own.
+
+But lets talk about communication here for a movement.  Last time I checked, it was between two human beings, mediated through something.  Our voices traveling through the air, as noise waves.  A letter, in written word.  Even a phone call, through telephone wires, a receiver, and a speaker.  Each one of these mediums has it's own unique benefits and pitfalls, but ultimately is responsible for connecting two people together.  Each of these medium also presents a unique opportunity, structured in a way which the communication it allows for is not possible any other way.  The medium itself attempts to fade into the background, while trying to seem agnostic as possible to the content and communication, so much so that (to paraphrase Marshell McLuhan) the "medium becomes the message".  
+
+Last time I checked, Facebook wasn't a medium.  The Internet was. Facebook may try really hard to make you think it is one, trying to get you to funnel all of your personal communication through its platform, that somehow it "Facebook-ness" your communiqué. This isn't the case.  This is technology which is over developed.  So much of the structure and centralized nature of Facebook and other services is just arbitrary infrastructure which actually INHIBITS your communication, because the problem Facebook is trying to solve is to make money.
+
+We have the technology and the passion to fix this over built soulution.
+
+It isn't that hard to build a system that is truly built to facilitate the kinds of interaction we have come to expect online, in a way which you don't have to sacrifice convenience, privacy, or fun.  Facebook makes it easy to share stuff.  There is no reason that a good peace of free software couldn't do the exact same thing, without the oversight, loss of ownership.  In fact, I know we can make it even more user to a human being, because this is really our end goal.  The ONLY goal we really have is to make it fun and easy to communicate with the people you care about.  Who cares about what kinda stuff they want to share with you?  You arn't friends with Facebook.  You are friends with people.  Facebook is not a person.  They don't need to be evolved with every bit of talk you have with your friends.  The fact that they are present there is a technological in-necessity.
 
 
 All of these big web services have evolved rapidly since the boom of the internet.  They have got bigger and faster and more full featured as computing resources became more and more prevalent.  Huge websites became larger and larger, and many great companies emerged to help us share our photos, thoughts, memories, and opinions and broadcast them to the world.  They really changed the world, I would argue for the better.   
@@ -20,13 +34,12 @@ The internet grew organically, in a path of least resistance.  Since it is easy 
 
 But today, it costs Google pennies to store all that GMail space.  We don’t need these big players holding on to our stuff to save us a few bucks.  In fact, its just completely irresponsible to give up on yourself like that.  Now, I am not saying we are living in the Matrix, but think about how much someone may be able to understand about you by the all the information you have online?  Now think about how much of that stuff you actually have control over (deleting stuff from Facebook doesn’t count.  They never delete that stuff).  Nobody really knows what it means to have information be available for forever, because that possibility has never existed before. 
 
-So either right now you are scared, or you say to me, “Maxwell, you are a paranoid techno-freak.  Eric Schmidt told me “Privacy is dead”, and all I really want to do is swap photos with my friends from the party last week, send my significant other pictures of a dog wearing a sweater I saw on the street, email my mom and sister occasionally, and tell jokes on my Twitter feed.  Why is that so bad?” 
+So either right now you are scared, or you say to me, “Maxwell, you are a paranoid techno-freak.  Eric Schmidt told me “Privacy is dead”, and the g00gs does not evil, and all I really want to do is swap photos with my friends from the party last week, send my significant other pictures of a dog wearing a sweater I saw on the street, email my mom and sister occasionally, and tell jokes on my Twitter feed.  Why is that so bad?” 
 
 Think about this.  Every time you join some sort of new service, you have to re-find all of your friends and connections, again and again, and remember another password, and remember to link your accounts so you don’t have to post to yet another service, lest your friends call you a boring luddite.  This sucks.  This is because none of these networks wants to let go of your information. 
 
 Or even worse, what if you don’t belong to another service that one of your close friend does?   From a completely practical standpoint, its hard to keep track of where your friends are hanging out online, as so much is constantly changing.  What if all of your friends have started sharing their real-time pug sightings, or their hyperlocal crowd sourced traffic reports?  You would be missing out about stuff your friends were sharing, and there would be no way you would even know!  But, if everyone could centralize all the stuff they were sharing and  you got your information about them from them directly, you would never have to worry about this! 
  
 
-We think Diaspora is a step in the right direction.  There are still tons of problems to solve.  We are up to the initial challenge, and would love to try our hand at answering some of these problems.
+We think Diaspora is a step in the right direction.  There are still tons of problems to solve.  We are up to the initial challenge, and would love to try our hand at answering some of these problems.  It would be rad if you could check out our "Kickstarter":www.kickstarter.com, and think about helping us create a real alternative for people who want to share their stuff.
 
-"this is a link":http://github.com/mojombo/grit
