@@ -174,8 +174,20 @@ div#big_block span.inside {
     margin-left:30px;
 }
 
+
 div#big_block span.our_def {
     margin-left:20px;
     display:block;
+}
+
+
+div#cc_info {
+	margin-top: 30px;
+	color: #999;
+	font-size: 8px;
+}
+
+div#cc_info a {
+	color: #333;
 }
 
