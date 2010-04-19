@@ -1,11 +1,12 @@
 ---
 layout: post
-title: another rant
+title: Historical Look at the Internet
 author: maxwell
 ---
+
 h2. {{ page.title }}
 
-p(meta). 19 APRIL 2010 by {{page.author}}
+p(meta). 14 APRIL 2010 by {{page.author}}
 
 All of these big web services have evolved rapidly since the boom of the internet.  They have got bigger and faster and more full featured as computing resources became more and more prevalent.  Huge websites became larger and larger, and many great companies emerged to help us share our photos, thoughts, memories, and opinions and broadcast them to the world.  They really changed the world, I would argue for the better.   
 
@@ -25,3 +26,4 @@ Or even worse, what if you don’t belong to another service that one of your cl
  
 
 We think Diaspora is a step in the right direction.  There are still tons of problems to solve.  We are up to the initial challenge, and would love to try our hand at answering some of these problems.  It would be rad if you could check out our "Kickstarter":www.kickstarter.com, and think about helping us create a real alternative for people who want to share their stuff.
+
