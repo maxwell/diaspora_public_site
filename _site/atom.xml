@@ -4,7 +4,7 @@
  <title>Tom Preston-Werner</title>
  <link href="http://tom.preston-werner.com/atom.xml" rel="self"/>
  <link href="http://tom.preston-werner.com/"/>
- <updated>2010-04-19T00:09:04-04:00</updated>
+ <updated>2010-04-19T00:22:20-04:00</updated>
  <id>http://tom.preston-werner.com/</id>
  <author>
    <name>Tom Preston-Werner</name>
@@ -17,9 +17,9 @@
    <link href="http://tom.preston-werner.com/2010/04/18/another-rant.html"/>
    <updated>2010-04-18T00:00:00-04:00</updated>
    <id>http://tom.preston-werner.com/2010/04/18/another-rant</id>
-   <content type="html">&lt;p class=&quot;meta&quot;&gt;19 &lt;span class=&quot;caps&quot;&gt;APRIL&lt;/span&gt; 2010 by maxwell&lt;br /&gt;
-h2. another rant&lt;br /&gt;
-fAll of these big web services have evolved rapidly since the boom of the internet.  They have got bigger and faster and more full featured as computing resources became more and more prevalent.  Huge websites became larger and larger, and many great companies emerged to help us share our photos, thoughts, memories, and opinions and broadcast them to the world.  They really changed the world, I would argue for the better.&lt;/p&gt;
+   <content type="html">&lt;h2&gt;another rant&lt;/h2&gt;
+&lt;p class=&quot;meta&quot;&gt;19 &lt;span class=&quot;caps&quot;&gt;APRIL&lt;/span&gt; 2010 by maxwell&lt;/p&gt;
+&lt;p&gt;All of these big web services have evolved rapidly since the boom of the internet.  They have got bigger and faster and more full featured as computing resources became more and more prevalent.  Huge websites became larger and larger, and many great companies emerged to help us share our photos, thoughts, memories, and opinions and broadcast them to the world.  They really changed the world, I would argue for the better.&lt;/p&gt;
 &lt;p&gt;But what really sucks is that none of that stuff that you create is actually still yours.  The second you upload that photo to Facebook, or post that comment to the New York Times, or check in on Foursquare, you are actually just giving that part of your online identity away.  Poof.  Not yours.&lt;/p&gt;
 &lt;p&gt;Certainly right now any one of those companies tells you they won’t do anything crazy with your data besides serve you some fancy advertisements, but that doesn’t mean that some dying company won’t do anything to stay in business.  Not to mention that will all of this wonderful participation, you are establishing who you are in this world, making your mark on the net.  The internet is serious business, and much of this stuff is as real as a phone call to your mom or a letter to your friend.  It’s not something you should have to throw away in order to share.&lt;/p&gt;
 &lt;p&gt;The internet grew organically, in a path of least resistance.  Since it is easy to centralize lots of information (humans tend to think like this, it is a bit easier to comprehend), people started posting to the same place, because it is cheaper to centralize bandwidth and disk space to store your stuff.&lt;/p&gt;
