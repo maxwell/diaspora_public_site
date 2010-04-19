@@ -1,6 +1,6 @@
 ---
 layout: post
-title: reason number x.
+title: reason number x
 author: maxwell
 ---
 
@@ -8,7 +8,7 @@ h2. {{ page.title }}
 
 p(meta). 17 APRIL 2010 by {{page.author}}
 
-Every few days, we will post a few interesting links we feel somehow relates confirms why we all need diasproa now more than ever.
+Every fewsdfdsfsd days, we will post a few interesting links we feel somehow relates confirms why we all need diasproa now more than ever.
 
 "Wired":http://www.wired.com/threatlevel/2010/04/cloud-warrant/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+wired%2Findex+%28Wired%3A+Index+3+%28Top+Stories+2%29%29 has an article about how law enforcement has a much easier time getting at your stuff it is on some shared cloud.  Now, certainly we aren't criminals, (nor do we condone such behavior)but isn't it scary how little control you actually have over stuff you make online when it gets pulled into a third party service?  I think this also highlights some of issues of "data forever,"  which "Gizmodo":http://www.gizmodo.com discussed a few weeks ago.  Once you upload your private stuff to these servers,it never goes away.  In fact, things which you may ever forgot you said or didn't mean to say, thats always in Google or Facebook's server, forever.  They aren't going to delete that data.  They know that about you now, in 6 months, in 6 years.  There is no digital paper shredder.
 
