@@ -1,0 +1,34 @@
+---
+layout: default
+title: join diaspora - the project
+---
+
+the project.
+	 We are 140-character ideas.  We are the pictures of your cat.  We are blog posts about the economy.  We are the collective knowledge that is Wikipedia.  The internet is a canvas - of which, we paint broad and fine strokes of our lives with.  It is a forward extension of our physical lives; a meta-self comprised of ones and zeros.  We are all that is digital:  If we weren't, the internet wouldn't either.	
+
+currently speaking.
+	We already have a rudimentary prototype of Diaspora running on our machines, and are working like mad to make it all we can be.  Our current implementations include GPG encryption, scraping Twitter and Flickr, awesome design aesthetics, and the initial stages of connection infrastructure ("friending" other Diaspora instances).
+
+first sprint.
+	It is our one and only goal to get Diaspora in the hands of every man, woman, and child by summer's end.  September 2010 will signify the release of the project in its first iteration, fully open-sourced under the GPL.  This release will be comprised of several key features for Diaspora, mainly:
+
+	- Full-fledged communications between Seeds (Diaspora instances)
+	- Complete PGP encryption
+	- External Service Scraping of most major services (reclaim your data)
+	- Version 1 of Diaspora's API with documentation
+	- Public GitHub repository of all Diaspora code
+
+second sprint.
+	Our second goal focuses on extending Diaspora, unleashing a battery of add-on modules and updates to the core system with the open-source community.  We intend on migrating back to New York City to set up house, and will be devising plans to make it even easier for the general public to utilize Diaspora, a la a dead-simple, five-minute setup.  Like the first sprint, the second spring will also be all about reclaiming all that is us.
+
+flooring it to 88mph.
+	The future will offer a multitude of amazing new capabilities for Diaspora.  We will all be an unstoppable driving force, creating our own digital meta-selves, unhinged by the current shackles of the internet.  A taste of what's floating around in our heads as of now:
+
+	- Voice-over IP
+	- Distributed inter-office implementations
+	- Instant Messaging protocol
+	- UDP integration
+
+
+
+"The only limit is yourself."
