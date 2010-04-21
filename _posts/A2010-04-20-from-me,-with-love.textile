@@ -1,0 +1,20 @@
+---
+layout: post
+title: From Me, With Love
+author: daniel
+editor: raphael
+---
+
+h2. {{ page.title }}
+
+p(meta). 20 APRIL 2010 by {{page.author}}
+
+I have a GMail account, and it's fantastic.  I have a twitter account, which is also great.  I have a last.fm - "they" log what I listen to.  I have a Flickr account.  I have an Apple ID, an iPhone, and a "completely closed" laptop running Mac OS X.  My headphones are not open-source.  I purchase copyrighted music from "large corporations."  The lightbulbs I use are patented.  I bought my boots from a store which has logged my transaction for their financial statements.
+
+So, <i>shoot me</i>.  I obviously don't care about my privacy, or the well-being of modern man.
+
+Facebook is not Big Brother, it is a privatized company.  The United States will not suddenly become a Fascist state.  We have nothing to worry about.  You have nothing to worry about.  As it is impossible to be citizens of the internet, a "large internet company" merely existing doesn't harm us as a people.
+
+Our dreams - our experiences - are voluntary; however, what we choose to do with them is not.  The internet is, like anything else a medium for expressing ourselves.  We do not involuntarily run around expelling our deepest, darkest secrets; we do not  frantically slather them on the sides of houses.  History tells us we have some remote sense of sanity.  We are not naive as some would like to think.
+
+I am not working on Diaspora to create a false revolution.  My efforts are not a result of some deep-seeded fury.  Diaspora is the next logical step in improving the Internet.  Retaining ownership of content instead of voluntarily submitting it is intuitive; I declare it to be the future.
