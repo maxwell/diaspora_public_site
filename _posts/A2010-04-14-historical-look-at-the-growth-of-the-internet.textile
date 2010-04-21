@@ -1,0 +1,19 @@
+---
+layout: post
+title: derpp
+author: maxwell
+---
+
+h2. {{ page.title }}
+
+p(meta). 14 APRIL 2010 by {{page.author}}
+
+All of these big web services have evolved rapidly since the boom of the internet.  They have got bigger and faster and more full featured as computing resources became more and more prevalent.  Huge websites became larger and larger, and many great companies emerged to help us share our photos, thoughts, memories, and opinions and broadcast them to the world.  They really changed the world, I would argue for the better.   
+
+But what really sucks is that none of that stuff that you create is actually still yours.  The second you upload that photo to Facebook, or post that comment to the New York Times, or check in on Foursquare, you are actually just giving that part of your online identity away.  Poof.  Not yours. 
+
+Certainly right now any one of those companies tells you they won’t do anything crazy with your data besides serve you some fancy advertisements, but that doesn’t mean that some dying company won’t do anything to stay in business.  Not to mention that will all of this wonderful participation, you are establishing who you are in this world, making your mark on the net.  The internet is serious business, and much of this stuff is as real as a phone call to your mom or a letter to your friend.  It’s not something you should have to throw away in order to share. 
+ 
+
+We think Diaspora is a step in the right direction.  There are still tons of problems to solve.  We are up to the initial challenge, and would love to try our hand at answering some of these problems.  It would be rad if you could check out our "Kickstarter":http://www.kickstarter.com, and think about helping us create a real alternative for people who want to share their stuff.
+

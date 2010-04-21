@@ -9,7 +9,12 @@ h2. {{ page.title }}
 p(meta). 15 APRIL 2010 by {{page.author}}
 
 
+talk about how it works.
 
+talk about a social graph, why owning it is beneficial.
+
+
+//from the old pitch
 
 A distributed network, where totally separate computers connect to each other directly, will let us connect without surrendering our privacy.  We call these computers 'seeds'.  A seed is owned by you, hosted by you, or on a rented server.  Once it has been set up, the seed will aggregate all of your information: your facebook profile, tweets, anything.  We are designing an easily extendable plugin framework for Diaspora, so that whenever newfangled content gets invented, it will be automagically integrated into every seed.  
 
