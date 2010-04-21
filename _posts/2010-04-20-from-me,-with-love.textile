@@ -2,20 +2,19 @@
 layout: post
 title: From Me, With Love
 author: daniel
+editor: raphael
 ---
 
 h2. {{ page.title }}
 
 p(meta). 20 APRIL 2010 by {{page.author}}
 
-I have a GMail account, and it's fantastic.  I have a twitter account, which is also great.  I have a last.fm - "they" log what I listen to.  I have a Flickr account.  I have an Apple ID, an iPhone, and a "completely closed" laptop running on Mac OS X.  My headphones are not open-source.  I purchase copyrighted music from "large corporations."  The lightbulbs I use are patented.  I bought my boots from a store which has logged my transaction for their financial statements.
+I have a GMail account, and it's fantastic.  I have a twitter account, which is also great.  I have a last.fm - "they" log what I listen to.  I have a Flickr account.  I have an Apple ID, an iPhone, and a "completely closed" laptop running Mac OS X.  My headphones are not open-source.  I purchase copyrighted music from "large corporations."  The lightbulbs I use are patented.  I bought my boots from a store which has logged my transaction for their financial statements.
 
 So, <i>shoot me</i>.  I obviously don't care about my privacy, or the well-being of modern man.
 
-Facebook is not Big Brother, it is a privatized company.  I cannot foresee the United States suddenly becoming a Fascist state in the near future.  We have nothing to worry about.  You have nothing to worry about.  As it is impossible to be citizens of the internet, a "large internet company" merely existing exerts absolutely no transient harm upon us as a people.
+Facebook is not Big Brother, it is a privatized company.  The United States will not sudenly become a Fascist state.  We have nothing to worry about.  You have nothing to worry about.  As it is impossible to be citizens of the internet, a "large internet company" merely existing doesn't harm us as a people.
 
-Our dreams - our experiences - are not involuntarily; however, what we choose to do with them are.  The internet is a medium, just like anything else in this world.  A medium is that which we can express ourselves through.  It is where we choose to abstract a thought or idea.  We do not involuntarily run around expelling our deepest, darkest secrets; we do not paint them on the sides of houses in frantically slathered red paint.  History tells us we have some remote sense of sanity.  We are not naive as some would like to think.
+Our dreams - our experiences - are voluntary; however, what we choose to do with them is not.  The internet is, like anything else a medium for expressing ourselves.  We do not involuntarily run around expelling our deepest, darkest secrets; we do not  frantically slather them on the sides of houses.  History tells us we have some remote sense of sanity.  We are not naive as some would like to think.
 
-I am ascribing to Diaspora not in hopes to create a false revolution.  My efforts are not a result of some deep-seeded fury.  I am undertaking this project with my cohorts because I am a Darwinian.  I have come to believe that Evolution is the way things work: it's how the world has become today.  It's the reason why we're breathing and walking on two legs.
-
-Diaspora, as I have come to see it, is the next logical step in sharpening the medium we have branded the Internet.  Subscribing ownership as opposed to voluntary submission seems intuitive; we are declaring it as the future.
+I am not working on Diaspora to create a false revolution.  My efforts are not a result of some deep-seeded fury.  Diaspora is the next logical step in improving the Internet.  Retaining ownership of content instead of voluntarily submitting it is intuitive; I declare it to be the future.
