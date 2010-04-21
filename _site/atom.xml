@@ -4,8 +4,7 @@
  <title>Tom Preston-Werner</title>
  <link href="http://tom.preston-werner.com/atom.xml" rel="self"/>
  <link href="http://tom.preston-werner.com/"/>
- <updated>2010-04-20T23:09:04-04:00</updated>
- <updated>2010-04-20T22:53:27-04:00</updated>
+ <updated>2010-04-20T23:42:05-04:00</updated>
  <id>http://tom.preston-werner.com/</id>
  <author>
    <name>Tom Preston-Werner</name>
@@ -15,12 +14,12 @@
  
  <entry>
    <title>From Me, With Love</title>
-   <link href="http://tom.preston-werner.com/2010/04/18/a-little-more-about-the-project.html"/>
-   <updated>2010-04-18T00:00:00-04:00</updated>
-   <id>http://tom.preston-werner.com/2010/04/18/a-little-more-about-the-project</id>
+   <link href="http://tom.preston-werner.com/2010/04/20/from-me%2C-with-love.html"/>
+   <updated>2010-04-20T00:00:00-04:00</updated>
+   <id>http://tom.preston-werner.com/2010/04/20/from-me,-with-love</id>
    <content type="html">&lt;h2&gt;From Me, With Love&lt;/h2&gt;
 &lt;p class=&quot;meta&quot;&gt;20 &lt;span class=&quot;caps&quot;&gt;APRIL&lt;/span&gt; 2010 by daniel&lt;/p&gt;
-&lt;p&gt;I have a GMail account, and it&amp;#8217;s fantastic.  I have a twitter account, which is also great.  I have a last.fm: &amp;#8220;they&amp;#8221; log what I listen to.  I have a Flickr account.  I have an Apple ID, an iPhone, a &amp;#8220;completely closed&amp;#8221; laptop running on Mac OS X.  My headphones are not open-source.  I purchase copyrighted music from &amp;#8220;large corporations.&amp;#8221;  The lightbulbs I use are patented.  I bought my boots from a store which has logged my transaction for their financial statements.&lt;/p&gt;
+&lt;p&gt;I have a GMail account, and it&amp;#8217;s fantastic.  I have a twitter account, which is also great.  I have a last.fm &amp;#8211; &amp;#8220;they&amp;#8221; log what I listen to.  I have a Flickr account.  I have an Apple ID, an iPhone, and a &amp;#8220;completely closed&amp;#8221; laptop running on Mac OS X.  My headphones are not open-source.  I purchase copyrighted music from &amp;#8220;large corporations.&amp;#8221;  The lightbulbs I use are patented.  I bought my boots from a store which has logged my transaction for their financial statements.&lt;/p&gt;
 &lt;p&gt;So, &lt;i&gt;shoot me&lt;/i&gt;.  I obviously don&amp;#8217;t care about my privacy, or the well-being of modern man.&lt;/p&gt;
 &lt;p&gt;Facebook is not Big Brother, it is a privatized company.  I cannot foresee the United States suddenly becoming a Fascist state in the near future.  We have nothing to worry about.  You have nothing to worry about.  As it is impossible to be citizens of the internet, a &amp;#8220;large internet company&amp;#8221; merely existing exerts absolutely no transient harm upon us as a people.&lt;/p&gt;
 &lt;p&gt;Our dreams &amp;#8211; our experiences &amp;#8211; are not involuntarily; however, what we choose to do with them are.  The internet is a medium, just like anything else in this world.  A medium is that which we can express ourselves through.  It is where we choose to abstract a thought or idea.  We do not involuntarily run around expelling our deepest, darkest secrets; we do not paint them on the sides of houses in frantically slathered red paint.  History tells us we have some remote sense of sanity.  We are not naive as some would like to think.&lt;/p&gt;
@@ -77,9 +76,9 @@ The way I see it, people have to solving the wrong problem online.&lt;/p&gt;
  
  <entry>
    <title>A Little More About The Project</title>
-   <link href="http://tom.preston-werner.com/2010/04/14/from-me%2C-with-love.html"/>
+   <link href="http://tom.preston-werner.com/2010/04/14/a-little-more-about-the-project.html"/>
    <updated>2010-04-14T00:00:00-04:00</updated>
-   <id>http://tom.preston-werner.com/2010/04/14/from-me,-with-love</id>
+   <id>http://tom.preston-werner.com/2010/04/14/a-little-more-about-the-project</id>
    <content type="html">&lt;h2&gt;A Little More About The Project&lt;/h2&gt;
 &lt;p class=&quot;meta&quot;&gt;15 &lt;span class=&quot;caps&quot;&gt;APRIL&lt;/span&gt; 2010 by maxwell&lt;/p&gt;
 &lt;p&gt;A distributed network, where totally separate computers connect to each other directly, will let us connect without surrendering our privacy.  We call these computers &amp;#8216;seeds&amp;#8217;.  A seed is owned by you, hosted by you, or on a rented server.  Once it has been set up, the seed will aggregate all of your information: your facebook profile, tweets, anything.  We are designing an easily extendable plugin framework for Diaspora, so that whenever newfangled content gets invented, it will be automagically integrated into every seed.&lt;/p&gt;

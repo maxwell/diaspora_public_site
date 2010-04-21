@@ -8,7 +8,7 @@ h2. {{ page.title }}
 
 p(meta). 20 APRIL 2010 by {{page.author}}
 
-I have a GMail account, and it's fantastic.  I have a twitter account, which is also great.  I have a last.fm: "they" log what I listen to.  I have a Flickr account.  I have an Apple ID, an iPhone, a "completely closed" laptop running on Mac OS X.  My headphones are not open-source.  I purchase copyrighted music from "large corporations."  The lightbulbs I use are patented.  I bought my boots from a store which has logged my transaction for their financial statements.
+I have a GMail account, and it's fantastic.  I have a twitter account, which is also great.  I have a last.fm - "they" log what I listen to.  I have a Flickr account.  I have an Apple ID, an iPhone, and a "completely closed" laptop running on Mac OS X.  My headphones are not open-source.  I purchase copyrighted music from "large corporations."  The lightbulbs I use are patented.  I bought my boots from a store which has logged my transaction for their financial statements.
 
 So, <i>shoot me</i>.  I obviously don't care about my privacy, or the well-being of modern man.
 
