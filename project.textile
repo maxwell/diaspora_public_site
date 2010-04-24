@@ -36,7 +36,7 @@ The future will offer a multitude of amazing new capabilities for Diaspora.  A t
 <ul style="font-style:italic;">
   <li>OpenID</li>
 	<li>Voice-over IP</li>
-	<li>Distributed Encrypted Backups/li>
+	<li>Distributed Encrypted Backups</li>
 	<li>Instant Messaging protocol</li>
 	<li>UDP integration</li>
 </ul>
