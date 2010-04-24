@@ -1,0 +1,17 @@
+---
+layout: post
+title: Kickstarter is up!
+author: maxwell
+---
+h2. {{ page.title }}
+
+p(meta). 15 APRIL 2010 by {{page.author}}
+
+<div class="span-7">
+Hey everyone!  The Kickstarter is finally up for the project.  We have some serious fundraising to do, but we think that with the help of the Kickstarter and Free Software Communities, we can make it happen.  It would be awesome if you checked our our KS page and clicked that big "Back this Project" button.  We think we have some neat rewards to offer, not to mention Diapsora itself will be a great reward for everyone.
+
+Either way, keep us in mind won't you? Maybe even pass this awesome widget on...
+</div>
+
+
+<a href='http://kck.st/9QC2zk'><img border='0' src='http://www.kickstarter.com/projects/196017994/diaspora-the-personally-controlled-do-it-all-distr/widget/card.jpg' /></a>

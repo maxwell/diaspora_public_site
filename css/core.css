@@ -57,6 +57,10 @@ div#alert a {
 	color: #098dd2 ;
 }
 
+.post {
+    border-bottom: #EEE 1px solid;
+    margin-bottom: 35px ;
+}
 
 div.main {
 	margin-bottom: 50px;
@@ -79,7 +83,20 @@ p.meta {
 	color: #ccc;
 	margin-top: 0;
 }
+object {
+padding:18%;
+}
 
+#left {
+    width: 50%;
+    float: left;
+}
+#right{
+    width:50%;
+    float: right;
+    clear:both;
+    
+}
 
 div#footer {
 	margin-top: 30px;

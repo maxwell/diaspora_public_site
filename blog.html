@@ -6,8 +6,12 @@ title: join diaspora -  blog
 
 <h1>the blog</h1>
 <div id="home">  
+  
     {% for post in site.posts %}
+      <div class="post span-15 last">
       {{post.content}}
+      </div>
+      
     {% endfor %}
 	{{paginator.per_page}}  
 	{{paginator.next_page}}
