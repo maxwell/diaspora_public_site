@@ -33,7 +33,7 @@ The future will offer a multitude of amazing new capabilities for Diaspora.  We 
 
 <ul style="font-style:italic;">
 	<li>Voice-over IP</li>
-	<li>Distributed inter-office implementations</li>
+	<li>Distributed Encrypted Backups/li>
 	<li>Instant Messaging protocol</li>
 	<li>UDP integration</li>
 </ul>
