@@ -9,7 +9,7 @@ h1. {{ page.title }}
 
 We are 140-character ideas.  We are the pictures of your cat.  We are blog posts about the economy.  We are the collective knowledge that is Wikipedia.  The internet is a canvas - of which, we paint broad and fine strokes of our lives with.  It is a forward extension of our physical lives; a meta-self comprised of ones and zeros.  We are all that is digital:  If we weren't, the internet wouldn't either.	
 
-h3. currently state.
+h3. current state.
 
 We already have a rudimentary prototype of Diaspora running on our machines, and are working like mad to make it all we can be.  Our current implementations include GPG encryption, scraping Twitter and Flickr, awesome design aesthetics, and the initial stages of connection infrastructure ("friending" other Diaspora instances).
 
