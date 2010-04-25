@@ -166,6 +166,11 @@ ul#people > li {
 ul#people > li + li {
 	margin-left: 40px;
 }
+
+#contact {
+    margin-left: 5em;
+    font-weight: bold;
+}
 div#big_block {
     background-color:#EFEFEF;
     border-bottom:1px solid #DCDCDC;
@@ -206,5 +211,19 @@ div#cc_info {
 
 div#cc_info a {
 	color: #333;
+}
+
+div#other_info {
+	color: #999;
+	font-size: 8px;
+}
+
+div#other_info a {
+	color: #333;
+}
+
+div#more_posts {
+    float:right;
+    margin:10px 20px 0 0;
 }
 

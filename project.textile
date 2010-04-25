@@ -5,6 +5,7 @@ title: join diaspora - the project
 
 h1. {{ page.title }}
 
+
 {%include video.html%}
 
 We are 140-character ideas.  We are the pictures of your cat.  We are blog posts about the economy.  We are the collective knowledge that is Wikipedia.  The internet is a canvas - of which, we paint broad and fine strokes of our lives with.  It is a forward extension of our physical lives; a meta-self comprised of ones and zeros.  We are all that is digital:  If we weren't, the internet wouldn't either.	
@@ -36,9 +37,12 @@ The future will offer a multitude of amazing new capabilities for Diaspora.  A t
 <ul style="font-style:italic;">
   <li>OpenID</li>
 	<li>Voice-over IP</li>
-	<li>Distributed Encrypted Backups/li>
+	<li>Distributed Encrypted Backups</li>
 	<li>Instant Messaging protocol</li>
 	<li>UDP integration</li>
 </ul>
 
 <i><a href="http://www.zombo.com">"The only limit is yourself."</a></i>
+
+<br/>
+<i>for the most up to date info, check out our <a href="http://kck.st/9QC2zk"> kickstarter page</a> or our <a href="/blog.html"> blog </a>

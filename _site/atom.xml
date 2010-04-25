@@ -1,24 +1,35 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
  
- <title>Tom Preston-Werner</title>
- <link href="http://tom.preston-werner.com/atom.xml" rel="self"/>
- <link href="http://tom.preston-werner.com/"/>
- <updated>2010-04-24T02:16:00-04:00</updated>
- <id>http://tom.preston-werner.com/</id>
+ <title>Tr</title>
+ <link href="http://www.joindiaspora.com/atom.xml" rel="self"/>
+ <link href="http://www.joindiaspora.com/"/>
+ <updated>2010-04-25T12:04:54-04:00</updated>
+ <id>http://www.joindiaspora.com/</id>
  <author>
-   <name>Tom Preston-Werner</name>
-   <email>tom@mojombo.com</email>
+   <name>diaspora</name>
+   <email>team@joindiaspora.com</email>
  </author>
 
  
  <entry>
-   <title>Kickstarter is up!</title>
-   <link href="http://tom.preston-werner.com/2010/04/24/10-kickstarter-is-up.html"/>
+   <title>Dan Made Some Awesome Flyers</title>
+   <link href="http://www.joindiaspora.com//2010/04/24/awesome-flyers-are-here.html"/>
    <updated>2010-04-24T00:00:00-04:00</updated>
-   <id>http://tom.preston-werner.com/2010/04/24/10-kickstarter-is-up</id>
+   <id>http://www.joindiaspora.com//2010/04/24/awesome-flyers-are-here</id>
+   <content type="html">&lt;h2&gt;Dan Made Some Awesome Flyers&lt;/h2&gt;
+&lt;p class=&quot;meta&quot;&gt;24 &lt;span class=&quot;caps&quot;&gt;APRIL&lt;/span&gt; 2010 by maxwell&lt;/p&gt;
+&lt;p&gt;Dan just made some radical flyers for Ilya to handout at a meeting tomorrow (&lt;a href=&quot;http://meta.wikimedia.org/wiki/Free_Culture_Alliance_NYC&quot;&gt;its this&lt;/a&gt;).  In case you feel like plastering your hometown with them too, here is a nice image of them.&lt;/p&gt;
+&lt;p&gt;&lt;img width=&quot;98%&quot; src=&quot;images/diaspora_handouts_printout.jpg&quot; alt=&quot;diaspora handouts&quot;/&gt;&lt;/p&gt;</content>
+ </entry>
+ 
+ <entry>
+   <title>Kickstarter is up!</title>
+   <link href="http://www.joindiaspora.com//2010/04/24/10-kickstarter-is-up.html"/>
+   <updated>2010-04-24T00:00:00-04:00</updated>
+   <id>http://www.joindiaspora.com//2010/04/24/10-kickstarter-is-up</id>
    <content type="html">&lt;h2&gt;Kickstarter is up!&lt;/h2&gt;
-&lt;p class=&quot;meta&quot;&gt;15 &lt;span class=&quot;caps&quot;&gt;APRIL&lt;/span&gt; 2010 by maxwell&lt;/p&gt;
+&lt;p class=&quot;meta&quot;&gt;24 &lt;span class=&quot;caps&quot;&gt;APRIL&lt;/span&gt; 2010 by maxwell&lt;/p&gt;
 &lt;div class=&quot;span-7&quot;&gt;
 &lt;p&gt;Hey everyone!  The Kickstarter is finally up for the project.  We have some serious fundraising to do, but we think that with the help of the Kickstarter and Free Software Communities, we can make it happen.  It would be awesome if you checked our our KS page and clicked that big &amp;#8220;Back this Project&amp;#8221; button.  We think we have some neat rewards to offer, not to mention Diapsora itself will be a great reward for everyone.&lt;/p&gt;
 &lt;p&gt;Either way, keep us in mind won&amp;#8217;t you? Maybe even pass this awesome widget on&amp;#8230;&lt;/p&gt;
@@ -28,11 +39,11 @@
  
  <entry>
    <title>A Little More About The Project</title>
-   <link href="http://tom.preston-werner.com/2010/04/21/a-little-more-about-the-project.html"/>
+   <link href="http://www.joindiaspora.com//2010/04/21/a-little-more-about-the-project.html"/>
    <updated>2010-04-21T00:00:00-04:00</updated>
-   <id>http://tom.preston-werner.com/2010/04/21/a-little-more-about-the-project</id>
+   <id>http://www.joindiaspora.com//2010/04/21/a-little-more-about-the-project</id>
    <content type="html">&lt;h2&gt;A Little More About The Project&lt;/h2&gt;
-&lt;p class=&quot;meta&quot;&gt;22 &lt;span class=&quot;caps&quot;&gt;APRIL&lt;/span&gt; 2010 by maxwell&lt;/p&gt;
+&lt;p class=&quot;meta&quot;&gt;21 &lt;span class=&quot;caps&quot;&gt;APRIL&lt;/span&gt; 2010 by maxwell&lt;/p&gt;
 &lt;p&gt;Diaspora aims to be a distributed network, where totally separate computers connect to each other directly, will let us connect without surrendering our privacy.  We call these computers &amp;#8216;seeds&amp;#8217;.  A seed is owned by you, hosted by you, or on a rented server.  Once it has been set up, the seed will aggregate all of your information: your facebook profile, tweets, anything.  We are designing an easily extendable plugin framework for Diaspora, so that whenever newfangled content gets invented, it will be automagically integrated into every seed.&lt;/p&gt;
 &lt;p&gt;Now that you have your information in your seed, it will connect to every service you used to have for you.  For example, your seed will keep pulling tweets and you will still be able to see your Facebook newsfeed.  In fact, Diaspora will make those services better!  Upload an image to Flickr and your seed can automatically generate a tweet from the caption and link.  Social networking will just get better when you have control over your data.&lt;/p&gt;
 &lt;p&gt;A seed will not just be all your existing networks put together, though.  Decentralizing lets us reconstruct our “social graphs” so that they belong to us. Our real social lives do not have central managers, and our virtual lives do not need them.  Friend another seed and the two of you can synchronize over a direct and secure connection instead of through a superfluous hub.  Encryption (privacy nerds: we’re using &lt;span class=&quot;caps&quot;&gt;GPG&lt;/span&gt;) will ensure that no matter what kind of content is being transferred, you can share privately. Eventually, today&amp;#8217;s hubs could be almost entirely replaced by a decentralized network of truly personal websites.&lt;/p&gt;
@@ -41,9 +52,9 @@
  
  <entry>
    <title>reason number x</title>
-   <link href="http://tom.preston-werner.com/2010/04/17/links-for-the-day.html"/>
+   <link href="http://www.joindiaspora.com//2010/04/17/links-for-the-day.html"/>
    <updated>2010-04-17T00:00:00-04:00</updated>
-   <id>http://tom.preston-werner.com/2010/04/17/links-for-the-day</id>
+   <id>http://www.joindiaspora.com//2010/04/17/links-for-the-day</id>
    <content type="html">&lt;h2&gt;reason number x&lt;/h2&gt;
 &lt;p class=&quot;meta&quot;&gt;17 &lt;span class=&quot;caps&quot;&gt;APRIL&lt;/span&gt; 2010 by maxwell&lt;/p&gt;
 &lt;p&gt;Every few days, we will post a few interesting links we feel somehow relates confirms why we all need diasproa now more than ever.&lt;/p&gt;</content>
