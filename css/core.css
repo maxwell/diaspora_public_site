@@ -167,8 +167,8 @@ ul#people > li + li {
 	margin-left: 40px;
 }
 
-#contact {
-    margin-left: 5em;
+.contact {
+    text-align: center;
     font-weight: bold;
 }
 div#big_block {
@@ -190,6 +190,7 @@ div#big_block p {
 	letter-spacing: -0.05em;
 	padding: 10px;
 	margin:0 auto;
+	padding-bottom: 5px;
 }
 div#big_block span.inside {
     font-size: 20px;
@@ -200,6 +201,13 @@ div#big_block span.inside {
 div#big_block span.our_def {
     margin-left:20px;
     display:block;
+}
+
+#learn_more {
+    position: relative;
+    float: right;
+    font-size: 12px;
+    padding: 10px 10px 0 5px;
 }
 
 

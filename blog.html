@@ -10,6 +10,7 @@ title: join diaspora -  blog
     {% for post in site.posts %}
       <div class="post span-15 last">
       {{post.content}}
+      <a href="{{post.url}}">permalink</a>
       </div>
     {% endfor %}
     
