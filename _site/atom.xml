@@ -4,7 +4,7 @@
  <title>Tr</title>
  <link href="http://www.joindiaspora.com/atom.xml" rel="self"/>
  <link href="http://www.joindiaspora.com/"/>
- <updated>2010-04-26T16:39:42-04:00</updated>
+ <updated>2010-04-26T23:34:10-04:00</updated>
  <id>http://www.joindiaspora.com/</id>
  <author>
    <name>diaspora</name>
@@ -24,6 +24,37 @@
 &lt;p&gt;Either way, keep us in mind won&amp;#8217;t you? Maybe even pass this awesome widget on&amp;#8230;&lt;/p&gt;
 &lt;/div&gt;
 &lt;p&gt;&lt;a href='http://kck.st/9QC2zk'&gt;&lt;img border='0' src='http://www.kickstarter.com/projects/196017994/diaspora-the-personally-controlled-do-it-all-distr/widget/card.jpg' /&gt;&lt;/a&gt;&lt;/p&gt;</content>
+ </entry>
+ 
+ <entry>
+   <title>Kickstarter Pitch</title>
+   <link href="http://www.joindiaspora.com//2010/04/27/kickstarter-pitch.html"/>
+   <updated>2010-04-27T00:00:00-04:00</updated>
+   <id>http://www.joindiaspora.com//2010/04/27/kickstarter-pitch</id>
+   <content type="html">&lt;h2&gt;Kickstarter Pitch&lt;/h2&gt;
+&lt;p class=&quot;meta&quot;&gt;14 &lt;span class=&quot;caps&quot;&gt;APRIL&lt;/span&gt; 2010 by maxwell&lt;/p&gt;
+&lt;p&gt;&lt;i&gt;This is taken from our &lt;a href=&quot;http://kck.st/9QC2zk&quot;&gt;kickstarter&lt;/a&gt;.  You should check it out for more info.&lt;/i&gt;&lt;/p&gt;
+&lt;h4&gt;&lt;b&gt;&lt;a href=&quot;http://www.joindiaspora.com&quot;&gt;Diaspora&lt;/a&gt; &amp;#8211; the privacy aware, personally controlled, do-it-all distributed &lt;a href=&quot;http://en.wikipedia.org/wiki/Open_source&quot;&gt;open source&lt;/a&gt; social network&lt;/b&gt;&lt;/h4&gt; 
+&lt;p&gt;We are four talented young programmers from &lt;a href=&quot;http://cims.nyu.edu&quot;&gt;NYU’s Courant Institute&lt;/a&gt; trying to raise money so we can spend the summer building Diaspora; an open source personal web server that will put individuals in control of their data.&lt;/p&gt;
+&lt;b&gt;What is it?&lt;/b&gt;
+&lt;p&gt;Enter your Diaspora “seed,” a personal web server that stores all of your information and shares it with your friends. Diaspora knows how to securely share (using &lt;a href=&quot;http://en.wikipedia.org/wiki/GNU_Privacy_Guard&quot;&gt;&lt;span class=&quot;caps&quot;&gt;GPG&lt;/span&gt;&lt;/a&gt;) your pictures, videos, and more. When you have a Diaspora seed of your own, you own your social graph, you have access to your information however you want, whenever you want, and you have full control of your online identity. Once we have built a solid foundation, we will make Diaspora easy to extend to facilitate any type of communication, and the possibilities will be endless.&lt;/p&gt;
+&lt;p&gt;For a little more detailed explanation, checkout &lt;a href=&quot;http://www.joindiaspora.com/2010/04/21/a-little-more-about-the-project.html&quot;&gt;this blog post&lt;/a&gt;.&lt;/p&gt;
+&lt;b&gt;What is the project about?&lt;/b&gt;
+&lt;p&gt;We believe that privacy and connectedness do not have to be mutually exclusive. With Diaspora, we are reclaiming our data, securing our social connections, and making it easy to share on your own terms. We think we can replace today&amp;#8217;s centralized social web with a more secure and convenient decentralized network. Diaspora will be easy to use, and it will be centered on you instead of a faceless hub.&lt;/p&gt;
+&lt;b&gt;Why are we building it?&lt;/b&gt;
+&lt;p&gt;This February, &lt;a href=&quot;http://en.wikipedia.org/wiki/Eben_Moglen&quot;&gt;Eben Moglen&lt;/a&gt;, Columbia law professor and author of the latest &lt;span class=&quot;caps&quot;&gt;GPL&lt;/span&gt;, gave a talk on &lt;a href=&quot;http://www.youtube.com/watch?v=QOEMv0S8AcA&quot;&gt;Internet privacy.&lt;/a&gt; As more and more of our lives and identities become digitized, Moglen explains, the convenience of putting all of our information in the hands of companies on “the cloud” is training us to casually sacrifice our privacy and fragment our online identities.&lt;/p&gt;
+&lt;p&gt;But why is centralization so much more convenient, even in an age where relatively powerful computers are ubiquitous? Why is there no good alternative to centralized services that, as Moglen pointed out, comes with &amp;quot;spying for free?” Why do we keep our personal data in a thousand places? We have the technology, someone just needs to take the time to figure out how we can communicate smoothly and intuitively, without the hidden costs of “the cloud”. As good programmers, when we noticed that the application we need doesn&amp;#8217;t exist, we set out to fill the hole in our digital lives.&lt;/p&gt;
+&lt;b&gt;Why do we need money?&lt;/b&gt;
+&lt;p&gt;We have a plan, &lt;a href=&quot;http://joindiaspora.com/project.html&quot;&gt;a bunch of ideas&lt;/a&gt; and the programming chops to build Diaspora. What we need is the time it takes to iron out a powerful, secure, and elegant piece of software. Daniel, Ilya, Raphael, and Maxwell are all ready to trade our internships and summer jobs for three months totally focused on building Diaspora. We want to write code all the time, everyday. Once we have made our first solid iteration, we are going to release our code as &lt;a href=&quot;http://en.wikipedia.org/wiki/Free_software&quot;&gt;free software&lt;/a&gt; so everyone can make Diaspora even better. $10,000 buys the software for everyone who wants to use it, forever. We think it can change the way people communicate and empower individuals to permanently take control of their online identities.&lt;/p&gt;
+&lt;p&gt;After we open source our source code, we hope to also provide a paid turnkey hosted service in the vein of &lt;a href=&quot;http://www.wordpress.com&quot;&gt;Wordpress.com&lt;/a&gt; to make it easy for people who want to use Diaspora, but don’t want to deal with the fuss of setting it up.* We will make it easy to export your data and configuration, so if you decide you want to graduate and host your seed yourself, you are free to do so at anytime.&lt;/p&gt;
+&lt;p&gt;Our goal is for everyone to have full control over their data and to empower people in to become responsible, secure, and social Internet dwellers. We believe offering this service will be helpful to non-technical users who are also worried about their data and privacy online.&lt;/p&gt;
+&lt;b&gt;Our Promise.&lt;/b&gt;
+&lt;p&gt;We promise to you that Diaspora will be &lt;a href=&quot;http://en.wikipedia.org/wiki/Affero_General_Public_License&quot;&gt;aGPL&lt;/a&gt; software which will released at the end of the summer.&lt;/p&gt;
+&lt;b&gt;Want more info?&lt;/b&gt;
+&lt;p&gt;Check out our website for project updates, blog posts, pictures, and plans. More information is being added every day! &lt;a href=&quot;http://www.joindiaspora.com&quot;&gt;www.joindiaspora.com&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Check out more videos &lt;a href=&quot;http://www.youtube.com/user/mbs348&quot;&gt;here.&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Want get Diaspora updates via email? &lt;a href=&quot;http://spreadsheets.google.com/viewform?key=0AoQmncVLKXRBdFo1N3o4R3lrWkszX0dIQm9vemp5TWc&amp;amp;hl=en&quot;&gt;Sign up here!&lt;/a&gt; &lt;br /&gt;
+*this service will be available a few months after the end of the summer.&lt;/p&gt;</content>
  </entry>
  
  <entry>
