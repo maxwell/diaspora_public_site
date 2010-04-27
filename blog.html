@@ -3,20 +3,18 @@ layout: default
 title: join diaspora -  blog
 ---
 {%include alert.html%}
-
 <h1>the blog</h1>
 <div id="home">  
-  
-    {% for post in site.posts %}
-      <div class="post span-15 last">
-      {{post.content}}
-      <a href="{{post.url}}">permalink</a>
-      </div>
-    {% endfor %}
-    
-    
-  <!-- hello{{paginator.per_page}}  
-  "hello":{{paginator.next_page}}
-  "back":{{paginator.previous_page}} -->
+	{% for post in site.posts %}
+	<div class="post span-15 last">
+		<div class="twitter_button">
+			<script type="text/javascript">
+				tweetmeme_url = "http://joindiaspora.com{{ post.url }}";
+			</script>
+			<script type="text/javascript" src="http://tweetmeme.com/i/scripts/button.js"></script>
+		</div>
+		{{post.content}}
+		<a href="{{post.url}}">permalink</a>
+	</div>
+	{% endfor %}
 </div>
-  

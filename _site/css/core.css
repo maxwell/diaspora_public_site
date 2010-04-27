@@ -60,6 +60,7 @@ div#alert a {
 .post {
     border-bottom: #EEE 1px solid;
     margin-bottom: 35px ;
+	position: relative;
 }
 
 div.main {
@@ -235,3 +236,9 @@ div#more_posts {
     margin:10px 20px 0 0;
 }
 
+div.twitter_button {
+	width: 100%;
+	text-align: right;
+	position: absolute;
+	top: 10px;
+}
