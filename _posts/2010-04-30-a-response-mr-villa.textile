@@ -1,0 +1,93 @@
+---
+layout: post
+title: Questions From Luis Villa
+author: maxwell
+---
+h2. {{ page.title }}
+
+p(meta). 30 APRIL 2010 by {{page.author}}
+
+
+p. Tuesday, Luis Villa "blogged about us":http://tieguy.org/blog/2010/04/27/questions-for-the-diaspora/ and asked us some questions.  We really appreciated him taking the time to offer us his constructive feedback, so thanks Luis.  It is nice to know we have some awesome people looking out for us.  We've taken a couple days to try to answer well, and of course, we'll think about any suggestions and elaborate on whatever questions are left open. 
+
+<hr>
+<h4>What do you think are the most important features a social network should have? How would you prioritize them? Do you plan to Build Less  or go big? If building less, what is the minimal set of features you can get away with?</h4>
+    
+p. We plan to "build less."  These are the features which we aim to complete first:
+
+p. 1. A good secure protocol, encrypted at every leg, including a specification for a lightweight, probably HTTPS, set of routes.  We see all of this communication happening between two diaspora servers, rather than strictly between peers.  We realize there is the problem with polling with this model, but we think there are several tricks worth trying which all have their relative pros and cons: PubSub (fast and easy, requires some level of centralization), querying friends servers from the browser side and posting responses back (requires browser side decryption) to name a couple.  Alternatively, we are considering going with XMPP altogether due to the ability to be able to push content between nodes, but we need to research it further to see if it is something we would want to implement.
+
+p. 2.  A datastore and corresponding interface that can store all of your stuff in one place. MongoDB is what we are looking at for V1, but  the redundancy of TahoeFS is intriguing(as well as serving a slightly different purpose).
+
+p. 3. A clear extension framework.   Diaspora will be service-agnostic and we will need to make it easy to import from and export to any format/web service.  It is also our goal to make Diaspora as content-agnostic as possible, by providing abstract data types and an easily extended UI so that whatever new content people want to store and share can be integrated without re-rewriting parts of the whole application stack.
+
+p. 4. Be your own OpenID provider.  Having a single identity across lots of services is great, but why trust a web service to hold it?  Once we are the keepers of our own data, we can also selectively allow services access to it through Oauth.  
+
+p. What will come out of this summer is this basic framework, well tested and documented.  We will write backend interfaces for some services, but I think the community will be able outperform us in bandwidth and quality on this one.  It is fundamental to the success of the project that the code be 100% free, or the project will fail.  End of story.
+
+<hr>
+<h4>DiSo is now two-plus years old. Any ideas why it didn’t get off the ground? Bonus points: same question for Mugshot.</h4>
+I think that “Getting Real”'s concept of “Failing Fast" applies here.  It seems to us that all of the previous attempts at solving the problem are trying to create the perfect solution in the first version.  We realize that hard problems do not have immediate good answers.  One of the best things I learned in school was taught to me by the fantastic professor and puzzle master "Dennis Shasha":http://cs.nyu.edu/cs/faculty/shasha/.  To paraphrase his “heuristic for solving hard problems”, “when dealing with a difficult problem, build something that satisfies the problem first, then worry about making your solution elegant, bullet proof, and faster later.”  We have seen a lot of projects trying to be everything to everyone.  They become godzilla specs, with features to satisfy everyone involved.   So much time is spent in planning and arguing about implementation details, that A) nothing ever actually get coded and experimented with B) if any new problem is somehow discovered in said gargantuan plan, it goes back to the drawing board, and the fundamental problem does not get solved.
+
+The problem itself is not what server architecture, or what language we code in, or even what standards what we support.  While these questions are very important in making any solution better and more robust, they are all implementation details. The core problem is that users who want to share with their friends have <b>no</b> better alternative.  We think any solution which addresses this problem is a step in the right direction.  You "said yourself":http://identi.ca/notice/30119960 that you have seen vaporware projects in this space in the past, and we have too. We think a project focused getting something out there should be priority #1.  We need to try a bunch of approaches, and see which ones take off, and we need to do it quickly.  We are not going to support every service under the sun from day one, and we are going to have to accept certain problems and limitations.  Ultimately, all we want is to release something coherent, something we can get constructive feedback so we can iterate again, and deal with problems as they arise, rather than trying to plan around all of them.
+
+     To answer directly,  I am pretty sure DISO failed because:
+     
+1)	They tried to add on to Wordpress, a project which was not designed from the ground up to be a distributed network.
+ 
+2)	(a guess)  they quickly tried to support all sort of features without building some sort of common infrastructure before trying to add functionality.
+
+However, they did spawn “activity streams,” which seems like a promising protocol are interested in supporting.)  I had no awareness of Mugshot before you pointed it out, so I won't yank around your chain and make something up.
+
+
+<hr>
+<h4>What standards, if any, do you plan to work with/build on? (just to throw out a couple, all of which have strengths and flaws to consider: webfinger, oauth, xauth, the buzz APIs.)</h4>
+
+<h4>What other services, if any, do you want to interoperate with? why? how will you prioritize?</h4>
+
+	So far I mentioned Oauth, OpenID, and ActivityStreams.  We want to support content types out of the box, rather than individual services.  We have a friend working on the "Salmon Protocol":http://www.salmon-protocol.org/ , and we think Diaspora could work really well with that, and things like PubStub also may be useful.  We are also talking with people involved with the “good part” of the Open Graph Protocol, as well as the fledgling OpenLike.  Webfinger seems like it would be simple enough to integrate and perhaps structure our profile model around.  Also, we are getting lots of helpful feedback about OStatus.  Once our extension framework is fairly final, we will be building interfaces to services and standards, and we will help out anyone who wants to build an interface.
+
+<hr>    
+<h4>Any other Libre code bases in the same space you’d like to work with? GNU Social? StatusNet? What ones are you aware of, and why will you/won’t you build on/work with those?</h4>
+
+We have been keeping track of "daisycha.in/GNUSocial":http://groups.fsf.org/wiki/Group:GNU_Social and hope to solve some of our common problems on their lists.  We know "status.net":http://status.net from our time at FCNYU also have looked at some other things, including:
+"the mine project":http://themineproject.org/about/
+"onesocialweb":http://onesocialweb.org/
+"noserub":http://noserub.com/
+and we are huge fans of the "lorea.cc":http://lorea.cc website...  :)
+
+We will be constantly sharing our ideas, and 100% of our code at the end of the summer.  Some of our common problems may spawn new libraries which will be also be free. The protocol discussion is important to have with the community, and we would like to see it be as lightweight and flexible as possible.  We want to be an independent code base because the four of us work fast and well as a team.  Our arguments are short and solved by someone writing better code.  Plus, maybe we are just too in love with our tools, but we love Git and Ruby. We can try things quickly, there are great web libraries, and more and more hosts are providing support for Rails apps. 
+    
+<hr>    
+<h4>Would a smarter client (like Mozilla Contacts) be useful to you? If so, how?</h4>
+
+I had not considered something like Mozilla Contacts until I saw it earlier this week.  Our initial thoughts were that we would not want to tie one's accessibility to a browser.  We wanted a user's Diaspora seed to take care of all of the hard work server-side, because you should be able to access all of your information from any computer or device connected to the web, and we want to try and provide an experience to the user as close to what they are used to as possible.  We  have thrown around the idea of having the option of doing decryption browser side via some sort of Browser Add-on, and we perhaps it could also be used with some sort of “smarter client”.  This would come in later versions. 
+
+<hr>
+<h4>What is the strategy to get to a critical mass of users (or avoid having to get a critical mass?)</h4>
+
+We think that there is a solid contingent of people who would want to host their own node.  How many people host their own blog?  That’s not certainly Facebook numbers, but once we get that first kernel of people using it, we think people will see that having (at least) a copy of your data which you can apply to anything is a really empowering proposition, and not just in a social networking context.  We think in the future (after the summer), we will work on an easy installation, but for right now, we want to make this software because we want to use it, there is at least a good handful of others who do too.  Certainly the interwebs have been aflutter about this idea for awhile as well, and I think people would be willing to give a crack at something that works that isn't Facebook.
+
+
+<hr>
+<h4>What are your three favorite books on software development? three favorite essays? what about on design?</h4>
+
+Is this one of the questions where if I don’t say “Kernighan and Ritchie,” “Getting Real”, “Mythical Man-moth,” “Don’t Make Me Think!” or something like that, you will disapprove? :)  We like all of those books plenty.  In all honesty, much of what we read is random blogs we find on the Internet.  Certainly not all of it is of perfect and high quality, but I think since we all love to code, we always consuming some sort of writing about design patterns, development, and cool new testing ideas.  Regular devs have great ideas about code every day, and we like getting a variety of opinions. 
+(Worth noting that actually if you wanted to share YOUR favorite books/essays/blog posts, we would love to check them out.  We certainly haven't been around as long as you old dudes, so I am sure there is much you could share with us, and be totally stoked to get some suggestions.)
+	
+	
+	To actually answer your question: Not to sound like a Ruby slog, but I actually do love “The Ruby Programming Language”  written by it’s creator Yukihiro Matsumoto.  One of my favorite things about the language is how Matz included so many different idioms on how to do the same thing; that way, you can pick the subset of the Ruby language that feels natural to you.  In the book, I love seeing how “natural” feels to Matz, and how he explains that this is only “his” way to write Ruby, and you should find your own way.  "DHH found his.":http://rubyonrails.org  Even better,  Ilya and Maxwell got the chance to meet him three weeks ago for dinner in Brooklyn.  We bought him some "arepas":http://www.caracasarepabar.com/index_2.php. They were delicious.
+
+<hr>
+<h4>Finally, we wanted to touch on your final point about being a pragmatic.</h4>
+
+p. We think we are pretty pragmatic guys too(maybe not quite tieguys), but there is something we just don't quite understand.
+
+p. You say you don’t have the time or money to work on such a project, one you yourself identify as important. That makes tons of sense to us.  There are plenty of things we would like to do and we don't have the time for, and we are not even married or have jobs.  
+
+p. If that is the case however, what would be un-pragmatic about giving four excited dudes who spent their last semester of school thinking about a problem you are "worried-about-but-can't-deal-with-now," twenty bucks so they can take an honest crack at solving it? :)
+
+We hope that this cleared up some of your questions Luis.  Thank you again, and we look forward to your continued constructive feedback.
+
+- Maxwell, Daniel, Raphael, and Ilya
+	
