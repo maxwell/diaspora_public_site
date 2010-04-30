@@ -4,7 +4,7 @@
  <title>Tr</title>
  <link href="http://www.joindiaspora.com/atom.xml" rel="self"/>
  <link href="http://www.joindiaspora.com/"/>
- <updated>2010-04-30T09:46:08-04:00</updated>
+ <updated>2010-04-30T10:11:28-04:00</updated>
  <id>http://www.joindiaspora.com/</id>
  <author>
    <name>diaspora</name>
@@ -13,15 +13,17 @@
 
  
  <entry>
-   <title>Kickstarter is up!</title>
-   <link href="http://www.joindiaspora.com//2011/04/24/10-kickstarter-is-up.html"/>
-   <updated>2011-04-24T00:00:00-04:00</updated>
-   <id>http://www.joindiaspora.com//2011/04/24/10-kickstarter-is-up</id>
-   <content type="html">&lt;h2&gt;Kickstarter is up!&lt;/h2&gt;
-&lt;p class=&quot;meta&quot;&gt;24 &lt;span class=&quot;caps&quot;&gt;APRIL&lt;/span&gt; 2010 by maxwell&lt;/p&gt;
+   <title>We Made It Half Way!</title>
+   <link href="http://www.joindiaspora.com//2011/04/30/we-made-it-half-way.html"/>
+   <updated>2011-04-30T00:00:00-04:00</updated>
+   <id>http://www.joindiaspora.com//2011/04/30/we-made-it-half-way</id>
+   <content type="html">&lt;h2&gt;We Made It Half Way!&lt;/h2&gt;
+&lt;p class=&quot;meta&quot;&gt;30 &lt;span class=&quot;caps&quot;&gt;APRIL&lt;/span&gt; 2010 by maxwell&lt;/p&gt;
 &lt;div class=&quot;span-7&quot;&gt;
-&lt;p&gt;Hey everyone!  The Kickstarter is finally up for the project.  We have some serious fundraising to do, but we think that with the help of the Kickstarter and Free Software Communities, we can make it happen.  It would be awesome if you checked our our KS page and clicked that big &amp;#8220;Back this Project&amp;#8221; button.  We think we have some neat rewards to offer, not to mention Diaspora itself will be a great reward for everyone.&lt;/p&gt;
-&lt;p&gt;Either way, keep us in mind won&amp;#8217;t you? Maybe even pass this awesome widget on&amp;#8230;&lt;/p&gt;
+&lt;p&gt;Wow! After just one week, we are now half-way to our goal!  It has been a really crazy ride for us, &lt;a href=&quot;http://twitter.com/starkness/status/13046623398&quot;&gt;the support&lt;/a&gt; and &lt;a href=&quot;http://twitter.com/hult/status/13077480233&quot;&gt;excitement&lt;/a&gt; we have been getting is absolutly &lt;a href=&quot;http://twitter.com/brokep/status/13078993912&quot;&gt;unreal&lt;/a&gt;.  However, there is still half way to go!  We (the team) are still thinking of new ways we can reach people, and we certainly won&amp;#8217;t stop working hard to make sure we achieve our goal.  So many of you have reached out to us to lend a hand, and if you have been helping us out, or even just retweeting our stuff, thank you so much!  We have a couple of fun things we thought we could do for all of you next week, so be sure to keep a look out another post sometime soon for more info about that.  It has been great following many of you on &lt;a href=&quot;http://twitter.com/joindiaspora&quot;&gt;Twitter&lt;/a&gt; to see that so many people are excited about these problems as we are.  Nice work!&lt;/p&gt;
+&lt;p&gt;Thanks to all for being so awesome, we can&amp;#8217;t wait till our finals are over so we can get crackin&amp;#8217; on Diaspora!&lt;/p&gt;
+&lt;p&gt;- maxwell&lt;/p&gt;
+&lt;p&gt;Also, for a slighly more technical update, &lt;a href=&quot;http://joindiaspora.com/2010/04/30/a-response-to-mr-villa.html&quot;&gt;here&lt;/a&gt; is our response to Mozilla&amp;#8217;s Luis Villa.&lt;/p&gt;
 &lt;/div&gt;
 &lt;p&gt;&lt;a href='http://kck.st/9QC2zk'&gt;&lt;img border='0' src='http://www.kickstarter.com/projects/196017994/diaspora-the-personally-controlled-do-it-all-distr/widget/card.jpg' /&gt;&lt;/a&gt;&lt;/p&gt;</content>
  </entry>
@@ -82,7 +84,8 @@ and we are huge fans of the &lt;a href=&quot;http://lorea.cc&quot;&gt;lorea.cc&l
 &lt;p&gt;You say you don’t have the time or money to work on such a project, one you yourself identify as important. That makes tons of sense to us.  There are plenty of things we would like to do and we don&amp;#8217;t have the time for, and we are not even married or have jobs.&lt;/p&gt;
 &lt;p&gt;If that is the case however, what would be un-pragmatic about giving four excited dudes who spent their last semester of school thinking about a problem you are &amp;#8220;worried-about-but-can&amp;#8217;t-deal-with-now,&amp;#8221; twenty bucks so they can take an honest crack at solving it? :)&lt;/p&gt;
 &lt;p&gt;We hope that this cleared up some of your questions Luis.  Thank you again, and we look forward to your continued constructive feedback.&lt;/p&gt;
-&lt;p&gt;- Maxwell, Daniel, Raphael, and Ilya&lt;/p&gt;</content>
+&lt;p&gt;- Maxwell, Daniel, Raphael, and Ilya&lt;/p&gt;
+&lt;p&gt;&lt;i&gt;&lt;span class=&quot;caps&quot;&gt;EDIT&lt;/span&gt;: &lt;a href=&quot;http://github.com/maxwell/diaspora_public_site/commit/6748cff913f7237aee5e16877b6a25abeec08258&quot;&gt;9:47am &lt;span class=&quot;caps&quot;&gt;EST&lt;/span&gt; 04/30/10&amp;#8230;small typo changes&lt;/a&gt;&lt;/i&gt;&lt;/p&gt;</content>
  </entry>
  
  <entry>
@@ -125,6 +128,20 @@ and we are huge fans of the &lt;a href=&quot;http://lorea.cc&quot;&gt;lorea.cc&l
 &lt;p class=&quot;meta&quot;&gt;24 &lt;span class=&quot;caps&quot;&gt;APRIL&lt;/span&gt; 2010 by maxwell&lt;/p&gt;
 &lt;p&gt;Dan just made some radical flyers for Ilya to handout at a meeting tomorrow.  In case you feel like plastering your hometown with them too, here is a nice image of them.&lt;/p&gt;
 &lt;p&gt;&lt;img width=&quot;98%&quot; src=&quot;/images/diaspora_handouts_printout.png&quot; alt=&quot;diaspora handouts&quot;/&gt;&lt;/p&gt;</content>
+ </entry>
+ 
+ <entry>
+   <title>Kickstarter is up!</title>
+   <link href="http://www.joindiaspora.com//2010/04/24/10-kickstarter-is-up.html"/>
+   <updated>2010-04-24T00:00:00-04:00</updated>
+   <id>http://www.joindiaspora.com//2010/04/24/10-kickstarter-is-up</id>
+   <content type="html">&lt;h2&gt;Kickstarter is up!&lt;/h2&gt;
+&lt;p class=&quot;meta&quot;&gt;24 &lt;span class=&quot;caps&quot;&gt;APRIL&lt;/span&gt; 2010 by maxwell&lt;/p&gt;
+&lt;div class=&quot;span-7&quot;&gt;
+&lt;p&gt;Hey everyone!  The Kickstarter is finally up for the project.  We have some serious fundraising to do, but we think that with the help of the Kickstarter and Free Software Communities, we can make it happen.  It would be awesome if you checked our our KS page and clicked that big &amp;#8220;Back this Project&amp;#8221; button.  We think we have some neat rewards to offer, not to mention Diaspora itself will be a great reward for everyone.&lt;/p&gt;
+&lt;p&gt;Either way, keep us in mind won&amp;#8217;t you? Maybe even pass this awesome widget on&amp;#8230;&lt;/p&gt;
+&lt;/div&gt;
+&lt;p&gt;&lt;a href='http://kck.st/9QC2zk'&gt;&lt;img border='0' src='http://www.kickstarter.com/projects/196017994/diaspora-the-personally-controlled-do-it-all-distr/widget/card.jpg' /&gt;&lt;/a&gt;&lt;/p&gt;</content>
  </entry>
  
  <entry>
