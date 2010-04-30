@@ -94,4 +94,5 @@ p. If that is the case however, what would be un-pragmatic about giving four exc
 We hope that this cleared up some of your questions Luis.  Thank you again, and we look forward to your continued constructive feedback.
 
 - Maxwell, Daniel, Raphael, and Ilya
-	
+
+<i>EDIT: "9:47am EST 04/30/10...small typo changes":http://github.com/maxwell/diaspora_public_site/commit/6748cff913f7237aee5e16877b6a25abeec08258</i>
