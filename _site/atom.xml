@@ -4,7 +4,7 @@
  <title>Tr</title>
  <link href="http://www.joindiaspora.com/atom.xml" rel="self"/>
  <link href="http://www.joindiaspora.com/"/>
- <updated>2010-04-30T10:35:37-04:00</updated>
+ <updated>2010-04-30T15:25:42-04:00</updated>
  <id>http://www.joindiaspora.com/</id>
  <author>
    <name>diaspora</name>
@@ -26,7 +26,8 @@
 &lt;p&gt;- maxwell&lt;/p&gt;
 &lt;p&gt;Also, for a slightly more technical update, &lt;a href=&quot;http://joindiaspora.com/2010/04/30/a-response-to-mr-villa.html&quot;&gt;here&lt;/a&gt; is our response to Mozilla&amp;#8217;s Luis Villa.&lt;/p&gt;
 &lt;/div&gt;
-&lt;p&gt;&lt;a href='http://kck.st/9QC2zk'&gt;&lt;img border='0' src='http://www.kickstarter.com/projects/196017994/diaspora-the-personally-controlled-do-it-all-distr/widget/card.jpg' /&gt;&lt;/a&gt;&lt;/p&gt;</content>
+&lt;p&gt;&lt;a href='http://kck.st/9QC2zk'&gt;&lt;img border='0' src='http://www.kickstarter.com/projects/196017994/diaspora-the-personally-controlled-do-it-all-distr/widget/card.jpg' /&gt;&lt;/a&gt;&lt;br /&gt;
+&lt;br style=&quot;clear:both&quot;&gt;&lt;/p&gt;</content>
  </entry>
  
  <entry>
@@ -55,7 +56,7 @@ To answer directly,  I am pretty sure &lt;span class=&quot;caps&quot;&gt;DISO&lt
 
 &lt;p&gt;1)	They tried to add on to Wordpress, a project which was not designed from the ground up to be a distributed network.&lt;/p&gt;
 &lt;p&gt;2)	(a guess)  they quickly tried to support all sort of features without building some sort of common infrastructure before trying to add functionality.&lt;/p&gt;
-&lt;p&gt;However, they did spawn “activity streams,” which seems like a promising protocol are interested in supporting. I had no awareness of Mugshot before you pointed it out, so I won&amp;#8217;t yank around your chain and make something up.&lt;/p&gt;
+&lt;p&gt;However, they did spawn “activity streams,” which seems like a promising protocol we are interested in supporting. I had no awareness of Mugshot before you pointed it out, so I won&amp;#8217;t yank around your chain and make something up.&lt;/p&gt;
 &lt;hr&gt;
 &lt;h4&gt;What standards, if any, do you plan to work with/build on? (just to throw out a couple, all of which have strengths and flaws to consider: webfinger, oauth, xauth, the buzz APIs.)&lt;/h4&gt;
 &lt;h4&gt;What other services, if any, do you want to interoperate with? why? how will you prioritize?&lt;/h4&gt;
@@ -70,7 +71,7 @@ and we are huge fans of the &lt;a href=&quot;http://lorea.cc&quot;&gt;lorea.cc&l
 &lt;p&gt;We will be constantly sharing our ideas, and 100% of our code at the end of the summer.  Some of our common problems may spawn new libraries which will be also be free. The protocol discussion is important to have with the community, and we would like to see it be as lightweight and flexible as possible.  We want to be an independent code base because the four of us work fast and well as a team.  Our arguments are short and solved by someone writing better code.  Plus, maybe we are just too in love with our tools, but we love Git and Ruby. We can try things quickly, there are great web libraries, and more and more hosts are providing support for Rails apps.&lt;/p&gt;
 &lt;hr&gt;
 &lt;h4&gt;Would a smarter client (like Mozilla Contacts) be useful to you? If so, how?&lt;/h4&gt;
-&lt;p&gt;I had not considered something like Mozilla Contacts until I saw it earlier this week.  Our initial thoughts were that we would not want to tie one&amp;#8217;s accessibility to a browser.  We wanted a user&amp;#8217;s Diaspora seed to take care of all of the hard work server-side, because you should be able to access all of your information from any computer or device connected to the web, and we want to try and provide an experience to the user as close to what they are used to as possible.  We  have thrown around the idea of having the option of doing decryption browser side via some sort of Browser Add-on, and we perhaps it could also be used with some sort of “smarter client”.  This would come in later versions.&lt;/p&gt;
+&lt;p&gt;I had not considered something like Mozilla Contacts until I saw it earlier this week.  Our initial thoughts were that we would not want to tie one&amp;#8217;s accessibility to a browser.  We wanted a user&amp;#8217;s Diaspora seed to take care of all of the hard work server-side, because you should be able to access all of your information from any computer or device connected to the web, and we want to try and provide an experience to the user as close to what they are used to as possible.  We  have thrown around the idea of having the option of doing decryption browser side via some sort of browser add-on, and we perhaps it could also be used with some sort of “smarter client”.  This would come in later versions.&lt;/p&gt;
 &lt;hr&gt;
 &lt;h4&gt;What is the strategy to get to a critical mass of users (or avoid having to get a critical mass?)&lt;/h4&gt;
 &lt;p&gt;We think that there is a solid contingent of people who would want to host their own node.  How many people host their own blog?  That’s not certainly Facebook numbers, but once we get that first kernel of people using it, we think people will see that having (at least) a copy of your data which you can apply to anything is a really empowering proposition, and not just in a social networking context.  We think in the future (after the summer), we will work on an easy installation, but for right now, we want to make this software because we want to use it, there is at least a good handful of others who do too.  Certainly the interwebs have been aflutter about this idea for awhile as well, and I think people would be willing to give a crack at something that works that isn&amp;#8217;t Facebook.&lt;/p&gt;
@@ -78,7 +79,7 @@ and we are huge fans of the &lt;a href=&quot;http://lorea.cc&quot;&gt;lorea.cc&l
 &lt;h4&gt;What are your three favorite books on software development? three favorite essays? what about on design?&lt;/h4&gt;
 &lt;p&gt;Is this one of the questions where if I don’t say “Kernighan and Ritchie,” “Getting Real”, “Mythical Man-moth,” “Don’t Make Me Think!” or something like that, you will disapprove? :)  We like all of those books plenty.  In all honesty, much of what we read is random blogs we find on the Internet.  Certainly not all of it is of perfect and high quality, but I think since we all love to code, we always consuming some sort of writing about design patterns, development, and cool new testing ideas.  Regular devs have great ideas about code every day, and we like getting a variety of opinions. &lt;br /&gt;
 (Worth noting that actually if you wanted to share &lt;span class=&quot;caps&quot;&gt;YOUR&lt;/span&gt; favorite books/essays/blog posts, we would love to check them out.  We certainly haven&amp;#8217;t been around as long as you old dudes, so I am sure there is much you could share with us, and we would be totally stoked to get some suggestions.)&lt;/p&gt;
-&lt;p&gt;To actually answer your question: Not to sound like a Ruby slog, but I actually do love “The Ruby Programming Language”  written by it’s creator Yukihiro Matsumoto.  One of my favorite things about the language is how Matz included so many different idioms on how to do the same thing; that way, you can pick the subset of the Ruby language that feels natural to you.  In the book, I love seeing how “natural” feels to Matz, and how he explains that this is only “his” way to write Ruby, and you should find your own way.  &lt;a href=&quot;http://rubyonrails.org&quot;&gt;&lt;span class=&quot;caps&quot;&gt;DHH&lt;/span&gt; found his.&lt;/a&gt;  Even better,  Ilya and Maxwell got the chance to meet Matz three weeks ago for dinner in Brooklyn.  We bought him some &lt;a href=&quot;http://www.caracasarepabar.com/index_2.php&quot;&gt;arepas&lt;/a&gt;. They were delicious.&lt;/p&gt;
+&lt;p&gt;To actually answer your question: Not to sound like a Ruby slog, but I actually do love “The Ruby Programming Language”  written by its creator Yukihiro Matsumoto.  One of my favorite things about the language is how Matz included so many different idioms on how to do the same thing; that way, you can pick the subset of the Ruby language that feels natural to you.  In the book, I love seeing how “natural” feels to Matz, and how he explains that this is only “his” way to write Ruby, and you should find your own way.  &lt;a href=&quot;http://rubyonrails.org&quot;&gt;&lt;span class=&quot;caps&quot;&gt;DHH&lt;/span&gt; found his.&lt;/a&gt;  Even better,  Ilya and Maxwell got the chance to meet Matz three weeks ago for dinner in Brooklyn.  We bought him some &lt;a href=&quot;http://www.caracasarepabar.com/index_2.php&quot;&gt;arepas&lt;/a&gt;. They were delicious.&lt;/p&gt;
 &lt;hr&gt;
 &lt;h4&gt;Finally, we wanted to touch on your final point about being a pragmatic.&lt;/h4&gt;
 &lt;p&gt;We think we are pretty pragmatic guys too(maybe not quite tieguys), but there is something we just don&amp;#8217;t quite understand.&lt;/p&gt;

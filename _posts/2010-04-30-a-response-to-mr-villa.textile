@@ -41,7 +41,7 @@ p. You "said yourself":http://identi.ca/notice/30119960 that you have seen vapor
  
 2)	(a guess)  they quickly tried to support all sort of features without building some sort of common infrastructure before trying to add functionality.
 
-However, they did spawn “activity streams,” which seems like a promising protocol are interested in supporting. I had no awareness of Mugshot before you pointed it out, so I won't yank around your chain and make something up.
+However, they did spawn “activity streams,” which seems like a promising protocol we are interested in supporting. I had no awareness of Mugshot before you pointed it out, so I won't yank around your chain and make something up.
 
 
 <hr>
@@ -65,7 +65,7 @@ We will be constantly sharing our ideas, and 100% of our code at the end of the 
 <hr>    
 <h4>Would a smarter client (like Mozilla Contacts) be useful to you? If so, how?</h4>
 
-I had not considered something like Mozilla Contacts until I saw it earlier this week.  Our initial thoughts were that we would not want to tie one's accessibility to a browser.  We wanted a user's Diaspora seed to take care of all of the hard work server-side, because you should be able to access all of your information from any computer or device connected to the web, and we want to try and provide an experience to the user as close to what they are used to as possible.  We  have thrown around the idea of having the option of doing decryption browser side via some sort of Browser Add-on, and we perhaps it could also be used with some sort of “smarter client”.  This would come in later versions. 
+I had not considered something like Mozilla Contacts until I saw it earlier this week.  Our initial thoughts were that we would not want to tie one's accessibility to a browser.  We wanted a user's Diaspora seed to take care of all of the hard work server-side, because you should be able to access all of your information from any computer or device connected to the web, and we want to try and provide an experience to the user as close to what they are used to as possible.  We  have thrown around the idea of having the option of doing decryption browser side via some sort of browser add-on, and we perhaps it could also be used with some sort of “smarter client”.  This would come in later versions. 
 
 <hr>
 <h4>What is the strategy to get to a critical mass of users (or avoid having to get a critical mass?)</h4>
@@ -80,7 +80,7 @@ Is this one of the questions where if I don’t say “Kernighan and Ritchie,”
 (Worth noting that actually if you wanted to share YOUR favorite books/essays/blog posts, we would love to check them out.  We certainly haven't been around as long as you old dudes, so I am sure there is much you could share with us, and we would be totally stoked to get some suggestions.)
 	
 	
-	To actually answer your question: Not to sound like a Ruby slog, but I actually do love “The Ruby Programming Language”  written by it’s creator Yukihiro Matsumoto.  One of my favorite things about the language is how Matz included so many different idioms on how to do the same thing; that way, you can pick the subset of the Ruby language that feels natural to you.  In the book, I love seeing how “natural” feels to Matz, and how he explains that this is only “his” way to write Ruby, and you should find your own way.  "DHH found his.":http://rubyonrails.org  Even better,  Ilya and Maxwell got the chance to meet Matz three weeks ago for dinner in Brooklyn.  We bought him some "arepas":http://www.caracasarepabar.com/index_2.php. They were delicious.
+	To actually answer your question: Not to sound like a Ruby slog, but I actually do love “The Ruby Programming Language”  written by its creator Yukihiro Matsumoto.  One of my favorite things about the language is how Matz included so many different idioms on how to do the same thing; that way, you can pick the subset of the Ruby language that feels natural to you.  In the book, I love seeing how “natural” feels to Matz, and how he explains that this is only “his” way to write Ruby, and you should find your own way.  "DHH found his.":http://rubyonrails.org  Even better,  Ilya and Maxwell got the chance to meet Matz three weeks ago for dinner in Brooklyn.  We bought him some "arepas":http://www.caracasarepabar.com/index_2.php. They were delicious.
 
 <hr>
 <h4>Finally, we wanted to touch on your final point about being a pragmatic.</h4>
