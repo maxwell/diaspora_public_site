@@ -76,7 +76,7 @@ We think that there is a solid contingent of people who would want to host their
 <hr>
 <h4>What are your three favorite books on software development? three favorite essays? what about on design?</h4>
 
-Is this one of the questions where if I don’t say “Kernighan and Ritchie,” “Getting Real”, “Mythical Man-moth,” “Don’t Make Me Think!” or something like that, you will disapprove? :)  We like all of those books plenty.  In all honesty, much of what we read is random blogs we find on the Internet.  Certainly not all of it is of perfect and high quality, but I think since we all love to code, we always consuming some sort of writing about design patterns, development, and cool new testing ideas.  Regular devs have great ideas about code every day, and we like getting a variety of opinions. 
+Is this one of the questions where if I don’t say “Kernighan and Ritchie,” “Getting Real”, “Mythical Man-Month,” “Don’t Make Me Think!” or something like that, you will disapprove? :)  We like all of those books plenty.  In all honesty, much of what we read is random blogs we find on the Internet.  Certainly not all of it is of perfect and high quality, but I think since we all love to code, we always consuming some sort of writing about design patterns, development, and cool new testing ideas.  Regular devs have great ideas about code every day, and we like getting a variety of opinions. 
 (Worth noting that actually if you wanted to share YOUR favorite books/essays/blog posts, we would love to check them out.  We certainly haven't been around as long as you old dudes, so I am sure there is much you could share with us, and we would be totally stoked to get some suggestions.)
 	
 	
