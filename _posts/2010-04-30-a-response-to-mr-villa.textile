@@ -15,7 +15,7 @@ p. Tuesday, Luis Villa "blogged about us":http://tieguy.org/blog/2010/04/27/ques
     
 p. We plan to "build less."  These are the features which we aim to complete first:
 
-p. 1. A good secure protocol, encrypted at every leg, including a specification for a lightweight, probably HTTPS, set of routes.  We see all of this communication happening between two diaspora servers, rather than strictly between peers.  We realize there is the problem with polling with this model, but we think there are several tricks worth trying which all have their relative pros and cons: PubSub (fast and easy, requires some level of centralization), querying friends servers from the browser side and posting responses back (requires browser side decryption) to name a couple.  Alternatively, we are considering going with XMPP altogether due to the ability to be able to push content between nodes, but we need to research it further to see if it is something we would want to implement.
+p. 1. A good secure protocol, encrypted at every leg, including a specification for a lightweight, probably HTTPS, RESTful set of routes.  We see all of this communication happening between two Diaspora servers, rather than strictly between peers.  We realize there is the problem with polling with this model, but we think there are several tricks worth trying which all have their relative pros and cons: PubSub (fast and easy, requires some level of centralization), querying friends servers from the browser side and posting responses back (requires browser side decryption) to name a couple.  Alternatively, we are considering going with XMPP altogether due to the ability to be able to push content between nodes, but we need to research it further to see if it is something we would want to implement.
 
 p. 2.  A datastore and corresponding interface that can store all of your stuff in one place. MongoDB is what we are looking at for V1, but  the redundancy of TahoeFS is intriguing(as well as serving a slightly different purpose).
 
@@ -41,7 +41,7 @@ p. You "said yourself":http://identi.ca/notice/30119960 that you have seen vapor
  
 2)	(a guess)  they quickly tried to support all sort of features without building some sort of common infrastructure before trying to add functionality.
 
-However, they did spawn “activity streams,” which seems like a promising protocol are interested in supporting.)  I had no awareness of Mugshot before you pointed it out, so I won't yank around your chain and make something up.
+However, they did spawn “activity streams,” which seems like a promising protocol are interested in supporting. I had no awareness of Mugshot before you pointed it out, so I won't yank around your chain and make something up.
 
 
 <hr>
@@ -77,10 +77,10 @@ We think that there is a solid contingent of people who would want to host their
 <h4>What are your three favorite books on software development? three favorite essays? what about on design?</h4>
 
 Is this one of the questions where if I don’t say “Kernighan and Ritchie,” “Getting Real”, “Mythical Man-moth,” “Don’t Make Me Think!” or something like that, you will disapprove? :)  We like all of those books plenty.  In all honesty, much of what we read is random blogs we find on the Internet.  Certainly not all of it is of perfect and high quality, but I think since we all love to code, we always consuming some sort of writing about design patterns, development, and cool new testing ideas.  Regular devs have great ideas about code every day, and we like getting a variety of opinions. 
-(Worth noting that actually if you wanted to share YOUR favorite books/essays/blog posts, we would love to check them out.  We certainly haven't been around as long as you old dudes, so I am sure there is much you could share with us, and be totally stoked to get some suggestions.)
+(Worth noting that actually if you wanted to share YOUR favorite books/essays/blog posts, we would love to check them out.  We certainly haven't been around as long as you old dudes, so I am sure there is much you could share with us, and we would be totally stoked to get some suggestions.)
 	
 	
-	To actually answer your question: Not to sound like a Ruby slog, but I actually do love “The Ruby Programming Language”  written by it’s creator Yukihiro Matsumoto.  One of my favorite things about the language is how Matz included so many different idioms on how to do the same thing; that way, you can pick the subset of the Ruby language that feels natural to you.  In the book, I love seeing how “natural” feels to Matz, and how he explains that this is only “his” way to write Ruby, and you should find your own way.  "DHH found his.":http://rubyonrails.org  Even better,  Ilya and Maxwell got the chance to meet him three weeks ago for dinner in Brooklyn.  We bought him some "arepas":http://www.caracasarepabar.com/index_2.php. They were delicious.
+	To actually answer your question: Not to sound like a Ruby slog, but I actually do love “The Ruby Programming Language”  written by it’s creator Yukihiro Matsumoto.  One of my favorite things about the language is how Matz included so many different idioms on how to do the same thing; that way, you can pick the subset of the Ruby language that feels natural to you.  In the book, I love seeing how “natural” feels to Matz, and how he explains that this is only “his” way to write Ruby, and you should find your own way.  "DHH found his.":http://rubyonrails.org  Even better,  Ilya and Maxwell got the chance to meet Matz three weeks ago for dinner in Brooklyn.  We bought him some "arepas":http://www.caracasarepabar.com/index_2.php. They were delicious.
 
 <hr>
 <h4>Finally, we wanted to touch on your final point about being a pragmatic.</h4>
