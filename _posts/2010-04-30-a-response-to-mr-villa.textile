@@ -83,9 +83,9 @@ Is this one of the questions where if I don’t say “Kernighan and Ritchie,”
 	To actually answer your question: Not to sound like a Ruby slog, but I actually do love “The Ruby Programming Language”  written by its creator Yukihiro Matsumoto.  One of my favorite things about the language is how Matz included so many different idioms on how to do the same thing; that way, you can pick the subset of the Ruby language that feels natural to you.  In the book, I love seeing how “natural” feels to Matz, and how he explains that this is only “his” way to write Ruby, and you should find your own way.  "DHH found his.":http://rubyonrails.org  Even better,  Ilya and Maxwell got the chance to meet Matz three weeks ago for dinner in Brooklyn.  We bought him some "arepas":http://www.caracasarepabar.com/index_2.php. They were delicious.
 
 <hr>
-<h4>Finally, we wanted to touch on your point about being a pragmatic.</h4>
+<h4>Finally, we wanted to touch on your point about being a pragmatist.</h4>
 
-p. We think we are pretty pragmatic guys too(maybe not quite tieguys), but there is something we just don't quite understand.
+p. We think we are pretty pragmatic guys too(maybe not quite "tieguys":http://tieguy.org), but there is something we just don't quite understand.
 
 p. You say you don’t have the time or money to work on such a project, one you yourself identify as important. That makes tons of sense to us.  There are plenty of things we would like to do and we don't have the time for, and we are not even married or have jobs.  
 
