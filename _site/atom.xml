@@ -4,13 +4,31 @@
  <title>Tr</title>
  <link href="http://www.joindiaspora.com/atom.xml" rel="self"/>
  <link href="http://www.joindiaspora.com/"/>
- <updated>2010-04-30T15:39:32-04:00</updated>
+ <updated>2010-05-08T12:22:16-04:00</updated>
  <id>http://www.joindiaspora.com/</id>
  <author>
    <name>diaspora</name>
    <email>team@joindiaspora.com</email>
  </author>
 
+ 
+ <entry>
+   <title>We Made It!</title>
+   <link href="http://www.joindiaspora.com//2011/05/08/we-did-it.html"/>
+   <updated>2011-05-08T00:00:00-04:00</updated>
+   <id>http://www.joindiaspora.com//2011/05/08/we-did-it</id>
+   <content type="html">&lt;h2&gt;We Made It!&lt;/h2&gt;
+&lt;p class=&quot;meta&quot;&gt;08 May 2010 by maxwell&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/images/thank-you-diaspora.full.jpg&quot; alt=&quot;thanks&quot;&gt;&lt;/p&gt;
+&lt;p&gt;Everyone!&lt;/p&gt;
+&lt;p&gt;We can&amp;#8217;t believe it only took us twelve days to reach our goal. We have gotten so much support and exposure thanks to all of you that we could barely keep up with all of your emails, updates, and comments. We really appreciate people who continue to back us, it makes us so pumped to get started on the project. We think people&amp;#8217;s privacy and personal control is in jeopardy more than ever online, and every day we hear about more and more of our peers who say that Diaspora is something that they want and need.&lt;/p&gt;
+Your comments, updates, and emails are all still very appreciated. We also want to extend a special thank you to all of our many international backers (we promise we are going to find you a way to get you your rewards&amp;#8230;we had no idea we would get such worldwide support)! We are really excited that our summer is going to become a reality, and can&amp;#8217;t wait to make Diaspora the social application we all need.
+&lt;p&gt;Right now, for the Diaspora team, we have to finish school/graduate. Then, we are going to spend a week or two getting ready for three months of intense coding. We will try and update our blog (and even our Kickstarter) periodically over the summer, but for the most part we are going to be in recluse programmer mode. If you want to see what we are up to, we will be hanging out on the &lt;span class=&quot;caps&quot;&gt;GNU&lt;/span&gt; Social mailing list, as well as a few other places as we work on defining some common protocols between like minded projects.&lt;/p&gt;
+&lt;p&gt;As always, you can check out our &lt;a href=&quot;http://www.joindiaspora.com&quot;&gt;website&lt;/a&gt; for updates, and follow us on &lt;a href=&quot;http://twitter.com/joindiaspora&quot;&gt;Twitter&lt;/a&gt; or &lt;a href=&quot;http://identi.ca/joindiaspora&quot;&gt;Identica&lt;/a&gt;, and soon, on Diaspora itself!&lt;/p&gt;
+&lt;p&gt;Yours,&lt;/p&gt;
+&lt;p&gt;Maxwell, Daniel, Raphael and Ilya&lt;/p&gt;
+&lt;p&gt;The Diaspora Team&lt;/p&gt;</content>
+ </entry>
  
  <entry>
    <title>We Made It Half Way!</title>
@@ -81,8 +99,8 @@ and we are huge fans of the &lt;a href=&quot;http://lorea.cc&quot;&gt;lorea.cc&l
 (Worth noting that actually if you wanted to share &lt;span class=&quot;caps&quot;&gt;YOUR&lt;/span&gt; favorite books/essays/blog posts, we would love to check them out.  We certainly haven&amp;#8217;t been around as long as you old dudes, so I am sure there is much you could share with us, and we would be totally stoked to get some suggestions.)&lt;/p&gt;
 &lt;p&gt;To actually answer your question: Not to sound like a Ruby slog, but I actually do love “The Ruby Programming Language”  written by its creator Yukihiro Matsumoto.  One of my favorite things about the language is how Matz included so many different idioms on how to do the same thing; that way, you can pick the subset of the Ruby language that feels natural to you.  In the book, I love seeing how “natural” feels to Matz, and how he explains that this is only “his” way to write Ruby, and you should find your own way.  &lt;a href=&quot;http://rubyonrails.org&quot;&gt;&lt;span class=&quot;caps&quot;&gt;DHH&lt;/span&gt; found his.&lt;/a&gt;  Even better,  Ilya and Maxwell got the chance to meet Matz three weeks ago for dinner in Brooklyn.  We bought him some &lt;a href=&quot;http://www.caracasarepabar.com/index_2.php&quot;&gt;arepas&lt;/a&gt;. They were delicious.&lt;/p&gt;
 &lt;hr&gt;
-&lt;h4&gt;Finally, we wanted to touch on your point about being a pragmatic.&lt;/h4&gt;
-&lt;p&gt;We think we are pretty pragmatic guys too(maybe not quite tieguys), but there is something we just don&amp;#8217;t quite understand.&lt;/p&gt;
+&lt;h4&gt;Finally, we wanted to touch on your point about being a pragmatist.&lt;/h4&gt;
+&lt;p&gt;We think we are pretty pragmatic guys too(maybe not quite &lt;a href=&quot;http://tieguy.org&quot;&gt;tieguys&lt;/a&gt;), but there is something we just don&amp;#8217;t quite understand.&lt;/p&gt;
 &lt;p&gt;You say you don’t have the time or money to work on such a project, one you yourself identify as important. That makes tons of sense to us.  There are plenty of things we would like to do and we don&amp;#8217;t have the time for, and we are not even married or have jobs.&lt;/p&gt;
 &lt;p&gt;If that is the case however, what would be un-pragmatic about giving four excited dudes who spent their last semester of school thinking about a problem you are &amp;#8220;worried-about-but-can&amp;#8217;t-deal-with-now,&amp;#8221; twenty bucks so they can take an honest crack at solving it? :)&lt;/p&gt;
 &lt;p&gt;We hope that this cleared up some of your questions Luis.  Thank you again, and we look forward to your continued constructive feedback.&lt;/p&gt;
