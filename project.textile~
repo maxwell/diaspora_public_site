@@ -20,7 +20,7 @@ It is our one and only goal to get Diaspora in the hands of every man, woman, an
 
 <ul style="font-style:italic;">
 	<li>Full-fledged communications between Seeds (Diaspora instances)</li>
-	<li>Complete PGP encryption</li>
+	<li>End to end GPG</li>
 	<li>External Service Scraping of most major services (reclaim your data)</li>
 	<li>Version 1 of Diaspora's API with documentation</li>
 	<li>Public GitHub repository of all Diaspora code</li>

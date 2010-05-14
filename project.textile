@@ -16,7 +16,7 @@ We already have a rudimentary prototype of Diaspora running on our machines, and
 
 h3. first sprint.
 
-It is our one and only goal to get Diaspora in the hands of every man, woman, and child at summer's end.  September 2010 will signify the release of the project in its first iteration, fully open-sourced under the GPL.  This release will be comprised of several key features for Diaspora, mainly:
+It is our one and only goal to get Diaspora in the hands of every man, woman, and child at summer's end.  September 2010 will signify the release of the project in its first iteration, fully open-sourced under the AGPL.  This release will be comprised of several key features for Diaspora, mainly:
 
 <ul style="font-style:italic;">
 	<li>Full-fledged communications between Seeds (Diaspora instances)</li>
