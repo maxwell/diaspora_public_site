@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
  
- <title>Tr</title>
+ <title>Diaspora Atom Feed</title>
  <link href="http://www.joindiaspora.com/atom.xml" rel="self"/>
  <link href="http://www.joindiaspora.com/"/>
- <updated>2010-05-08T12:31:43-04:00</updated>
+ <updated>2010-05-14T20:03:05-04:00</updated>
  <id>http://www.joindiaspora.com/</id>
  <author>
    <name>diaspora</name>
@@ -32,9 +32,9 @@ Your comments, updates, and emails are all still very appreciated. We also want 
  
  <entry>
    <title>We Made It Half Way!</title>
-   <link href="http://www.joindiaspora.com//2011/04/30/we-made-it-half-way.html"/>
-   <updated>2011-04-30T00:00:00-04:00</updated>
-   <id>http://www.joindiaspora.com//2011/04/30/we-made-it-half-way</id>
+   <link href="http://www.joindiaspora.com//2010/04/30/we-made-it-half-way.html"/>
+   <updated>2010-04-30T00:00:00-04:00</updated>
+   <id>http://www.joindiaspora.com//2010/04/30/we-made-it-half-way</id>
    <content type="html">&lt;h2&gt;We Made It Half Way!&lt;/h2&gt;
 &lt;p class=&quot;meta&quot;&gt;30 &lt;span class=&quot;caps&quot;&gt;APRIL&lt;/span&gt; 2010 by maxwell&lt;/p&gt;
 &lt;div class=&quot;span-7&quot;&gt;
