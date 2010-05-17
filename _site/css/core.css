@@ -168,9 +168,13 @@ ul#people > li + li {
 	margin-left: 40px;
 }
 
-.contact {
+#contact {
     text-align: center  ;
-    font-weight: bold;
+	margin-top: 50px;
+	font-weight: bold;
+}
+#contact h3 {
+	margin-bottom: 20px;
 }
 div#big_block {
     background-color:#EFEFEF;
