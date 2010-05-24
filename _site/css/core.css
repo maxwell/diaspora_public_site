@@ -1,148 +1,48 @@
+/* JOINDIASPORA CSS
+ *
+ *  dan says hello. */
+
+
+@font-face {
+	font-family: 'BrandonGrotesqueLightRegular';
+	src: url('brandongrotesque_light/Brandon_light-webfont.eot');
+	src: local('☺'), url('brandongrotesque_light/Brandon_light-webfont.woff') format('woff'), url('brandongrotesque_light/Brandon_light-webfont.ttf') format('truetype'), url('brandongrotesque_light/Brandon_light-webfont.svg#webfont') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+
+/* global */
+body { padding: 5em; border-top: 3px solid #3c3836; overflow-x:hidden; } 
 a { color: #9acd32; }
 
+h1 { font-family: 'BrandonGrotesqueLightRegular'; }
+h2 { font-size: 18px; }
 
-body { border-top: 3px solid #000; overflow-x:hidden; } 
+p { font-family: Garamond, serif; font-size: 1.2em;
+	letter-spacing: 0.05em; text-align: justify;}
 
-div#header { margin: 0 0 30px 0; }
+/* header */
+div#header { font-family: 'BrandonGrotesqueLightRegular';
+			 margin: 0 0 70px 0; }
 
-div#header > h1.title {
-	font-size: 30px;
-	letter-spacing: -0.09em;
-	font-weight: bold;
-	display: inline;
-}
-div#header > h1.title a {
-	color: #000;
-}
+div#header > h1.title   { font-size: 30px; }
+div#header > h1.title a { color: #000; }
+div#header > h1.title a:hover { text-decoration: none; }
 
-div#header > ul#nav {
-	display: inline;
-	margin: 0;
-	padding: 0;
-	float: right;
-}
+div#header > ul#nav { display: inline; margin: 0; padding: 0; }
+div#header > ul#nav > li { display: inline; font-size: 18px; }
+div#header > ul#nav > li + li { margin-left: 20px; }
 
-div#header > ul#nav > li {
-	display: inline;
-	font-size: 18px;
-}
+div#header a { text-decoration: none; }
+div#header a:hover { color: #BCFC3D; }
 
-div#header > ul#nav > li + li {
-	margin-left: 10px;
-}
-
-div#header a {
-	text-decoration: none;
-}
-div#header a:hover {
-    color: #BCFC3D;
-	border-bottom: 2px solid #BCFC3D;
-}
-
-div#alert{
-	color: #fff;
-	text-align: center;
-	background: #9acd32;
-	padding: 5px;
-	border-radius: 5px;
-	-webkit-border-radius: 5px;
-	-moz-border-radius: 5px;
-	margin-bottom: 30px;
-}
-
-div#alert a:hover {
-	color: #1DACF6;
-}
-div#alert a {
-	color: #098dd2 ;
-}
-
-.post {
-    border-bottom: #EEE 1px solid;
-    margin-bottom: 35px ;
-	position: relative;
-}
-
-div.main {
-	margin-bottom: 50px;
-}
-
-h1 {
-	letter-spacing: -0.03em;
-}
-
-h2 {
-	font-size: 26px;
-	letter-spacing: -0.07em;
-	margin-bottom: 0;
-}
 
 p.meta {
 	font-size: 16px;
 	font-style: italic;
-	font-family: georgia;
+	font-family: Garamond, serif;
 	color: #ccc;
-	margin-top: 0;
-}
-object {
-padding:18%;
-}
-
-#left {
-    width: 50%;
-    float: left;
-}
-#right{
-    width:50%;
-    float: right;
-    clear:both;
-    
-}
-
-div#footer {
-	margin-top: 30px;
-	text-align: center;
-	padding-bottom: 30px;
-	font-style: italic;
-	color: #999;
-}
-
-div#footer ul {
-	margin: 0;
-	padding: 0;
-}
-
-div#footer li {
-	display: inline;
-}
-
-div#footer li + li {
-	margin-left: 30px;
-}
-
-div#footer h4 {
-	letter-spacing: -0.065em;
-	color: #666;
-}
-
-div#home p + p {
-	text-indent: 10px;
-}
-
-div#home {
-	margin-left: 40px
-}
-
-div#sliver {
-	height: 90px;
-	background: url('../images/dandy.jpg') 0 -60px;
-}
-
-div#shadow {
-	-webkit-box-shadow: 0 -8px 10px #000;
-	-moz-box-shadow: 0 -8px 10px #000;
-	background-color: #fff;
-	height: 20px;
+	margin-top: -0.8em;
 }
 
 img.us_image {
@@ -153,96 +53,30 @@ img.us_image {
 	width: 93%;
 }
 
-ul#people {
-	margin-top: 20px;
-	margin-left: 120px;
-	padding: 0;
-	font-weight: bold;
-}
 
-ul#people > li {
-	display: inline;
-}
-
-ul#people > li + li {
-	margin-left: 40px;
-}
-
-#contact {
-    text-align: center  ;
-	margin-top: 50px;
-	font-weight: bold;
-}
-#contact h3 {
-	margin-bottom: 20px;
-}
-div#big_block {
-    background-color:#EFEFEF;
-    border-bottom:1px solid #DCDCDC;
-/*    border-top:1px solid #DCDCDC;*/
-    margin-bottom: 20px;
-    margin-left: auto;
-    margin-right: auto;
-    width: 75%;
-}
-
-div#big_block p {
-	text-align: left;
-	font-family: georgia;
-	font-size: 25px;
-/*  font-style: italic;*/
-/*  color: #999;*/
-	letter-spacing: -0.05em;
-	padding: 10px;
-	margin:0 auto;
-	padding-bottom: 5px;
-}
-div#big_block span.inside {
-    font-size: 20px;
-    margin-left:30px;
-}
+ul#people > li { display: inline; }
+ul#people > li + li { margin-left: 40px; }
 
 
-div#big_block span.our_def {
-    margin-left:20px;
-    display:block;
+div#footer {
+	color: #000;
+	background-color: #3c3836;
+
+	margin: 7em -5em -5em -5em;
+	padding: 3em 5em 5em 5em;
+
+	border-top: 1em #9acd32 solid;
 }
 
-#learn_more {
-    position: relative;
-    float: right;
-    font-size: 12px;
-    padding: 10px 10px 0 5px;
-}
+div#footer ul { margin: 0; padding: 0; }
+div#footer li { list-style: none; font-size: 1.1em; }
+
+div#cc_info, div#other_info { margin-top: 3em; text-align: center; font-size: 10px; }
+
+div#more_posts { margin:10px 20px 0 0; }
 
 
-div#cc_info {
-	margin-top: 30px;
-	color: #999;
-	font-size: 8px;
-}
-
-div#cc_info a {
-	color: #333;
-}
-
-div#other_info {
-	color: #999;
-	font-size: 8px;
-}
-
-div#other_info a {
-	color: #333;
-}
-
-div#more_posts {
-    float:right;
-    margin:10px 20px 0 0;
-}
-
-div.twitter_button {
-	width: 100%;
-	text-align: right;
-	position: absolute;
-	top: 10px;
-}
+div#left_block  { width: 50%;
+				  max-width: 500px; min-width: 400px; }
+div#right_block { float: right; width: 50%
+				  max-width: 500px; min-width: 400px; }

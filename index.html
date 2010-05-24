@@ -2,20 +2,18 @@
 layout: default
 title: join diaspora
 ---
-<div id="big_block">
+<div id="big_block" style="display:none;">
 <p>	
 	<b>diaspora</b><span class= "pronuc"> /dī-ˈas-p(ə-)rə, dē-/</span><br/>
 	<span class="inside"><i>origin:</i> Greek, διασπορά – “a scattering [of seeds]”</span><br/>
 	<span class = "our_def">1. the privacy aware, personally controlled, do-it-all distributed open source social network</span>
 </p>
 <p style="text-align:right; font-size:12px;"><a href="http://www.joindiaspora.com/2010/04/21/a-little-more-about-the-project.html">learn more</a> <span style="color:#666; font-style:italic;">&amp;</span>
-	<a href="http://spreadsheets.google.com/viewform?key=0AoQmncVLKXRBdFo1N3o4R3lrWkszX0dIQm9vemp5TWc&hl=en">stay updated</a></p>
+	<a href="http://spreadsheets.google.com/viewform?key=0aoqmncvlkxrbdfo1n3o4r3lrwkszx0diqm9vemp5twc&hl=en">stay updated</a></p>
 </div>
-{%include alert.html%}
 
 <h1>the latest news</h1>
 
-<div id="home">  
   {% for post in site.posts limit:1  %}
   {{post.content}}
   {% endfor %}
@@ -23,4 +21,3 @@ title: join diaspora
   <div id ="more_posts">
     <a href="/blog.html">more posts...</a>
   </div>
-</div>

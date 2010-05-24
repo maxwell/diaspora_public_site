@@ -3,20 +3,5 @@ layout: default
 ---
 {%include alert.html%}
 
-<div class="post">
-  		<div class="span-15 prepend-1 last">
-        {{ content }}
-        <a href="{{post.url}}">permalink</a>
-      </div>
-      
-</div>
-
-<!-- <div id="related">
-  <h2>Related Posts</h2>
-  <ul class="posts">
-    {% for post in site.related_posts limit:3 %}
-      <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ post.url }}">{{ post.title }}</a></li>
-      <hr>
-    {% endfor %}
-  </ul> -->
-</div>
+{{ content }}
+<a href="{{post.url}}">permalink</a>
