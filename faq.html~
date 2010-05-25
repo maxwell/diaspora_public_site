@@ -10,26 +10,29 @@ title: join diaspora
 
 <p>
 <h4>How do you pronounce Diaspora?</h4>
-http://www.forvo.com/word/diaspora/
+<A HREF="http://www.forvo.com/word/diaspora/">http://www.forvo.com/word/diaspora/</A>
 die-as-poe-ra
 </p>
 
 <p>
 <h3>Tech related Questions:</h3>
-
+</p>
+<p>
 <h4>What language are you programming Diaspora in?</h4>
-Ruby
+<A HREF="http://www.youtube.com/watch?v=qObzgUfCl28#t=51s">Ruby</A>
 With a bit of Rails and other nice Ruby frameworks thrown in.
 </p>
 
 
 <p><h4>Where will the data of the users be hosted? On servers you buy/rent?</h4>
-
+</p><p>
 Short answer: Where ever you would like. 
-
+</p>
+<p>
 Longer answer:
-We think most people will use some sort of hosting provider to host their seed.  This may be from a traditional web host, could based host, or your ISP, or a friend.  If don't want to deal with the fuss of setting it up, Diaspora hopes to provide a paid turnkey hosted service in the vein of Wordpress.com. 
-
+We think most people will use some sort of hosting provider to host their seed.  This may be from a traditional web host, cloud based host, or your ISP, or a friend.  If don't want to deal with the fuss of setting it up, Diaspora hopes to provide a paid turnkey hosted service in the vein of <A HREF="http://www.wordpress.com/" TARGET="_blank">Wordpress.com</A>. 
+</p>
+<p>
 If you are interested in hosting from your own home, Diaspora will be configured like any other website.  This option provides the best case senario for privacy and security of your personal information.
 </p>
 
@@ -39,7 +42,8 @@ We strive to make Diaspora as compatible as possible.  If you decide to host you
 </p>
 
 <p><h4>Will developers be able to write applications/plug-ins and extensions for Diaspora?</h4>
-
+</p>
+<p>
 	Yes.  The Diaspora core will be content agnostic.  Anybody will be able to write a plugin to hook into these data types, allowing you to pull in all types of media you have on the web.
 Additionally, since Diaspora seeds use normal internet protocols to talk to each other (HTTP), programmers are free to create many different clients for users to interact with their seed, be it on other websites, or a desktop or mobile application.  Since Diaspora is going to be open source, any developer will be free to hack and improve diaspora as they see fit and share these improvements with the community.
 </p>
@@ -49,16 +53,19 @@ Additionally, since Diaspora seeds use normal internet protocols to talk to each
 
 <h4>Is there a way I can send money without using Kickstarter/Amazon Payments?</h4>
 
+<p>
 At the moment, Kickstarter is the only way of donating money.
+</p>
 
 <h4>I pledged $XX dollars to your project.  When are you asking for my information?</h4>
-
+<p>
 Soon after the the project is “successfully funded” (on Tuesday Jun 1, 11:59pm EDT) the team will query our awesome backers for further information. 
-
+</p>
 <h4>When do I get my stuff?</h4>
-
+<p>
 Everything will be shipped at the end of the summer.  Since the CD is part of all of the rewards, we need to actually make the software before we can ship out the rest of the shwag.
-
+</p>
 <h4>What is the deal with the CD?</h4>
-
+<p>
 We originally only thought we were going to get 200-300 backers.  We saw it as more of a token of gratitude, not as much of a functional piece of software.  Since we plan on working on Diaspora into the fall, most likely the software we put on the CD will be obsolete or outdated by the time our backers receive it in the mail.  The best way to get Diaspora will be the public download links, that way you can be sure you will get the most up to date release.
+</p>
