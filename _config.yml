@@ -1,3 +1,4 @@
 markdown: rdiscount
 auto: true
 paginate: 5 
+port: 8000
