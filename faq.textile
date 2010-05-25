@@ -1,0 +1,49 @@
+---
+layout: default
+title: Frequently Asked Questions
+---
+
+h1. {{ page.title }}
+	
+h3. General Questions:
+
+h5.How is Diaspora pronounced?
+http://www.forvo.com/word/diaspora/ die-as-poe-ra
+
+h3.Tech related Questions:
+
+h5.What language are you programming Diaspora in?
+Ruby With a bit of Rails and other nice Ruby frameworks thrown in.
+
+h5.Where will the data of the users be hosted? On servers you buy/rent?
+
+Short answer: Where ever you would like.
+
+Longer answer: We think most people will use some sort of hosting provider to host their seed.  This could be a traditional web host, a cloud based host, an ISP, or a friend.  We hope to provide a turnkey hosting service like Wordpress.com to make creating a seed as easy as possible.
+
+Also like Wordpress, the more technically inclined will be able to host their seeds at home for maximum flexibility, privacy, and security.
+
+h5.Will Diaspora be cross-platform?
+Seeds will be accessible from any browser.  The software itself will certainly be hostable on linux computers, and we will strive to make it as compatible as possible with other operating systems.
+
+h5.Will developers be able to write applications/plug-ins and extensions for Diaspora?
+
+Yes. The Diaspora core will be content agnostic. Anybody will be able to write a plugin to use Diaspora to manage permissions and notifications for any kind of content. Since Diaspora seeds will use HTTP to communicate, programmers will also be able to build clients like new web frontends or mobile applications to improve Diaspora's interface.  Open source software is a community effort.
+
+h3.Kickstarter Questions:
+h5.Is there a way I can send money without using Kickstarter/Amazon Payments?
+
+Thank you, but since we have far surpassed our goal on Kickstarter, we will not be setting up any other payment methods.
+
+h5.I pledged $XX dollars to your project. When are you asking for my information?
+
+Soon after the the funding period is over, (on Tuesday Jun 1, 11:59pm EDT) the team will query our awesome backers for further information.
+
+h5.When do I get my stuff?
+
+Everything will be shipped at the end of the summer. Since the CD is part of all of the rewards, we need to actually make the software before we can ship out the rest of the swag.
+
+h5.What is the deal with the CD?
+
+When we started, we expected 200-300 backers. The CD was meant as a token of gratitude, rather than functional software. Since we plan on working on Diaspora into the fall, the version on the CD will probably be obsolete by the time it arrives. The best way to get Diaspora will be to download the latest version from the web. 
+<i>for news, check out our <a href="/blog.html"> blog </a>
