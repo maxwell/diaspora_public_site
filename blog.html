@@ -3,12 +3,11 @@ layout: default
 title: join diaspora -  blog
 ---
 <h1>the blog</h1>
-<div id="home">  
-	{% for post in site.posts %}
-	<div class="post span-15 last">
-		<div class="twitter_button">
-			<script type="text/javascript">
-				tweetmeme_url = "http://joindiaspora.com{{ post.url }}";
+{% for post in site.posts %}
+<div class="post">
+	<div class="twitter_button">
+		<script type="text/javascript">
+			tweetmeme_url = "http://joindiaspora.com{{ post.url }}";
 			</script>
 			<script type="text/javascript" src="http://tweetmeme.com/i/scripts/button.js"></script>
 		</div>
