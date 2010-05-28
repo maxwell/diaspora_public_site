@@ -4,7 +4,7 @@
  <title>Join Diaspora Blog</title>
  <link href="http://www.joindiaspora.com/atom.xml" rel="self"/>
  <link href="http://www.joindiaspora.com/"/>
- <updated>2010-05-25T21:58:38-04:00</updated>
+ <updated>2010-05-27T22:50:11-04:00</updated>
  <id>http://www.joindiaspora.com/</id>
  <author>
    <name>diaspora</name>
@@ -37,10 +37,10 @@
    <id>http://www.joindiaspora.com//2011/05/08/we-did-it</id>
    <content type="html">&lt;h2&gt;We Made It!&lt;/h2&gt;
 &lt;p class=&quot;meta&quot;&gt;08 May 2010 by maxwell&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;/images/thank-you-diaspora.full.jpg&quot; alt=&quot;thanks&quot;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/images/thank-you-diaspora.full.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 &lt;p&gt;Everyone!&lt;/p&gt;
 &lt;p&gt;We can&amp;#8217;t believe it only took us twelve days to reach our goal. We have gotten so much support and exposure thanks to all of you that we could barely keep up with all of your emails, updates, and comments. We really appreciate people who continue to back us, it makes us so pumped to get started on the project. We think people&amp;#8217;s privacy and personal control is in jeopardy more than ever online, and every day we hear about more and more of our peers who say that Diaspora is something that they want and need.&lt;/p&gt;
-Your comments, updates, and emails are all still very appreciated. We also want to extend a special thank you to all of our many international backers (we promise we are going to find you a way to get you your rewards&amp;#8230;we had no idea we would get such worldwide support)! We are really excited that our summer is going to become a reality, and can&amp;#8217;t wait to make Diaspora the social application we all need.
+&lt;p&gt;Your comments, updates, and emails are all still very appreciated. We also want to extend a special thank you to all of our many international backers (we promise we are going to find you a way to get you your rewards&amp;#8230;we had no idea we would get such worldwide support)! We are really excited that our summer is going to become a reality, and can&amp;#8217;t wait to make Diaspora the social application we all need.&lt;/p&gt;
 &lt;p&gt;Right now, for the Diaspora team, we have to finish school/graduate. Then, we are going to spend a week or two getting ready for three months of intense coding. We will try and update our blog (and even our Kickstarter) periodically over the summer, but for the most part we are going to be in recluse programmer mode. If you want to see what we are up to, we will be hanging out on the &lt;span class=&quot;caps&quot;&gt;GNU&lt;/span&gt; Social mailing list, as well as a few other places as we work on defining some common protocols between like minded projects.&lt;/p&gt;
 &lt;p&gt;As always, you can check out our &lt;a href=&quot;http://www.joindiaspora.com&quot;&gt;website&lt;/a&gt; for updates, and follow us on &lt;a href=&quot;http://twitter.com/joindiaspora&quot;&gt;Twitter&lt;/a&gt; or &lt;a href=&quot;http://identi.ca/joindiaspora&quot;&gt;Identica&lt;/a&gt;, and soon, on Diaspora itself!&lt;/p&gt;
 &lt;p&gt;Yours,&lt;/p&gt;
@@ -55,15 +55,12 @@ Your comments, updates, and emails are all still very appreciated. We also want 
    <id>http://www.joindiaspora.com//2010/04/30/we-made-it-half-way</id>
    <content type="html">&lt;h2&gt;We Made It Half Way!&lt;/h2&gt;
 &lt;p class=&quot;meta&quot;&gt;30 &lt;span class=&quot;caps&quot;&gt;APRIL&lt;/span&gt; 2010 by maxwell&lt;/p&gt;
-&lt;div class=&quot;span-7&quot;&gt;
 &lt;p&gt;Wow! After just one week, we are now half-way to our goal!  It has been a really crazy ride for us, &lt;a href=&quot;http://twitter.com/starkness/status/13046623398&quot;&gt;the support&lt;/a&gt; and &lt;a href=&quot;http://twitter.com/hult/status/13077480233&quot;&gt;excitement&lt;/a&gt; we have been getting is absolutely &lt;a href=&quot;http://twitter.com/brokep/status/13078993912&quot;&gt;unreal&lt;/a&gt;.  However, there is still half way to go!  We (the team) are still thinking of new ways we can reach people, and we certainly won&amp;#8217;t stop working hard to make sure we achieve our goal.  So many of you have reached out to us to lend a hand, and if you have been helping us out, or even just reposting our stuff, thank you so much!&lt;/p&gt;
 &lt;p&gt;We have a couple of cool things to announce next week, so be sure to keep a look out another post sometime soon for more info about that.  It has been great following many of you on &lt;a href=&quot;http://twitter.com/joindiaspora&quot;&gt;Twitter&lt;/a&gt; to see that so many people are excited about these problems as we are.  Every time we see a new relevant update from you all reminds us why we want to make Diaspora.&lt;/p&gt;
 &lt;p&gt;Thanks to all for being so awesome, we can&amp;#8217;t wait till our finals are over so we can get crackin&amp;#8217; on Diaspora!&lt;/p&gt;
 &lt;p&gt;- maxwell&lt;/p&gt;
-&lt;p&gt;Also, for a slightly more technical update, &lt;a href=&quot;http://joindiaspora.com/2010/04/30/a-response-to-mr-villa.html&quot;&gt;here&lt;/a&gt; is our response to Mozilla&amp;#8217;s Luis Villa.&lt;/p&gt;
-&lt;/div&gt;
-&lt;p&gt;&lt;a href='http://kck.st/9QC2zk'&gt;&lt;img border='0' src='http://www.kickstarter.com/projects/196017994/diaspora-the-personally-controlled-do-it-all-distr/widget/card.jpg' /&gt;&lt;/a&gt;&lt;br /&gt;
-&lt;br style=&quot;clear:both&quot;&gt;&lt;/p&gt;</content>
+&lt;p&gt;&lt;i&gt;Also, for a slightly more technical update, &lt;a href=&quot;http://joindiaspora.com/2010/04/30/a-response-to-mr-villa.html&quot;&gt;here&lt;/a&gt; is our response to Mozilla&amp;#8217;s Luis Villa.&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href='http://kck.st/9QC2zk'&gt;&lt;img border='0' src='http://www.kickstarter.com/projects/196017994/diaspora-the-personally-controlled-do-it-all-distr/widget/card.jpg' /&gt;&lt;/a&gt;&lt;/p&gt;</content>
  </entry>
  
  <entry>
@@ -74,56 +71,52 @@ Your comments, updates, and emails are all still very appreciated. We also want 
    <content type="html">&lt;h2&gt;Questions From Luis Villa&lt;/h2&gt;
 &lt;p class=&quot;meta&quot;&gt;30 &lt;span class=&quot;caps&quot;&gt;APRIL&lt;/span&gt; 2010 by maxwell&lt;/p&gt;
 &lt;p&gt;Tuesday, Luis Villa &lt;a href=&quot;http://tieguy.org/blog/2010/04/27/questions-for-the-diaspora/&quot;&gt;blogged about us&lt;/a&gt; and asked us some questions.  We really appreciated him taking the time to offer us his constructive feedback, so thanks Luis.  It is nice to know we have some awesome people looking out for us.  We&amp;#8217;ve taken a couple days to try to answer well, and of course, we&amp;#8217;ll think about any suggestions and elaborate on whatever questions are left open.&lt;/p&gt;
-&lt;hr&gt;
-&lt;h4&gt;What do you think are the most important features a social network should have? How would you prioritize them? Do you plan to Build Less  or go big? If building less, what is the minimal set of features you can get away with?&lt;/h4&gt;
-
+&lt;h3&gt;What do you think are the most important features a social network should have? How would you prioritize them? Do you plan to Build Less  or go big? If building less, what is the minimal set of features you can get away with?&lt;/h3&gt;
 &lt;p&gt;We plan to &amp;#8220;build less.&amp;#8221;  These are the features which we aim to complete first:&lt;/p&gt;
-&lt;p&gt;1. A good secure protocol, encrypted at every leg, including a specification for a lightweight, probably &lt;span class=&quot;caps&quot;&gt;HTTPS&lt;/span&gt;, RESTful set of routes.  We see all of this communication happening between two Diaspora servers, rather than strictly between peers.  We realize there is the problem with polling with this model, but we think there are several tricks worth trying which all have their relative pros and cons: PubSub (fast and easy, requires some level of centralization), querying friends servers from the browser side and posting responses back (requires browser side decryption) to name a couple.  Alternatively, we are considering going with &lt;span class=&quot;caps&quot;&gt;XMPP&lt;/span&gt; altogether due to the ability to be able to push content between nodes, but we need to research it further to see if it is something we would want to implement.&lt;/p&gt;
-&lt;p&gt;2.  A datastore and corresponding interface that can store all of your stuff in one place. MongoDB is what we are looking at for V1, but  the redundancy of TahoeFS is intriguing(as well as serving a slightly different purpose).&lt;/p&gt;
-&lt;p&gt;3. A clear extension framework.   Diaspora will be service-agnostic and we will need to make it easy to import from and export to any format/web service.  It is also our goal to make Diaspora as content-agnostic as possible, by providing abstract data types and an easily extended UI so that whatever new content people want to store and share can be integrated without re-rewriting parts of the whole application stack.&lt;/p&gt;
-&lt;p&gt;4. Be your own OpenID provider.  Having a single identity across lots of services is great, but why trust a web service to hold it?  Once we are the keepers of our own data, we can also selectively allow services access to it through Oauth.&lt;/p&gt;
+&lt;ol&gt;
+	&lt;li&gt;A good secure protocol, encrypted at every leg, including a specification for a lightweight, probably &lt;span class=&quot;caps&quot;&gt;HTTPS&lt;/span&gt;, RESTful set of routes.  We see all of this communication happening between two Diaspora servers, rather than strictly between peers.  We realize there is the problem with polling with this model, but we think there are several tricks worth trying which all have their relative pros and cons: PubSub (fast and easy, requires some level of centralization), querying friends servers from the browser side and posting responses back (requires browser side decryption) to name a couple.  Alternatively, we are considering going with &lt;span class=&quot;caps&quot;&gt;XMPP&lt;/span&gt; altogether due to the ability to be able to push content between nodes, but we need to research it further to see if it is something we would want to implement.&lt;/li&gt;
+	&lt;li&gt;A datastore and corresponding interface that can store all of your stuff in one place. MongoDB is what we are looking at for V1, but  the redundancy of TahoeFS is intriguing(as well as serving a slightly different purpose).&lt;/li&gt;
+	&lt;li&gt;A clear extension framework.   Diaspora will be service-agnostic and we will need to make it easy to import from and export to any format/web service.  It is also our goal to make Diaspora as content-agnostic as possible, by providing abstract data types and an easily extended UI so that whatever new content people want to store and share can be integrated without re-rewriting parts of the whole application stack.&lt;/li&gt;
+	&lt;li&gt;Be your own OpenID provider.  Having a single identity across lots of services is great, but why trust a web service to hold it?  Once we are the keepers of our own data, we can also selectively allow services access to it through Oauth.&lt;/li&gt;
+&lt;/ol&gt;
 &lt;p&gt;What will come out of this summer is this basic framework, well tested and documented.  We will write backend interfaces for some services, but I think the community will be able outperform us in bandwidth and quality on this one.  It is fundamental to the success of the project that the code be 100% free, or the project will fail.  End of story.&lt;/p&gt;
-&lt;hr&gt;
-&lt;h4&gt;DiSo is now two-plus years old. Any ideas why it didn’t get off the ground? Bonus points: same question for Mugshot.&lt;/h4&gt;
+&lt;h3&gt;DiSo is now two-plus years old. Any ideas why it didn’t get off the ground? Bonus points: same question for Mugshot.&lt;/h3&gt;
 &lt;p&gt;I think that “Getting Real”&amp;#8217;s concept of “Failing Fast&amp;quot; applies here.  It seems to us that all of the previous attempts at solving the problem are trying to create the perfect solution in the first version.  We realize that hard problems do not have immediate good answers.  One of the best things I learned in school was taught to me by the fantastic professor and puzzle master &lt;a href=&quot;http://cs.nyu.edu/cs/faculty/shasha/&quot;&gt;Dennis Shasha&lt;/a&gt;.  To paraphrase his “heuristic for solving hard problems”, “when dealing with a difficult problem, build something that satisfies the problem first, then worry about making your solution elegant, bullet proof, and faster later.”  We have seen a lot of projects trying to be everything to everyone.  They become godzilla specs, with features to satisfy everyone involved.   So much time is spent in planning and arguing about implementation details, that A) nothing ever actually get coded and experimented with B) if any new problem is somehow discovered in said gargantuan plan, it goes back to the drawing board, and the fundamental problem does not get solved.&lt;/p&gt;
 &lt;p&gt;The problem itself is not what server architecture, or what language we code in, or even what standards what we support.  While these questions are very important in making any solution better and more robust, they are all implementation details. The core problem is that users who want to share with their friends have &lt;b&gt;no&lt;/b&gt; better alternative.  We think any solution which addresses this problem is a step in the right direction.&lt;/p&gt;
 &lt;p&gt;You &lt;a href=&quot;http://identi.ca/notice/30119960&quot;&gt;said yourself&lt;/a&gt; that you have seen vaporware projects in this space in the past, and we have too. We think a project focused getting something out there should be priority #1.  We need to try a bunch of approaches, and see which ones take off, and we need to do it quickly.  We are not going to support every service under the sun from day one, and we are going to have to accept certain problems and limitations.  Ultimately, all we want is to release something coherent, something we can get constructive feedback so we can iterate again, and deal with problems as they arise, rather than trying to plan around all of them.&lt;/p&gt;
-To answer directly,  I am pretty sure &lt;span class=&quot;caps&quot;&gt;DISO&lt;/span&gt; failed because:
-
-&lt;p&gt;1)	They tried to add on to Wordpress, a project which was not designed from the ground up to be a distributed network.&lt;/p&gt;
-&lt;p&gt;2)	(a guess)  they quickly tried to support all sort of features without building some sort of common infrastructure before trying to add functionality.&lt;/p&gt;
+&lt;p&gt;To answer directly,  I am pretty sure &lt;span class=&quot;caps&quot;&gt;DISO&lt;/span&gt; failed because:&lt;/p&gt;
+&lt;ol&gt;
+	&lt;li&gt;They tried to add on to Wordpress, a project which was not designed from the ground up to be a distributed network.&lt;/li&gt;
+	&lt;li&gt;(a guess) they quickly tried to support all sort of features without building some sort of common infrastructure before trying to add functionality.&lt;/li&gt;
+&lt;/ol&gt;
 &lt;p&gt;However, they did spawn “activity streams,” which seems like a promising protocol we are interested in supporting. I had no awareness of Mugshot before you pointed it out, so I won&amp;#8217;t yank around your chain and make something up.&lt;/p&gt;
-&lt;hr&gt;
-&lt;h4&gt;What standards, if any, do you plan to work with/build on? (just to throw out a couple, all of which have strengths and flaws to consider: webfinger, oauth, xauth, the buzz APIs.)&lt;/h4&gt;
-&lt;h4&gt;What other services, if any, do you want to interoperate with? why? how will you prioritize?&lt;/h4&gt;
+&lt;h3&gt;What standards, if any, do you plan to work with/build on? (just to throw out a couple, all of which have strengths and flaws to consider: webfinger, oauth, xauth, the buzz APIs.)&lt;/h3&gt;
+&lt;h3&gt;What other services, if any, do you want to interoperate with? why? how will you prioritize?&lt;/h3&gt;
 &lt;p&gt;So far I mentioned Oauth, OpenID, and ActivityStreams.  We want to support content types out of the box, rather than individual services.  We have a friend working on the &lt;a href=&quot;http://www.salmon-protocol.org/&quot;&gt;Salmon Protocol&lt;/a&gt; , and we think Diaspora could work really well with that, and things like PubStub also may be useful.  We are also talking with people involved with the “good part” of the Open Graph Protocol, as well as the fledgling OpenLike.  Webfinger seems like it would be simple enough to integrate and perhaps structure our profile model around.  Also, we are getting lots of helpful feedback about OStatus.  Once our extension framework is fairly final, we will be building interfaces to services and standards, and we will help out anyone who wants to build an interface.&lt;/p&gt;
-&lt;hr&gt;
 &lt;h4&gt;Any other Libre code bases in the same space you’d like to work with? &lt;span class=&quot;caps&quot;&gt;GNU&lt;/span&gt; Social? StatusNet? What ones are you aware of, and why will you/won’t you build on/work with those?&lt;/h4&gt;
-&lt;p&gt;We have been keeping track of &lt;a href=&quot;http://groups.fsf.org/wiki/Group:GNU_Social&quot;&gt;daisycha.in/GNUSocial&lt;/a&gt; and hope to solve some of our common problems on their lists.  We know &lt;a href=&quot;http://status.net&quot;&gt;status.net&lt;/a&gt; from our time at &lt;span class=&quot;caps&quot;&gt;FCNYU&lt;/span&gt; also have looked at some other things, including:&lt;br /&gt;
-&lt;a href=&quot;http://themineproject.org/about/&quot;&gt;the mine project&lt;/a&gt;&lt;br /&gt;
-&lt;a href=&quot;http://onesocialweb.org/&quot;&gt;onesocialweb&lt;/a&gt;&lt;br /&gt;
-&lt;a href=&quot;http://noserub.com/&quot;&gt;noserub&lt;/a&gt;&lt;br /&gt;
-and we are huge fans of the &lt;a href=&quot;http://lorea.cc&quot;&gt;lorea.cc&lt;/a&gt; website&amp;#8230;  :)&lt;/p&gt;
+&lt;p&gt;We have been keeping track of &lt;a href=&quot;http://groups.fsf.org/wiki/Group:GNU_Social&quot;&gt;daisycha.in/GNUSocial&lt;/a&gt; and hope to solve some of our common problems on their lists.  We know &lt;a href=&quot;http://status.net&quot;&gt;status.net&lt;/a&gt; from our time at &lt;span class=&quot;caps&quot;&gt;FCNYU&lt;/span&gt; also have looked at some other things, including:&lt;/p&gt;
+&lt;ul&gt;
+	&lt;li&gt;&lt;a href=&quot;http://themineproject.org/about/&quot;&gt;The Mine Project&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;http://onesocialweb.org/&quot;&gt;onesocialweb&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;http://noserub.com/&quot;&gt;Noserub&lt;/a&gt;&lt;br /&gt;
+and we are huge fans of the &lt;a href=&quot;http://lorea.cc&quot;&gt;lorea.cc&lt;/a&gt; website&amp;#8230;  :)&lt;/li&gt;
+&lt;/ul&gt;
 &lt;p&gt;We will be constantly sharing our ideas, and 100% of our code at the end of the summer.  Some of our common problems may spawn new libraries which will be also be free. The protocol discussion is important to have with the community, and we would like to see it be as lightweight and flexible as possible.  We want to be an independent code base because the four of us work fast and well as a team.  Our arguments are short and solved by someone writing better code.  Plus, maybe we are just too in love with our tools, but we love Git and Ruby. We can try things quickly, there are great web libraries, and more and more hosts are providing support for Rails apps.&lt;/p&gt;
-&lt;hr&gt;
-&lt;h4&gt;Would a smarter client (like Mozilla Contacts) be useful to you? If so, how?&lt;/h4&gt;
+&lt;h3&gt;Would a smarter client (like Mozilla Contacts) be useful to you? If so, how?&lt;/h3&gt;
 &lt;p&gt;I had not considered something like Mozilla Contacts until I saw it earlier this week.  Our initial thoughts were that we would not want to tie one&amp;#8217;s accessibility to a browser.  We wanted a user&amp;#8217;s Diaspora seed to take care of all of the hard work server-side, because you should be able to access all of your information from any computer or device connected to the web, and we want to try and provide an experience to the user as close to what they are used to as possible.  We  have thrown around the idea of having the option of doing decryption browser side via some sort of browser add-on, and we perhaps it could also be used with some sort of “smarter client”.  This would come in later versions.&lt;/p&gt;
-&lt;hr&gt;
-&lt;h4&gt;What is the strategy to get to a critical mass of users (or avoid having to get a critical mass?)&lt;/h4&gt;
+&lt;h3&gt;What is the strategy to get to a critical mass of users (or avoid having to get a critical mass?)&lt;/h3&gt;
 &lt;p&gt;We think that there is a solid contingent of people who would want to host their own node.  How many people host their own blog?  That’s not certainly Facebook numbers, but once we get that first kernel of people using it, we think people will see that having (at least) a copy of your data which you can apply to anything is a really empowering proposition, and not just in a social networking context.  We think in the future (after the summer), we will work on an easy installation, but for right now, we want to make this software because we want to use it, there is at least a good handful of others who do too.  Certainly the interwebs have been aflutter about this idea for awhile as well, and I think people would be willing to give a crack at something that works that isn&amp;#8217;t Facebook.&lt;/p&gt;
-&lt;hr&gt;
-&lt;h4&gt;What are your three favorite books on software development? three favorite essays? what about on design?&lt;/h4&gt;
+&lt;h3&gt;What are your three favorite books on software development? three favorite essays? what about on design?&lt;/h3&gt;
 &lt;p&gt;Is this one of the questions where if I don’t say “Kernighan and Ritchie,” “Getting Real”, “Mythical Man-Month,” “Don’t Make Me Think!” or something like that, you will disapprove? :)  We like all of those books plenty.  In all honesty, much of what we read is random blogs we find on the Internet.  Certainly not all of it is of perfect and high quality, but I think since we all love to code, we always consuming some sort of writing about design patterns, development, and cool new testing ideas.  Regular devs have great ideas about code every day, and we like getting a variety of opinions. &lt;br /&gt;
 (Worth noting that actually if you wanted to share &lt;span class=&quot;caps&quot;&gt;YOUR&lt;/span&gt; favorite books/essays/blog posts, we would love to check them out.  We certainly haven&amp;#8217;t been around as long as you old dudes, so I am sure there is much you could share with us, and we would be totally stoked to get some suggestions.)&lt;/p&gt;
 &lt;p&gt;To actually answer your question: Not to sound like a Ruby slog, but I actually do love “The Ruby Programming Language”  written by its creator Yukihiro Matsumoto.  One of my favorite things about the language is how Matz included so many different idioms on how to do the same thing; that way, you can pick the subset of the Ruby language that feels natural to you.  In the book, I love seeing how “natural” feels to Matz, and how he explains that this is only “his” way to write Ruby, and you should find your own way.  &lt;a href=&quot;http://rubyonrails.org&quot;&gt;&lt;span class=&quot;caps&quot;&gt;DHH&lt;/span&gt; found his.&lt;/a&gt;  Even better,  Ilya and Maxwell got the chance to meet Matz three weeks ago for dinner in Brooklyn.  We bought him some &lt;a href=&quot;http://www.caracasarepabar.com/index_2.php&quot;&gt;arepas&lt;/a&gt;. They were delicious.&lt;/p&gt;
-&lt;hr&gt;
-&lt;h4&gt;Finally, we wanted to touch on your point about being a pragmatist.&lt;/h4&gt;
+&lt;h3&gt;Finally, we wanted to touch on your point about being a pragmatist.&lt;/h3&gt;
 &lt;p&gt;We think we are pretty pragmatic guys too(maybe not quite &lt;a href=&quot;http://tieguy.org&quot;&gt;tieguys&lt;/a&gt;), but there is something we just don&amp;#8217;t quite understand.&lt;/p&gt;
 &lt;p&gt;You say you don’t have the time or money to work on such a project, one you yourself identify as important. That makes tons of sense to us.  There are plenty of things we would like to do and we don&amp;#8217;t have the time for, and we are not even married or have jobs.&lt;/p&gt;
 &lt;p&gt;If that is the case however, what would be un-pragmatic about giving four excited dudes who spent their last semester of school thinking about a problem you are &amp;#8220;worried-about-but-can&amp;#8217;t-deal-with-now,&amp;#8221; twenty bucks so they can take an honest crack at solving it? :)&lt;/p&gt;
 &lt;p&gt;We hope that this cleared up some of your questions Luis.  Thank you again, and we look forward to your continued constructive feedback.&lt;/p&gt;
 &lt;p&gt;- Maxwell, Daniel, Raphael, and Ilya&lt;/p&gt;
-&lt;p&gt;&lt;i&gt;&lt;span class=&quot;caps&quot;&gt;EDIT&lt;/span&gt;: &lt;a href=&quot;http://github.com/maxwell/diaspora_public_site/commit/6748cff913f7237aee5e16877b6a25abeec08258&quot;&gt;9:47am &lt;span class=&quot;caps&quot;&gt;EST&lt;/span&gt; 04/30/10&amp;#8230;small typo changes&lt;/a&gt;&lt;/i&gt;&lt;/p&gt;</content>
+&lt;p&gt;&lt;i&gt;&lt;strong&gt;&lt;span class=&quot;caps&quot;&gt;EDIT&lt;/span&gt;:&lt;/strong&gt; &lt;a href=&quot;http://github.com/maxwell/diaspora_public_site/commit/6748cff913f7237aee5e16877b6a25abeec08258&quot;&gt;9:47am &lt;span class=&quot;caps&quot;&gt;EST&lt;/span&gt; 04/30/10&amp;#8230;small typo changes&lt;/a&gt;&lt;/i&gt;&lt;/p&gt;</content>
  </entry>
  
  <entry>
@@ -134,25 +127,25 @@ and we are huge fans of the &lt;a href=&quot;http://lorea.cc&quot;&gt;lorea.cc&l
    <content type="html">&lt;h2&gt;Kickstarter Pitch&lt;/h2&gt;
 &lt;p class=&quot;meta&quot;&gt;14 &lt;span class=&quot;caps&quot;&gt;APRIL&lt;/span&gt; 2010 by maxwell&lt;/p&gt;
 &lt;p&gt;&lt;i&gt;This is taken from our &lt;a href=&quot;http://kck.st/9QC2zk&quot;&gt;kickstarter&lt;/a&gt;.  You should check it out for more info.&lt;/i&gt;&lt;/p&gt;
-&lt;h4&gt;&lt;b&gt;&lt;a href=&quot;http://www.joindiaspora.com&quot;&gt;Diaspora&lt;/a&gt; &amp;#8211; the privacy aware, personally controlled, do-it-all distributed &lt;a href=&quot;http://en.wikipedia.org/wiki/Open_source&quot;&gt;open source&lt;/a&gt; social network&lt;/b&gt;&lt;/h4&gt; 
+&lt;h3&gt;&lt;strong&gt;&lt;a href=&quot;http://www.joindiaspora.com&quot;&gt;Diaspora&lt;/a&gt; &amp;#8211; the privacy aware, personally controlled, do-it-all distributed &lt;a href=&quot;http://en.wikipedia.org/wiki/Open_source&quot;&gt;open source&lt;/a&gt; social network&lt;/strong&gt;&lt;/h3&gt;
 &lt;p&gt;We are four talented young programmers from &lt;a href=&quot;http://cims.nyu.edu&quot;&gt;NYU’s Courant Institute&lt;/a&gt; trying to raise money so we can spend the summer building Diaspora; an open source personal web server that will put individuals in control of their data.&lt;/p&gt;
-&lt;b&gt;What is it?&lt;/b&gt;
+&lt;h3&gt;What is it?&lt;/h3&gt;
 &lt;p&gt;Enter your Diaspora “seed,” a personal web server that stores all of your information and shares it with your friends. Diaspora knows how to securely share (using &lt;a href=&quot;http://en.wikipedia.org/wiki/GNU_Privacy_Guard&quot;&gt;&lt;span class=&quot;caps&quot;&gt;GPG&lt;/span&gt;&lt;/a&gt;) your pictures, videos, and more. When you have a Diaspora seed of your own, you own your social graph, you have access to your information however you want, whenever you want, and you have full control of your online identity. Once we have built a solid foundation, we will make Diaspora easy to extend to facilitate any type of communication, and the possibilities will be endless.&lt;/p&gt;
 &lt;p&gt;For a little more detailed explanation, checkout &lt;a href=&quot;http://www.joindiaspora.com/2010/04/21/a-little-more-about-the-project.html&quot;&gt;this blog post&lt;/a&gt;.&lt;/p&gt;
-&lt;b&gt;What is the project about?&lt;/b&gt;
+&lt;h3&gt;What is the project about?&lt;/h3&gt;
 &lt;p&gt;We believe that privacy and connectedness do not have to be mutually exclusive. With Diaspora, we are reclaiming our data, securing our social connections, and making it easy to share on your own terms. We think we can replace today&amp;#8217;s centralized social web with a more secure and convenient decentralized network. Diaspora will be easy to use, and it will be centered on you instead of a faceless hub.&lt;/p&gt;
-&lt;b&gt;Why are we building it?&lt;/b&gt;
+&lt;h3&gt;Why are we building it?&lt;/h3&gt;
 &lt;p&gt;This February, &lt;a href=&quot;http://en.wikipedia.org/wiki/Eben_Moglen&quot;&gt;Eben Moglen&lt;/a&gt;, Columbia law professor and author of the latest &lt;span class=&quot;caps&quot;&gt;GPL&lt;/span&gt;, gave a talk on &lt;a href=&quot;http://www.youtube.com/watch?v=QOEMv0S8AcA&quot;&gt;Internet privacy.&lt;/a&gt; As more and more of our lives and identities become digitized, Moglen explains, the convenience of putting all of our information in the hands of companies on “the cloud” is training us to casually sacrifice our privacy and fragment our online identities.&lt;/p&gt;
 &lt;p&gt;But why is centralization so much more convenient, even in an age where relatively powerful computers are ubiquitous? Why is there no good alternative to centralized services that, as Moglen pointed out, comes with &amp;quot;spying for free?” Why do we keep our personal data in a thousand places? We have the technology, someone just needs to take the time to figure out how we can communicate smoothly and intuitively, without the hidden costs of “the cloud”. As good programmers, when we noticed that the application we need doesn&amp;#8217;t exist, we set out to fill the hole in our digital lives.&lt;/p&gt;
-&lt;b&gt;Why do we need money?&lt;/b&gt;
+&lt;h3&gt;Why do we need money?&lt;/h3&gt;
 &lt;p&gt;We have a plan, &lt;a href=&quot;http://joindiaspora.com/project.html&quot;&gt;a bunch of ideas&lt;/a&gt; and the programming chops to build Diaspora. What we need is the time it takes to iron out a powerful, secure, and elegant piece of software. Daniel, Ilya, Raphael, and Maxwell are all ready to trade our internships and summer jobs for three months totally focused on building Diaspora. We want to write code all the time, everyday. Once we have made our first solid iteration, we are going to release our code as &lt;a href=&quot;http://en.wikipedia.org/wiki/Free_software&quot;&gt;free software&lt;/a&gt; so everyone can make Diaspora even better. $10,000 buys the software for everyone who wants to use it, forever. We think it can change the way people communicate and empower individuals to permanently take control of their online identities.&lt;/p&gt;
 &lt;p&gt;After we open source our source code, we hope to also provide a paid turnkey hosted service in the vein of &lt;a href=&quot;http://www.wordpress.com&quot;&gt;Wordpress.com&lt;/a&gt; to make it easy for people who want to use Diaspora, but don’t want to deal with the fuss of setting it up.* We will make it easy to export your data and configuration, so if you decide you want to graduate and host your seed yourself, you are free to do so at anytime.&lt;/p&gt;
 &lt;p&gt;Our goal is for everyone to have full control over their data and to empower people in to become responsible, secure, and social Internet dwellers. We believe offering this service will be helpful to non-technical users who are also worried about their data and privacy online.&lt;/p&gt;
-&lt;b&gt;Our Promise.&lt;/b&gt;
+&lt;h3&gt;Our Promise.&lt;/h3&gt;
 &lt;p&gt;We promise to you that Diaspora will be &lt;a href=&quot;http://en.wikipedia.org/wiki/Affero_General_Public_License&quot;&gt;aGPL&lt;/a&gt; software which will released at the end of the summer.&lt;/p&gt;
-&lt;b&gt;Want more info?&lt;/b&gt;
+&lt;h3&gt;Want more info?&lt;/h3&gt;
 &lt;p&gt;Check out our website for project updates, blog posts, pictures, and plans. More information is being added every day! &lt;a href=&quot;http://www.joindiaspora.com&quot;&gt;www.joindiaspora.com&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Check out more videos &lt;a href=&quot;http://www.youtube.com/user/mbs348&quot;&gt;here.&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Check out more videos &lt;a href=&quot;http://www.youtube.com/user/mbs348&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;Want get Diaspora updates via email? &lt;a href=&quot;http://spreadsheets.google.com/viewform?key=0AoQmncVLKXRBdFo1N3o4R3lrWkszX0dIQm9vemp5TWc&amp;amp;hl=en&quot;&gt;Sign up here!&lt;/a&gt; &lt;br /&gt;
 *this service will be available a few months after the end of the summer.&lt;/p&gt;</content>
  </entry>
@@ -165,7 +158,7 @@ and we are huge fans of the &lt;a href=&quot;http://lorea.cc&quot;&gt;lorea.cc&l
    <content type="html">&lt;h2&gt;Dan Made Some Awesome Flyers&lt;/h2&gt;
 &lt;p class=&quot;meta&quot;&gt;24 &lt;span class=&quot;caps&quot;&gt;APRIL&lt;/span&gt; 2010 by maxwell&lt;/p&gt;
 &lt;p&gt;Dan just made some radical flyers for Ilya to handout at a meeting tomorrow.  In case you feel like plastering your hometown with them too, here is a nice image of them.&lt;/p&gt;
-&lt;p&gt;&lt;img width=&quot;98%&quot; src=&quot;/images/diaspora_handouts_printout.png&quot; alt=&quot;diaspora handouts&quot;/&gt;&lt;/p&gt;</content>
+&lt;p&gt;&lt;img width=&quot;80%&quot; src=&quot;/images/diaspora_handouts_printout.png&quot; alt=&quot;diaspora handouts&quot;/&gt;&lt;/p&gt;</content>
  </entry>
  
  <entry>
@@ -173,12 +166,10 @@ and we are huge fans of the &lt;a href=&quot;http://lorea.cc&quot;&gt;lorea.cc&l
    <link href="http://www.joindiaspora.com//2010/04/24/10-kickstarter-is-up.html"/>
    <updated>2010-04-24T00:00:00-04:00</updated>
    <id>http://www.joindiaspora.com//2010/04/24/10-kickstarter-is-up</id>
-   <content type="html">&lt;h2&gt;Kickstarter is up!&lt;/h2&gt;
-&lt;p class=&quot;meta&quot;&gt;24 &lt;span class=&quot;caps&quot;&gt;APRIL&lt;/span&gt; 2010 by maxwell&lt;/p&gt;
-&lt;div class=&quot;span-7&quot;&gt;
+   <content type="html">&lt;h2&gt;Kickstarter is up!&lt;br /&gt;
+p(meta). 24 &lt;span class=&quot;caps&quot;&gt;APRIL&lt;/span&gt; 2010 by maxwell&lt;/h2&gt;
 &lt;p&gt;Hey everyone!  The Kickstarter is finally up for the project.  We have some serious fundraising to do, but we think that with the help of the Kickstarter and Free Software Communities, we can make it happen.  It would be awesome if you checked our our KS page and clicked that big &amp;#8220;Back this Project&amp;#8221; button.  We think we have some neat rewards to offer, not to mention Diaspora itself will be a great reward for everyone.&lt;/p&gt;
 &lt;p&gt;Either way, keep us in mind won&amp;#8217;t you? Maybe even pass this awesome widget on&amp;#8230;&lt;/p&gt;
-&lt;/div&gt;
 &lt;p&gt;&lt;a href='http://kck.st/9QC2zk'&gt;&lt;img border='0' src='http://www.kickstarter.com/projects/196017994/diaspora-the-personally-controlled-do-it-all-distr/widget/card.jpg' /&gt;&lt;/a&gt;&lt;/p&gt;</content>
  </entry>
  

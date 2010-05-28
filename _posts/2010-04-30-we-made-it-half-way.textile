@@ -7,21 +7,14 @@ h2. {{ page.title }}
 
 p(meta). 30 APRIL 2010 by {{page.author}}
 
-<div class="span-7">
 Wow! After just one week, we are now half-way to our goal!  It has been a really crazy ride for us, "the support":http://twitter.com/starkness/status/13046623398 and "excitement":http://twitter.com/hult/status/13077480233 we have been getting is absolutely "unreal":http://twitter.com/brokep/status/13078993912.  However, there is still half way to go!  We (the team) are still thinking of new ways we can reach people, and we certainly won't stop working hard to make sure we achieve our goal.  So many of you have reached out to us to lend a hand, and if you have been helping us out, or even just reposting our stuff, thank you so much!  
 
 We have a couple of cool things to announce next week, so be sure to keep a look out another post sometime soon for more info about that.  It has been great following many of you on "Twitter":http://twitter.com/joindiaspora to see that so many people are excited about these problems as we are.  Every time we see a new relevant update from you all reminds us why we want to make Diaspora.
-
-
 
 Thanks to all for being so awesome, we can't wait till our finals are over so we can get crackin' on Diaspora!
 
 - maxwell
 
-
-Also, for a slightly more technical update, "here":http://joindiaspora.com/2010/04/30/a-response-to-mr-villa.html is our response to Mozilla's Luis Villa.
-</div>
-
+__Also, for a slightly more technical update, "here":http://joindiaspora.com/2010/04/30/a-response-to-mr-villa.html is our response to Mozilla's Luis Villa.__
 
 <a href='http://kck.st/9QC2zk'><img border='0' src='http://www.kickstarter.com/projects/196017994/diaspora-the-personally-controlled-do-it-all-distr/widget/card.jpg' /></a>
-<br style="clear:both">

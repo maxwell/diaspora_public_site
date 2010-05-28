@@ -1,13 +1,14 @@
 ---
 layout: default
-title: join diaspora - the project
+title: the project
 ---
 
-h1. {{ page.title }}
+h1(section_header). {{ page.title }}
 
 
-{%include video.html%}
+div(#right_col). {%include video.html%}
 
+<div id="left_col">
 We are 140-character ideas.  We are the pictures of your cat.  We are blog posts about the economy.  We are the collective knowledge that is Wikipedia.  The internet is a canvas - of which, we paint broad and fine strokes of our lives with.  It is a forward extension of our physical lives; a meta-self comprised of ones and zeros.  We are all that is digital:  If we weren't, the internet wouldn't either.	
 
 h3. current state.
@@ -18,13 +19,11 @@ h3. first sprint.
 
 It is our one and only goal to get Diaspora in the hands of every man, woman, and child at summer's end.  September 2010 will signify the release of the project in its first iteration, fully open-sourced under the AGPL.  This release will be comprised of several key features for Diaspora, mainly:
 
-<ul style="font-style:italic;">
-	<li>Full-fledged communications between Seeds (Diaspora instances)</li>
-	<li>End to end GPG</li>
-	<li>External Service Scraping of most major services (reclaim your data)</li>
-	<li>Version 1 of Diaspora's API with documentation</li>
-	<li>Public GitHub repository of all Diaspora code</li>
-</ul>
+* __Full-fledged communications between Seeds (Diaspora instances)__
+* __End to end GPG__
+* __External Service Scraping of most major services (reclaim your data)__
+* __Version 1 of Diaspora's API with documentation__
+* __Public GitHub repository of all Diaspora code__
 
 h3. second sprint.
 
@@ -34,15 +33,14 @@ h3. flooring it to 88mph.
 
 The future will offer a multitude of amazing new capabilities for Diaspora.  A taste of what's floating around in our heads right now:
 
-<ul style="font-style:italic;">
-  <li>OpenID</li>
-	<li>Voice-over IP</li>
-	<li>Distributed Encrypted Backups</li>
-	<li>Instant Messaging protocol</li>
-	<li>UDP integration</li>
-</ul>
+* __OpenID__
+* __Voice-over IP__
+* __Distributed Encrypted Backups__
+* __Instant Messaging protocol__
+* __UDP integration__
 
-<i><a href="http://www.zombo.com">"The only limit is yourself."</a></i>
+__"The only limit is yourself.":http://www.zombo.com__
 
-<br/>
-<i>for the most up to date info, check out our <a href="http://kck.st/9QC2zk"> kickstarter page</a> or our <a href="/blog.html"> blog </a>
+For the most up to date info, check out our "kickstarter page":http://kck.st/9QC2zk or our "blog":/blog.html
+</div>
+

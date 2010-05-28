@@ -1,0 +1,26 @@
+---
+layout: default
+title: join diaspora - media
+---
+
+h1(section_header). media
+
+h3. Press
+* <a href=""> "__Four Nerds and a Cry to Arms Against Facebook__ @NYTimes":http://www.nytimes.com/2010/05/12/nyregion/12about.html
+* "__The Anti-Facebook__ @BBC":http://www.bbc.co.uk/blogs/thereporters/maggieshiels/2010/05/the_antifacebook.html
+
+h3. Pictures
+* "Large Diaspora text":/images/diaspora_large.png
+* "A shot of us":/images/this_is_us.jpg
+* "Flyers":/images/diaspora_handouts_printout.png
+* "A presentation we gave to ISOC NY":/images/Diaspora_ISOC_Presentation.pdf
+* "Diaspora dandy logo":/images/diaspora_dandy_logo.png ... (thanks to flickr user "horiavarlan":http://www.flickr.com/photos/horiavarlan/)!
+
+h3. Videos
+* "More videos of us talking about the project":http://www.youtube.com/user/mbs348
+* "Kickstarter (OGV)":http://joindiaspora.com/videos/kickstarter_short.ogv
+* "Kickstarter(HD)(OGV)":http://joindiaspora.com/videos/Group%20Kick%20Short_hd.ogv
+* "Whats Our Inspiration?(OGV)":http://joindiaspora.com/videos/Whats%20Our%20Inspiration.ogv
+* "I don't even have a Last.Fm account(OGV)":http://joindiaspora.com/videos/Max%20Wanted%20to%20Tell%20You%20a%20Bit%20More.ogv
+* "Other Benefits(OGV)":http://joindiaspora.com/videos/Other%20Awesomeness.ogv
+* "Outtakes(OGV)":http://joindiaspora.com/videos/outtakes.ogv
