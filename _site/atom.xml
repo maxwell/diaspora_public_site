@@ -4,7 +4,7 @@
  <title>Join Diaspora Blog</title>
  <link href="http://www.joindiaspora.com/atom.xml" rel="self"/>
  <link href="http://www.joindiaspora.com/"/>
- <updated>2010-05-31T16:57:17-04:00</updated>
+ <updated>2010-05-31T17:02:20-04:00</updated>
  <id>http://www.joindiaspora.com/</id>
  <author>
    <name>diaspora</name>
@@ -14,9 +14,9 @@
  
  <entry>
    <title>After the Times</title>
-   <link href="http://www.joindiaspora.com//2011/05/17/after-the-times.html"/>
-   <updated>2011-05-17T00:00:00-04:00</updated>
-   <id>http://www.joindiaspora.com//2011/05/17/after-the-times</id>
+   <link href="http://www.joindiaspora.com//2010/05/17/after-the-times.html"/>
+   <updated>2010-05-17T00:00:00-04:00</updated>
+   <id>http://www.joindiaspora.com//2010/05/17/after-the-times</id>
    <content type="html">&lt;h2&gt;After the Times&lt;/h2&gt;
 &lt;p class=&quot;meta&quot;&gt;17 May 2010&lt;/p&gt;
 &lt;p&gt;Everyone,&lt;/p&gt;
@@ -32,9 +32,9 @@
  
  <entry>
    <title>We Made It!</title>
-   <link href="http://www.joindiaspora.com//2011/05/08/we-did-it.html"/>
-   <updated>2011-05-08T00:00:00-04:00</updated>
-   <id>http://www.joindiaspora.com//2011/05/08/we-did-it</id>
+   <link href="http://www.joindiaspora.com//2010/05/08/we-did-it.html"/>
+   <updated>2010-05-08T00:00:00-04:00</updated>
+   <id>http://www.joindiaspora.com//2010/05/08/we-did-it</id>
    <content type="html">&lt;h2&gt;We Made It!&lt;/h2&gt;
 &lt;p class=&quot;meta&quot;&gt;08 May 2010 by maxwell&lt;/p&gt;
 &lt;p&gt;&lt;img src=&quot;/images/thank-you-diaspora.full.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
