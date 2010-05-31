@@ -4,16 +4,11 @@ title: join diaspora -  blog
 ---
 <h1 class="section_header">the blog</h1>
 
-{% for post in site.posts %}
-<div class="post">
-	<div class="twitter_button">
-		<script type="text/javascript">
-			tweetmeme_url = "http://joindiaspora.com{{ post.url }}";
-			</script>
-			<script type="text/javascript" src="http://tweetmeme.com/i/scripts/button.js"></script>
-		</div>
-	</div>
-	{{post.content}}
-	<!-- <a href="{{post.url}}">permalink</a> -->
+<ul id="blog_listing">
+	{% for post in site.posts %}
+	<li>
+	<span class="blog_date">{{ post.date | date: "%B %d %Y" }}</span><a href="{{post.url}}">{{post.title}}</a>
+	</li>
+
 	{% endfor %}
-</div>
+</ul>

@@ -1,6 +1,22 @@
 ---
 layout: default
 ---
-
-{{ content }}
-<a href="{{post.url}}">permalink</a>
+<div class="post">
+	<div class="twitter_button">
+		<script type="text/javascript">
+			tweetmeme_url = "{{ url }}";
+			</script>
+			<script type="text/javascript" src="http://tweetmeme.com/i/scripts/button.js"></script>
+		</div>
+	</div>
+	{{content}}
+	<a href="{{url}}">permalink</a>
+	<div id="new_old">
+		{% if page.next %}
+		<span class="button_left"><a href="{{page.next.url}}">NEWER</a></span>
+		{% endif %}
+		{% if page.previous %}
+		<span class="button_right"><a href="{{page.previous.url}}" class="button_right">OLDER</a></span>
+		{% endif %}
+	</div>
+</div>

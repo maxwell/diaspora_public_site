@@ -16,7 +16,7 @@ body { padding: 5em;
 	   border-top:    3px solid #3c3836;
 	   border-bottom: 3px solid #3c3836; }
 
-a { color: #9acd32; }
+a { color: #9acd32; text-decoration: none; }
 
 h1 { font-family: 'BrandonGrotesqueLightRegular'; }
 h2 { font-size: 24px; }
@@ -109,8 +109,8 @@ div#footer {
 	min-height: 80px;
 }
 
-div#footer_left  { float: left; width: 50% }
-div#footer_right { float: right; width: 40% }
+div#footer_left  { float: left; width: 45% }
+div#footer_right { float: right; width: 50% }
 
 div#footer ul { margin: 0; padding: 0; display:inline; }
 div#footer li {
@@ -118,11 +118,11 @@ div#footer li {
 	padding: 3px;
 }
 
-
 div#footer span.footer_statement {
 	display: block;
 	font-weight: bold;
 	font-size: 1.5em;
+	margin-top: 7px;
 }
 
 div#footer a { text-decoration: none; }
@@ -188,11 +188,37 @@ ul#action_panes > li {
 
 div.container { min-width: 500px; width: 60%; max-width: 700px; }
 
-
 div.container img { max-width: 100%; }
 
 
 div#main_vid { position: relative; width: 100%; text-align: center; }
 
-
 div#video_descrip { text-align: inherit; font-weight: bold; margin-bottom: 40px; font-size: 1.2em; color: #999; }
+
+ul#blog_listing { font-size: 1.2em; list-style: none; }
+ul#blog_listing li { margin-bottom: 0.5em; }
+ul#blog_listing li a { text-decoration: none; }
+ul#blog_listing span.blog_date { color: #eaeaea; margin-right: 3em;
+			font-weight: bold; }
+
+
+
+div#new_old {
+	font-size: 3em;
+}
+
+
+span.button_right { float: right;} 
+
+
+
+div.front_text { font-size: 2em; margin-bottom: 2em;}
+div.front_text a { font-weight: bold; }
+
+
+
+div#twitter_update_list li { list-style: none; }
+
+
+div#short_def { text-align: center; font-size: 4em; margin-bottom: 2em; }
+
