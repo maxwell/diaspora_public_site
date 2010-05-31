@@ -5,7 +5,7 @@ title: the project
 
 h1(section_header). {{ page.title }}
 
-{%include video.html%}
+div(#main_vid). {%include video.html%}
 
 We are 140-character ideas.  We are the pictures of your cat.  We are blog posts about the economy.  We are the collective knowledge that is Wikipedia.  The internet is a canvas - of which, we paint broad and fine strokes of our lives with.  It is a forward extension of our physical lives; a meta-self comprised of ones and zeros.  We are all that is digital:  If we weren't, the internet wouldn't either.	
 
