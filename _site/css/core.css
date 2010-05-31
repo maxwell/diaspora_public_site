@@ -26,9 +26,6 @@ p   { font-family: 'garamond', 'times', serif; font-size: 1.3em;
 p a { font-weight: bold; }
 
 /* header */
-div.front_nav { margin: 100px 0 70px 0; }
-div.main_nav  { margin: 0 0 70px 0; }
-
 div#header { font-family: 'BrandonGrotesqueLightRegular'; text-align: center;
 			 border-bottom: 1px solid #000; margin-bottom: 80px; }
 
@@ -36,12 +33,13 @@ div#header > h1.title a { color: #333; text-decoration: none; }
 div#header > h1.title a:hover { text-decoration: none; }
 
 div#floating_nav { position: absolute; top: 104px;
-	width: 100%; text-align: center; margin-left: -5em; }
+				   width: 100%; text-align: center;
+				   margin-left: -5em; }
 
 ul#nav { font-family: 'BrandonGrotesqueLightRegular'; display: inline; margin: 0; padding: 0;
 		background-color: #fff; padding: 0 2%;
-
 }
+
 ul#nav > li { display: inline; font-size: 18px; }
 ul#nav > li + li { margin-left: 20px; }
 
