@@ -11,6 +11,7 @@ h3. Press
 
 h3. Pictures
 * "Large Diaspora text":/images/diaspora_large.png
+* "Old Diaspora text":/images/diaspora_large_old.png
 * "A shot of us":/images/this_is_us.jpg
 * "Flyers":/images/diaspora_handouts_printout.png
 * "A presentation we gave to ISOC NY":/images/Diaspora_ISOC_Presentation.pdf
