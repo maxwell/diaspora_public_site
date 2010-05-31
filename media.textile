@@ -10,7 +10,7 @@ h3. Press
 * "__The Anti-Facebook__ @BBC":http://www.bbc.co.uk/blogs/thereporters/maggieshiels/2010/05/the_antifacebook.html
 
 h3. Pictures
-* "Large Diaspora text":/images/diaspora_large.png
+* "Large Diaspora text":/images/diaspora_large_new.png
 * "Old Diaspora text":/images/diaspora_large_old.png
 * "A shot of us":/images/this_is_us.jpg
 * "Flyers":/images/diaspora_handouts_printout.png
