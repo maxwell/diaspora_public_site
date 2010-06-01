@@ -1,6 +1,7 @@
 ---
 layout: post
 title: After the Times
+excerpt: We realize we've been conspicuously absent the past few days.  As you can imagine, we've been overwhelmed by the degree of the enthusiasm about Diaspora, and we wanted to wait a few days to to let the craziness settle down.  Over 4600 people care enough about Diaspora's goals and have enough confidence in us to sign up for Kickstarter and back us.  Now that we have much more money than we asked for, our situation has changed a little.
 ---
 h2. {{ page.title }}
 
