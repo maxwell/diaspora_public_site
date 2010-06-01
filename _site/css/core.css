@@ -27,10 +27,11 @@ p a { font-weight: bold; }
 
 /* header */
 div#header { font-family: 'BrandonGrotesqueLightRegular'; text-align: center;
-			 border-bottom: 1px solid #000; margin-bottom: 80px; margin-top: 30px;
+			 border-bottom: 1px solid #000; margin-bottom: 80px; margin-top: 35px;
 			 position: relative; }
 
-div#header > h1.title a { color: #333; text-decoration: none; }
+div#header > h1.title a { color: #333; text-decoration: none;
+						  text-shadow: 2px 0 2px #fff; }
 div#header > h1.title a:hover { text-decoration: none; }
 
 div#floating_nav { position: absolute; top: 40px;
@@ -138,7 +139,11 @@ div#top_image { width: 100%; position: relative;
 				height: 100px;
 				background-image: url('../images/dandy.jpg');
 				z-index: -1;
-				border-bottom: 2px solid #fff;
+				border-bottom: 1px solid #fff;
+				box-shadow: 0 5px 50px -3px #000;
+				-webkit-box-shadow: 0 5px 40px -3px #000;
+				-moz-box-shadow: 0 20px 20px -20px #000;
+				overflow: hidden;
 }
 
 div#top_gradient {
@@ -146,6 +151,8 @@ div#top_gradient {
 	height: 150px;
 	width: 100%;
 	margin: -5em -5em;
+	background: #fff;
 	background: -webkit-gradient(linear, 0% 0%, 0% 100%, from(#eaeaea), to(#FFFFFF));
+	background: -moz-linear-gradient(0% 100% 90deg,#FFFFFF, #EAEAEA);
 	z-index: -2;
 }

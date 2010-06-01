@@ -9,13 +9,13 @@ title: join diaspora -  blog
 <h1>LATEST POST</h1>
 <div class="front_text">
 	{% for post in site.posts limit: 1 %}
-	<b>{{ post.title }}</b>
-	<div id="front_blog_exceprt">{{ post.excerpt | textilize }} <a href={{post.url}}>Read more</a></div>
+	<a href="{{ post.url}}">{{ post.title }}</a>
+	<!-- <div id="front_blog_exceprt">{{ post.excerpt | textilize }} <a href={{post.url}}>Read more</a></div> -->
 	{% endfor %}
 </div>
 
-<h1>@JOINDIASPORA</h1>
-<div id="twitter_update_list" class="front_text"></div>
+<h1 style="text-align:right;">@JOINDIASPORA</h1>
+<div id="twitter_update_list" class="front_text" style="text-align:right;"></div>
 <script type="text/javascript" src="http://twitter.com/javascripts/blogger.js">
 </script>
 <script type="text/javascript" src="http://twitter.com/statuses/user_timeline/joindiaspora.json?callback=twitterCallback2&count=1">

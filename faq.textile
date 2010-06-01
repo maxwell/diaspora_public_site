@@ -56,4 +56,4 @@ Yes. The Diaspora core will be content agnostic. Anybody will be able to write a
 
 
 
-<i>for news, check out our <a href="/blog.html"> blog </a>
+__for news, check out our "blog":/blog.html.__
