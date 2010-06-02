@@ -142,8 +142,8 @@ div#top_image { width: 100%; position: relative;
 				z-index: -1;
 				border-bottom: 1px solid #999;
 				box-shadow: 0 5px 50px -3px #000;
-				-webkit-box-shadow: 0 5px 40px -3px #000;
-				-moz-box-shadow: 0 20px 20px -20px #000;
+				-webkit-box-shadow: 0 -5px 50px 0px #000;
+				-moz-box-shadow: 0 13px 20px -20px #000;
 				overflow: hidden;
 }
 
