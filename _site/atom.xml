@@ -4,13 +4,76 @@
  <title>Join Diaspora Blog</title>
  <link href="http://www.joindiaspora.com/atom.xml" rel="self"/>
  <link href="http://www.joindiaspora.com/"/>
- <updated>2010-06-27T23:43:41-07:00</updated>
+ <updated>2010-07-01T22:58:48-07:00</updated>
  <id>http://www.joindiaspora.com/</id>
  <author>
    <name>diaspora</name>
    <email>team@joindiaspora.com</email>
  </author>
 
+ 
+ <entry>
+   <title>One Month In</title>
+   <link href="http://www.joindiaspora.com//2010/07/01/one-month-in.html"/>
+   <updated>2010-07-01T00:00:00-07:00</updated>
+   <id>http://www.joindiaspora.com//2010/07/01/one-month-in</id>
+   <content type="html">&lt;h2&gt;One Month In&lt;/h2&gt;
+&lt;p class=&quot;meta&quot;&gt;01 July 2010&lt;/p&gt;
+&lt;p&gt;Greetings from San Francisco!  Today is July 1st, so that means today we are going to be sharing what we have been working on the past few weeks.&lt;/p&gt;
+&lt;p&gt;After getting settled in ole San Fran, our first day at Pivotal Labs was June 7th.  Not only has Pivotal lent us desks and monitors for the summer, they push us daily to drive development from the interface and focus on the experience, rather than providing &lt;strong&gt;just&lt;/strong&gt; a tool for developers to hack on.  Getting periodic help from Pivots has already been transformative on the outcome of Diaspora.&lt;/p&gt;
+&lt;p&gt;So Pivotal Labs, thanks for letting us use your stuff, eat your food, and for teaching us your agile ninja ways. We owe you one!&lt;/p&gt;
+&lt;h3&gt;What have we been working on?&lt;/h3&gt;
+&lt;p&gt;During June, we have been focusing on developing a system for passing different forms of information in between seeds.  When you post a status message on your seed, it gets pushed over &lt;span class=&quot;caps&quot;&gt;HTTP&lt;/span&gt; in real time to all of your friends.&lt;/p&gt;
+&lt;p&gt;We have also started to build the latest and greatest in web standards into Diaspora.  Websockets are already in the Diaspora core, and any Diaspora plugins will be able to have rapid two-way functionality, (think chat, games etc) almost effortlessly!&lt;/p&gt;
+&lt;p&gt;Onto the screen shots!  Most of the cool things for this month you can see in our video, here.  (I know you all were itching for another really awkward video from us, so consider your wish granted)&lt;/p&gt;
+&lt;h3&gt;What is real&lt;/h3&gt;
+&lt;p&gt;&lt;b&gt;Real time message passing&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Everyone on your friends list is pushed a copy of your messages.  Additionally, if any of your friends comment on your post, the comment is sent back to the post’s owner, and back down to all of your other friends.  These seed are on the internet (in different places, too) and are speedy and lightweight.  This allows us to create a real time feed of all of your friends’ updates.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Websocket &amp;#8211; Ajaxy goodness.&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;In addition to real time message passing, you are notified all of your friends’ messages which are push to your server as soon as it happens.&lt;/p&gt;
+&lt;h3&gt;What is faked for the purposes of this demonstration&lt;/h3&gt;
+&lt;p&gt;&lt;b&gt;User pictures&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Not a hard problem, we just haven’t addressed it yet.&lt;/p&gt;
+&lt;h2&gt;&lt;span class=&quot;caps&quot;&gt;DEMO&lt;/span&gt; &lt;span class=&quot;caps&quot;&gt;TIME&lt;/span&gt;&lt;/h2&gt;
+&lt;p&gt;First, a video of Dan and I showing sending a couple of status messages in between two Diaspora seeds.  You can see the comments trickling down to both friends&amp;#8217; feeds.&lt;br /&gt;
+&lt;a href=&quot;http://vimeo.com/13026281&quot;&gt;video here&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Second, we have a video with us using a bunch of different diaspora seeds.  They are all on different servers, and all friended with the same person.  When we have that person send out 10 messages in rapid succession, you can see how fast their friends are updated.&lt;br /&gt;
+&lt;object width=&quot;400&quot; height=&quot;225&quot;&gt;&lt;param name=&quot;allowfullscreen&quot; value=&quot;true&quot; /&gt;&lt;param name=&quot;allowscriptaccess&quot; value=&quot;always&quot; /&gt;&lt;param name=&quot;movie&quot; value=&quot;http://vimeo.com/moogaloop.swf?clip_id=13026173&amp;amp;server=vimeo.com&amp;amp;show_title=1&amp;amp;show_byline=1&amp;amp;show_portrait=0&amp;amp;color=&amp;amp;fullscreen=1&quot; /&gt;&lt;embed src=&quot;http://vimeo.com/moogaloop.swf?clip_id=13026173&amp;amp;server=vimeo.com&amp;amp;show_title=1&amp;amp;show_byline=1&amp;amp;show_portrait=0&amp;amp;color=&amp;amp;fullscreen=1&quot; type=&quot;application/x-shockwave-flash&quot; allowfullscreen=&quot;true&quot; allowscriptaccess=&quot;always&quot; width=&quot;400&quot; height=&quot;225&quot;&gt;&lt;/embed&gt;&lt;/object&gt;&lt;p&gt;&lt;a href=&quot;http://vimeo.com/13026173&quot;&gt;Diaspora Message Propagation (pre-alpha!)&lt;/a&gt; from &lt;a href=&quot;http://vimeo.com/user3612554&quot;&gt;daniel grippi&lt;/a&gt; on &lt;a href=&quot;http://vimeo.com&quot;&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
+&lt;p&gt;Lastly, we have a few screenshots.  We wanted to do a little story novella, but actually since posting any update pushes it out to friends so fast, we forgot to get a screencap of their friends page without their messages. Go figure.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/images/adams.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/images/jefferson.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/images/washington.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;h2&gt;Whats next for us?&lt;/h2&gt;
+&lt;p&gt;&lt;b&gt;Coding and more coding.&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;We have had a great run our first month, and we show no signs of stopping.  We are weeks ahead of schedule in terms of robustness, thanks to Pivotal Labs. We have been rather quiet (which really brings out the doubters), but I promise that is because we are working hard to make Diaspora awesome.  Bear with us for the next few months, it will be worth it.&lt;/p&gt;
+&lt;p&gt;People have been asking us almost every day what our development schedule is, and when we plan to finish exactly, and the honest truth is we don’t have an exact day.  With one week “sprints,” lots of end-to-end, user driven features are being added every day.  We try and “theme” our months to be features around a given area.&lt;/p&gt;
+&lt;p&gt;The month’s themes (subject to change):&lt;/p&gt;
+&lt;h3&gt;June&lt;/h3&gt;
+&lt;ul&gt;
+	&lt;li&gt;Real Time Message passing between seeds&lt;/li&gt;
+	&lt;li&gt;Building the core of the application&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;July&lt;/h3&gt;
+&lt;ul&gt;
+	&lt;li&gt;OStatus/Standards compliance&lt;/li&gt;
+	&lt;li&gt;Encryption Layer&lt;/li&gt;
+	&lt;li&gt;Implement awesome user interface&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;August&lt;/h3&gt;
+&lt;ul&gt;
+	&lt;li&gt;Plugins&lt;/li&gt;
+	&lt;li&gt;Services(including FB) integration&lt;/li&gt;
+	&lt;li&gt;&lt;span class=&quot;caps&quot;&gt;API&lt;/span&gt; Refator&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;September&lt;/h3&gt;
+&lt;ul&gt;
+	&lt;li&gt;Prep for source code freedom!&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Looks like we came in right on schedule for June :)&lt;/p&gt;
+&lt;p&gt;Another exciting development is that we have been invited to attend the Federated Social Web Summit in Portland Oregon on July 18th.  There we will meet with all of the awesome people working in this space, exchange cool ideas, and make some lasting relationships.  Special thanks to the people behind Status.net who have been hard at work organizing the event.&lt;/p&gt;
+&lt;p&gt;That’s all we have for you right now, now it’s time for us to tackle July!&lt;/p&gt;
+&lt;p&gt;- Maxwell&lt;/p&gt;</content>
+ </entry>
  
  <entry>
    <title>A Little More Than 24 Hours Left!</title>

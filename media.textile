@@ -25,3 +25,5 @@ h3. Videos
 * "I don't even have a Last.Fm account(OGV)":http://joindiaspora.com/videos/Max%20Wanted%20to%20Tell%20You%20a%20Bit%20More.ogv
 * "Other Benefits(OGV)":http://joindiaspora.com/videos/Other%20Awesomeness.ogv
 * "Outtakes(OGV)":http://joindiaspora.com/videos/outtakes.ogv
+* "First Preview(OGV)":http://joindiaspora.com/videos/First%20Preview.ogv
+* "Many Friends(OGV)":http://joindiaspora.com/videos/Many%20Friends.ogv

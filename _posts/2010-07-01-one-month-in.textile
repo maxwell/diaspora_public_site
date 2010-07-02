@@ -1,0 +1,96 @@
+---
+layout: post
+title: One Month In
+---
+h2. {{ page.title }}
+
+p(meta). 01 July 2010
+
+Greetings from San Francisco!  Today is July 1st, so that means today we are going to be sharing what we have been working on the past few weeks.
+
+After getting settled in ole San Fran, our first day at Pivotal Labs was June 7th.  Not only has Pivotal lent us desks and monitors for the summer, they push us daily to drive development from the interface and focus on the experience, rather than providing *just* a tool for developers to hack on.  Getting periodic help from Pivots has already been transformative on the outcome of Diaspora. 
+
+So Pivotal Labs, thanks for letting us use your stuff, eat your food, and for teaching us your agile ninja ways. We owe you one! 
+
+h3. What have we been working on?
+
+During June, we have been focusing on developing a system for passing different forms of information in between seeds.  When you post a status message on your seed, it gets pushed over HTTP in real time to all of your friends.  
+
+We have also started to build the latest and greatest in web standards into Diaspora.  Websockets are already in the Diaspora core, and any Diaspora plugins will be able to have rapid two-way functionality, (think chat, games etc) almost effortlessly!
+
+	Onto the screen shots!  Most of the cool things for this month you can see in our video, here.  (I know you all were itching for another really awkward video from us, so consider your wish granted)
+
+h3. What is real
+
+**Real time message passing**
+
+Everyone on your friends list is pushed a copy of your messages.  Additionally, if any of your friends comment on your post, the comment is sent back to the post’s owner, and back down to all of your other friends.  These seed are on the internet (in different places, too) and are speedy and lightweight.  This allows us to create a real time feed of all of your friends’ updates.
+
+**Websocket - Ajaxy goodness.**
+
+In addition to real time message passing, you are notified all of your friends’ messages which are push to your server as soon as it happens. 
+
+
+h3. What is faked for the purposes of this demonstration
+
+**User pictures**
+
+Not a hard problem, we just haven’t addressed it yet.
+
+h2. DEMO TIME
+
+First, a video of Dan and I showing sending a couple of status messages in between two Diaspora seeds.  You can see the comments trickling down to both friends' feeds.
+"video here":http://vimeo.com/13026281
+
+Second, we have a video with us using a bunch of different diaspora seeds.  They are all on different servers, and all friended with the same person.  When we have that person send out 10 messages in rapid succession, you can see how fast their friends are updated.
+<object width="400" height="225"><param name="allowfullscreen" value="true" /><param name="allowscriptaccess" value="always" /><param name="movie" value="http://vimeo.com/moogaloop.swf?clip_id=13026173&amp;server=vimeo.com&amp;show_title=1&amp;show_byline=1&amp;show_portrait=0&amp;color=&amp;fullscreen=1" /><embed src="http://vimeo.com/moogaloop.swf?clip_id=13026173&amp;server=vimeo.com&amp;show_title=1&amp;show_byline=1&amp;show_portrait=0&amp;color=&amp;fullscreen=1" type="application/x-shockwave-flash" allowfullscreen="true" allowscriptaccess="always" width="400" height="225"></embed></object><p><a href="http://vimeo.com/13026173">Diaspora Message Propagation (pre-alpha!)</a> from <a href="http://vimeo.com/user3612554">daniel grippi</a> on <a href="http://vimeo.com">Vimeo</a>.</p>
+
+Lastly, we have a few screenshots.  We wanted to do a little story novella, but actually since posting any update pushes it out to friends so fast, we forgot to get a screencap of their friends page without their messages. Go figure.
+
+!/images/adams.png!
+
+
+!/images/jefferson.png!
+
+
+!/images/washington.png!
+
+h2. Whats next for us?
+
+**Coding and more coding.**
+
+We have had a great run our first month, and we show no signs of stopping.  We are weeks ahead of schedule in terms of robustness, thanks to Pivotal Labs. We have been rather quiet (which really brings out the doubters), but I promise that is because we are working hard to make Diaspora awesome.  Bear with us for the next few months, it will be worth it. 
+
+People have been asking us almost every day what our development schedule is, and when we plan to finish exactly, and the honest truth is we don’t have an exact day.  With one week “sprints,” lots of end-to-end, user driven features are being added every day.  We try and “theme” our months to be features around a given area.
+
+The month’s themes (subject to change):
+
+h3. June
+
+* Real Time Message passing between seeds
+* Building the core of the application
+
+h3. July
+
+* OStatus/Standards compliance
+* Encryption Layer
+* Implement awesome user interface
+
+h3. August
+
+* Plugins
+* Services(including FB) integration
+* API Refator
+
+h3. September
+
+* Prep for source code freedom!
+
+Looks like we came in right on schedule for June :)
+
+Another exciting development is that we have been invited to attend the Federated Social Web Summit in Portland Oregon on July 18th.  There we will meet with all of the awesome people working in this space, exchange cool ideas, and make some lasting relationships.  Special thanks to the people behind Status.net who have been hard at work organizing the event.
+
+That’s all we have for you right now, now it’s time for us to tackle July!
+
+- Maxwell
+
