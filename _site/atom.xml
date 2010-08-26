@@ -4,7 +4,7 @@
  <title>Join Diaspora Blog</title>
  <link href="http://www.joindiaspora.com/atom.xml" rel="self"/>
  <link href="http://www.joindiaspora.com/"/>
- <updated>2010-08-26T14:44:55-07:00</updated>
+ <updated>2010-08-26T14:45:57-07:00</updated>
  <id>http://www.joindiaspora.com/</id>
  <author>
    <name>diaspora</name>
@@ -22,8 +22,8 @@
 &lt;p&gt;Dear Internet,&lt;/p&gt;
 &lt;p&gt;Since the 1st of August is nearly over, it is time for an update and answers to some questions.  We have been coding.  We have Diaspora working, we like it, and it will be open-sourced on September 15th.&lt;/p&gt;
 &lt;p&gt;We are spending a good chunk of time concentrating on building clear, contextual sharing.  That means an intuitive way for users to decide, and not notice deciding, what content goes to their coworkers and what goes to their drinking buddies.  We know that&amp;#8217;s a hard UI problem and we take it seriously.   The publicity and money that you have given us has let us work with great designers like Janice Frasier, through her new program &lt;a href=&quot;http://luxr.posterous.com/&quot;&gt;LUXr&lt;/a&gt;, whose constant reminders that we are not the user have kept us honest and focused.  Pivotal Labs has also helped us prioritize, and we have pushed back more technical features like plugins and APIs in favor of simple and high value features.  Our original goals remain the same, and these features are still in our timeline.&lt;/p&gt;
-&lt;p&gt;This has been an epic summer.  We want to say thank you to the people involved with the Federated Social Web Summit in Portland.  There, we ate bagels with Evan Prodromou and the &lt;a href=&quot;http://status.net&quot;&gt;Status.net&lt;/a&gt; crew, and got to meet the people behind some of the great tools that make up the foundation of Diaspora.  We are honored to be a part of building this new kind of web.  We&amp;#8217;ve also visited and given talks at a few places in the Bay Area like Mozilla and Razorfish.  ( Anyone have a link to the Mozilla video?  We want to post it here!) &lt;br /&gt;
-We aren’t going to stop working after we release.  Ilya and Raphael are taking leave from &lt;span class=&quot;caps&quot;&gt;NYU&lt;/span&gt;, and we will continue to develop and maintain Diaspora as a long term project.  We have shifted our development timeline accordingly,  and the first release will be the beginning of something great, not a finished summer project.&lt;/p&gt;
+&lt;p&gt;This has been an epic summer.  We want to say thank you to the people involved with the Federated Social Web Summit in Portland.  There, we ate bagels with Evan Prodromou and the &lt;a href=&quot;http://status.net&quot;&gt;Status.net&lt;/a&gt; crew, and got to meet the people behind some of the great tools that make up the foundation of Diaspora.  We are honored to be a part of building this new kind of web.  We&amp;#8217;ve also visited and given talks at a few places in the Bay Area like Mozilla and Razorfish.  ( Anyone have a link to the Mozilla video?  We want to post it here!)&lt;/p&gt;
+&lt;p&gt;We aren’t going to stop working after we release.  Ilya and Raphael are taking leave from &lt;span class=&quot;caps&quot;&gt;NYU&lt;/span&gt;, and we will continue to develop and maintain Diaspora as a long term project.  We have shifted our development timeline accordingly,  and the first release will be the beginning of something great, not a finished summer project.&lt;/p&gt;
 &lt;p&gt;In the next couple weeks, Dan, Ilya, and Raphael are going to be getting some well deserved R&amp;amp;R at Burning Man, and Max will be speaking at Ars Electronica in Linz, Austria.  Thats all for now, but we will will post another update about September 15th soon.  There still is much more work to do!&lt;/p&gt;
 &lt;p&gt;Get your keyboards polished for the 15th,&lt;br /&gt;
 - Ilya, Raphael, Maxwell and Daniel&lt;/p&gt;</content>
