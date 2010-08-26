@@ -8,7 +8,7 @@ p(meta). 26 August 2010
 
 Dear Internet,
 
-Since the 1st of August is nearly over, it is time for an update and answers to some questions.  We have been coding.  We have Diaspora working, we like it, and it will be open-sourced on September 15th.	
+Since August is nearly over, it is time for an update and answers to some questions.  We have been coding.  We have Diaspora working, we like it, and it will be open-sourced on September 15th.	
 
 We are spending a good chunk of time concentrating on building clear, contextual sharing.  That means an intuitive way for users to decide, and not notice deciding, what content goes to their coworkers and what goes to their drinking buddies.  We know that's a hard UI problem and we take it seriously.   The publicity and money that you have given us has let us work with great designers like Janice Frasier, through her new program "LUXr":http://luxr.posterous.com/, whose constant reminders that we are not the user have kept us honest and focused.  Pivotal Labs has also helped us prioritize, and we have pushed back more technical features like plugins and APIs in favor of simple and high value features.  Our original goals remain the same, and these features are still in our timeline.
 
