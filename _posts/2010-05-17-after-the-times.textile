@@ -15,7 +15,7 @@ Our basic plan is the same: we're going to build a great lightweight decentraliz
  
 In addition to money, a massive number of talented and experienced people, including developers, designers, hosting companies and lawyers, have offered us their expertise.  Though we haven't responded to the deluge of emails, we have read them all.  We're still working through the backlog and are putting together a great group of advisors.
 
-We're also getting in touch with other projects in the space.  We had a great talk with the guys behind Ostatus earlier this week, and we are excited to implement the Ostatus standards.
+We're also getting in touch with other projects in the space.  We had a great talk with the guys behind Ostatus earlier this week, and we are excited to implement the OStatus standards.
             
 As always, we couldn't have made it this far without all of our incredible supporters.  It heartens us to know that so many people share our concern for privacy online and we are doing our best to make sure Diaspora turns out awesome.
 
