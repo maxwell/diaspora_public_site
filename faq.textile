@@ -23,7 +23,7 @@ Thanks for your interest! We're not looking for donations anymore, so we will no
 
 h5. I pledged $XX dollars to your project. When are you asking for my information?
 
-Soon after the the funding period is over, (on Tuesday Jun 1, 11:59pm EDT) the team will be in touch through Kickstarter for further information.
+Soon after the the funding period is over (on Tuesday Jun 1, 11:59pm EDT), the team will be in touch through Kickstarter for further information.
 
 h5. When do I get my stuff?
 
@@ -31,9 +31,9 @@ Everything will be shipped at the end of the summer. We'd like to send everythin
 
 h5. What is the deal with the CD?
 
-When launched Diaspora, we expected 200-300 backers. The CD was meant as a token of gratitude, rather than the primary avenue to distribute the software. Since we plan on working on Diaspora past the end of the summer, the version on the CD will probably be obsolete by the time it arrives. The best way to get Diaspora will be to download the latest version from the web. 
+When we launched Diaspora, we expected 200-300 backers. The CD was meant as a token of gratitude, rather than the primary avenue to distribute the software. Since we plan on working on Diaspora past the end of the summer, the version on the CD will probably be obsolete by the time it arrives. The best way to get Diaspora will be to download the latest version from the web. 
 
-h3. Tech related Questions:
+h3. Tech-related Questions:
 
 h5. What language are you programming Diaspora in?
 
@@ -41,9 +41,9 @@ Ruby, with a bit of Rails and other Ruby frameworks thrown in.
 
 h5. Where will the data of the users be hosted? On servers you buy/rent?
 
-Short answer: Where ever you like.
+Short answer: wherever you like.
 
-We think most people will use some sort of hosting provider to host their seed.  This could be a traditional web host, a cloud based host, an ISP, or a friend.  
+We think most people will use some sort of hosting provider to host their seed.  This could be a traditional web host, a cloud-based host, an ISP, or a friend.  
 
 For the less technically inclined, we hope to provide a one-click hosting service like Wordpress.com to make creating a seed as easy as possible.
 
@@ -52,7 +52,7 @@ The more technically inclined will be able to host their seeds at home for maxim
 
 h5. Will Diaspora be extendable? 
 
-Yes. The Diaspora core will be content agnostic. Anybody will be able to write a plugin to use Diaspora to manage permissions and notifications for any kind of content. Since Diaspora seeds will use HTTP to communicate, programmers will also be able to build clients like new web frontends or mobile applications to improve Diaspora's interface.  Open source software is a community effort.
+Yes. The Diaspora core will be content-agnostic. Anybody will be able to write a plugin to use Diaspora to manage permissions and notifications for any kind of content. Since Diaspora seeds will use HTTP to communicate, programmers will also be able to build clients like new web frontends or mobile applications to improve Diaspora's interface.  Open source software is a community effort.
 
 
 
