@@ -4,7 +4,7 @@ title: An Overdue Update
 ---
 h2. {{ page.title }}
 
-p(meta). 26 August 2010
+p(meta). 26 August 2010 (Edited 30 August 2010)
 
 Dear Internet,
 
@@ -12,11 +12,16 @@ Since August is nearly over, it is time for an update and answers to some questi
 
 We are spending a good chunk of time concentrating on building clear, contextual sharing.  That means an intuitive way for users to decide, and not notice deciding, what content goes to their coworkers and what goes to their drinking buddies.  We know that's a hard UI problem and we take it seriously.   The publicity and money that you have given us has let us work with great designers like Janice Frasier, through her new program "LUXr":http://luxr.posterous.com/, whose constant reminders that we are not the user have kept us honest and focused.  Pivotal Labs has also helped us prioritize, and we have pushed back more technical features like plugins and APIs in favor of simple and high value features.  Our original goals remain the same, and these features are still in our timeline.
 
-This has been an epic summer.  We want to say thank you to the people involved with the Federated Social Web Summit in Portland.  There, we ate bagels with Evan Prodromou and the "Status.net":http://status.net crew, and got to meet the people behind some of the great tools that make up the foundation of Diaspora.  We are honored to be a part of building this new kind of web.  We've also visited and given talks at a few places in the Bay Area like Mozilla and Razorfish.  ( Anyone have a link to the Mozilla video?  We want to post it here!) 
+This has been an epic summer.  We want to say thank you to the people involved with the Federated Social Web Summit in Portland.  There, we ate bagels with Evan Prodromou and the "Status.net":http://status.net crew, and got to meet the people behind some of the great tools that make up the foundation of Diaspora.  We are honored to be a part of building this new kind of web.  We've also visited and given talks at a few places in the Bay Area like Mozilla and Razorfish.  <b>Edit (8/30): Here's a video of our "Mozilla talk":http://videos.mozilla.org/serv/marketing/brownbags/2010-08-20-diaspora.ogg.</b>
 
 We aren’t going to stop working after we release.  Ilya and Raphael are taking leave from NYU, and we will continue to develop and maintain Diaspora as a long term project.  We have shifted our development timeline accordingly,  and the first release will be the beginning of something great, not a finished summer project.
 	
 In the next couple weeks, Dan, Ilya, and Raphael are going to be getting some well deserved R&R at Burning Man, and Max will be speaking at Ars Electronica in Linz, Austria.  Thats all for now, but we will will post another update about September 15th soon.  There still is much more work to do!
+
+
+<b>Addendum (8/30): To clarify, September 15 will be our open-source developer release.  At that time, we will open up our "github":http://github.com repository, publish our roadmap, and shift our development style to be more community oriented.  We intend on launching a consumer facing alpha in October.  Join our "mailing list":http://eepurl.com/Vebk to get an invite.
+
+We’re excited all four of us are staying on the project full-time!</b>
 
 Get your keyboards polished for the 15th,
 - Ilya, Raphael, Maxwell and Daniel
