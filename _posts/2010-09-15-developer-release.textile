@@ -6,9 +6,9 @@ h2. {{ page.title }}
 
 p(meta). 15 September 2010
 
-Today we are releasing the source code for Diaspora.  This is now a community project and development is open to anyone with the technical expertise who shares the vision of a social network that puts users in control.  From now on we will be working closely with the community on improving and solidifying Diaspora. 
+Today, we are releasing the source code for Diaspora.  This is now a community project and development is open to anyone with the technical expertise who shares the vision of a social network that puts users in control.  From now on, we will be working closely with the community on improving and solidifying Diaspora. 
 
-We began the summer a list of technologies, and a few bold claims and the goal to make an intrinsically more private social network.  The overwhelming response that we elicited made us realize that technology woudn’t be enough.  Even the most powerful, granular set of dropdowns and checkboxes will never give people control over where their content is going, let alone give them ownership of their digital self.
+We began the summer with a list of technologies, a few bold claims, and the goal of making an intrinsically more private social network.  The overwhelming response that we elicited made us realize that technology woudn’t be enough.  Even the most powerful, granular set of dropdowns and checkboxes will never give people control over where their content is going, let alone give them ownership of their digital self.
 
 We live our real lives in context, speaking from whatever aspect of ourselves that those around us know.  Social tools should work the same way.  Getting the source into the hands of developers is our first experiment in making a simple and functional tool for contextual sharing.  Diaspora is in its infancy, but our initial ideas are there.  
 
@@ -35,7 +35,7 @@ Things we are working on next for our Alpha in October:
 
 These are our current priorities, for more detail check out our roadmap. 
 
-Much of our focus this summer was centered around publishing content to groups of your friends, wherever their seed may live.  It is by no means bug free or feature complete, but it an important step for putting us, the users, in control. Developers, our code is on github, our tracker is public, we have a developer mailing list, and we are happily accepting patches: 
+Much of our focus this summer was centered around publishing content to groups of your friends, wherever their seed may live.  It is by no means bug free or feature complete, but it is an important step for putting us, the users, in control. Developers, our code is on github, our tracker is public, we have a developer mailing list, and we are happily accepting patches: 
 
 * __"Github":http://github.com/diaspora/diaspora__
 * __"Tracker":http://www.pivotaltracker.com/projects/61641__

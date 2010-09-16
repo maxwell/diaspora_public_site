@@ -4,7 +4,7 @@
  <title>Join Diaspora Blog</title>
  <link href="http://www.joindiaspora.com/atom.xml" rel="self"/>
  <link href="http://www.joindiaspora.com/"/>
- <updated>2010-09-15T17:37:56-07:00</updated>
+ <updated>2010-09-16T11:42:03-07:00</updated>
  <id>http://www.joindiaspora.com/</id>
  <author>
    <name>diaspora</name>
@@ -19,8 +19,8 @@
    <id>http://www.joindiaspora.com//2010/09/15/developer-release</id>
    <content type="html">&lt;h2&gt;Developer Release&lt;/h2&gt;
 &lt;p class=&quot;meta&quot;&gt;15 September 2010&lt;/p&gt;
-&lt;p&gt;Today we are releasing the source code for Diaspora.  This is now a community project and development is open to anyone with the technical expertise who shares the vision of a social network that puts users in control.  From now on we will be working closely with the community on improving and solidifying Diaspora.&lt;/p&gt;
-&lt;p&gt;We began the summer a list of technologies, and a few bold claims and the goal to make an intrinsically more private social network.  The overwhelming response that we elicited made us realize that technology woudn’t be enough.  Even the most powerful, granular set of dropdowns and checkboxes will never give people control over where their content is going, let alone give them ownership of their digital self.&lt;/p&gt;
+&lt;p&gt;Today, we are releasing the source code for Diaspora.  This is now a community project and development is open to anyone with the technical expertise who shares the vision of a social network that puts users in control.  From now on, we will be working closely with the community on improving and solidifying Diaspora.&lt;/p&gt;
+&lt;p&gt;We began the summer with a list of technologies, a few bold claims, and the goal of making an intrinsically more private social network.  The overwhelming response that we elicited made us realize that technology woudn’t be enough.  Even the most powerful, granular set of dropdowns and checkboxes will never give people control over where their content is going, let alone give them ownership of their digital self.&lt;/p&gt;
 &lt;p&gt;We live our real lives in context, speaking from whatever aspect of ourselves that those around us know.  Social tools should work the same way.  Getting the source into the hands of developers is our first experiment in making a simple and functional tool for contextual sharing.  Diaspora is in its infancy, but our initial ideas are there.&lt;/p&gt;
 &lt;p&gt;Diaspora now:&lt;br /&gt;
 &lt;img src=&quot;/images/screenshots/stream.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
@@ -45,7 +45,7 @@
 	&lt;li&gt;&lt;i&gt;Data Portability&lt;/i&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;These are our current priorities, for more detail check out our roadmap.&lt;/p&gt;
-&lt;p&gt;Much of our focus this summer was centered around publishing content to groups of your friends, wherever their seed may live.  It is by no means bug free or feature complete, but it an important step for putting us, the users, in control. Developers, our code is on github, our tracker is public, we have a developer mailing list, and we are happily accepting patches:&lt;/p&gt;
+&lt;p&gt;Much of our focus this summer was centered around publishing content to groups of your friends, wherever their seed may live.  It is by no means bug free or feature complete, but it is an important step for putting us, the users, in control. Developers, our code is on github, our tracker is public, we have a developer mailing list, and we are happily accepting patches:&lt;/p&gt;
 &lt;ul&gt;
 	&lt;li&gt;&lt;i&gt;&lt;a href=&quot;http://github.com/diaspora/diaspora&quot;&gt;Github&lt;/a&gt;&lt;/i&gt;&lt;/li&gt;
 	&lt;li&gt;&lt;i&gt;&lt;a href=&quot;http://www.pivotaltracker.com/projects/61641&quot;&gt;Tracker&lt;/a&gt;&lt;/i&gt;&lt;/li&gt;
