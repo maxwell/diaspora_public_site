@@ -4,13 +4,66 @@
  <title>Join Diaspora Blog</title>
  <link href="http://www.joindiaspora.com/atom.xml" rel="self"/>
  <link href="http://www.joindiaspora.com/"/>
- <updated>2010-09-14T21:53:04-07:00</updated>
+ <updated>2010-09-15T17:34:15-07:00</updated>
  <id>http://www.joindiaspora.com/</id>
  <author>
    <name>diaspora</name>
    <email>team@joindiaspora.com</email>
  </author>
 
+ 
+ <entry>
+   <title>Developer Release</title>
+   <link href="http://www.joindiaspora.com//2010/09/15/developer-release.html"/>
+   <updated>2010-09-15T00:00:00-07:00</updated>
+   <id>http://www.joindiaspora.com//2010/09/15/developer-release</id>
+   <content type="html">&lt;h2&gt;Developer Release&lt;/h2&gt;
+&lt;p class=&quot;meta&quot;&gt;15 September 2010&lt;/p&gt;
+&lt;p&gt;Today we are releasing the source code for Diaspora.  This is now a community project and development is open to anyone with the technical expertise who shares the vision of a social network that puts users in control.  From now on we will be working closely with the community on improving and solidifying Diaspora.&lt;/p&gt;
+&lt;p&gt;We began the summer a list of technologies, and a few bold claims and the goal to make an intrinsically more private social network.  The overwhelming response that we elicited made us realize that technology woudn’t be enough.  Even the most powerful, granular set of dropdowns and checkboxes will never give people control over where their content is going, let alone give them ownership of their digital self.&lt;/p&gt;
+&lt;p&gt;We live our real lives in context, speaking from whatever aspect of ourselves that those around us know.  Social tools should work the same way.  Getting the source into the hands of developers is our first experiment in making a simple and functional tool for contextual sharing.  Diaspora is in its infancy, but our initial ideas are there.&lt;/p&gt;
+&lt;p&gt;Diaspora now:&lt;br /&gt;
+&lt;img src=&quot;/images/screenshots/stream.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;ul&gt;
+	&lt;li&gt;&lt;i&gt;Share status messages and photos privately and in near real time with your friends through “aspects”.&lt;/i&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;i&gt;Friend people across the Internet no matter where Diaspora seed is located.&lt;/i&gt;&lt;br /&gt;
+&lt;img src=&quot;/images/screenshots/manage_1.png&quot; alt=&quot;&quot; /&gt;&lt;br /&gt;
+&lt;img src=&quot;/images/screenshots/manage_2.png&quot; alt=&quot;&quot; /&gt;&lt;br /&gt;
+&lt;img src=&quot;/images/screenshots/manage_3.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;i&gt;Manage friends using “aspects”&lt;/i&gt;&lt;br /&gt;
+&lt;img src=&quot;/images/screenshots/photo.png&quot; alt=&quot;&quot; /&gt;&lt;br /&gt;
+&lt;img src=&quot;/images/screenshots/drag_and_drop_photos.png&quot; alt=&quot;&quot; /&gt;&lt;br /&gt;
+&lt;img src=&quot;/images/screenshots/album.png&quot; alt=&quot;&quot; /&gt;&lt;br /&gt;
+&lt;img src=&quot;/images/screenshots/albums.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;i&gt;Upload of photos and albums&lt;/i&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;i&gt;All traffic is signed and encrypted (except photos, for now).&lt;/i&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Things we are working on next for our Alpha in October:&lt;/p&gt;
+&lt;ul&gt;
+	&lt;li&gt;&lt;i&gt;Facebook Integration&lt;/i&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;i&gt;Internationalization&lt;/i&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;i&gt;Data Portability&lt;/i&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;These are our current priorities, for more detail check out our roadmap.&lt;/p&gt;
+&lt;p&gt;Much of our focus this summer was centered around publishing content to groups of your friends, wherever their seed may live.  It is by no means bug free or feature complete, but it an important step for putting us, the users, in control. Developers, our code is on github, our tracker is public, we have a developer mailing list, and we are happily accepting patches:&lt;/p&gt;
+&lt;ul&gt;
+	&lt;li&gt;&lt;i&gt;&lt;a href=&quot;http://github.com/diaspora/diaspora&quot;&gt;Github&lt;/a&gt;&lt;/i&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;i&gt;&lt;a href=&quot;http://www.pivotaltracker.com/projects/61641&quot;&gt;Tracker&lt;/a&gt;&lt;/i&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;i&gt;&lt;a href=&quot;http://ci.joindiaspora.com&quot;&gt;Test Status&lt;/a&gt;&lt;/i&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;i&gt;&lt;a href=&quot;https://github.com/diaspora/diaspora/wiki/Roadmap&quot;&gt;Roadmap &amp;amp; Wishlist&lt;/a&gt;&lt;/i&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;i&gt;&lt;a href=&quot;http://groups.google.com/group/diaspora-dev&quot;&gt;Development Mailing List&lt;/a&gt;&lt;/i&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;i&gt;&lt;a href=&quot;http://groups.google.com/group/diaspora-discuss&quot;&gt;Discuss Mailing List&lt;/a&gt;&lt;/i&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;To stay up to date with the progress of Diaspora:&lt;/p&gt;
+&lt;ul&gt;
+	&lt;li&gt;&lt;i&gt;&lt;a href=&quot;http://twitter.com/joindiaspora&quot;&gt;twitter&lt;/a&gt;&lt;/i&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;i&gt;&lt;a href=&quot;http://identi.ca/joindiaspora&quot;&gt;identi.ca&lt;/a&gt;&lt;/i&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;i&gt;&lt;a href=&quot;http://joindiaspora.com&quot;&gt;homepage&lt;/a&gt;&lt;/i&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;i&gt;&lt;a href=&quot;http://bit.ly/c94G4h&quot;&gt;mailing list&lt;/a&gt;&lt;/i&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;PS:&lt;br /&gt;
+Feel free to try to get it running on your machines and use it, but we give no guarantees.  We know there are security holes and bugs, and your data is not yet fully exportable.  If you do find something, be sure to log it in our bugtracker, and we would love screenshots and browser info.&lt;/p&gt;</content>
+ </entry>
  
  <entry>
    <title>An Overdue Update</title>

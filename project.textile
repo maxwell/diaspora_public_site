@@ -5,38 +5,48 @@ title: the project
 
 h1(section_header). {{ page.title }}
 
-div(#main_vid). {%include video.html%}
 
-We are 140-character ideas.  We are the pictures of your cat.  We are blog posts about the economy.  We are the collective knowledge that is Wikipedia.  The internet is a canvas - of which, we paint broad and fine strokes of our lives with.  It is a forward extension of our physical lives; a meta-self comprised of ones and zeros.  We are all that is digital:  If we weren't, the internet wouldn't either.	
+h3. Diaspora Screenshots.
+!/images/screenshots/stream.png!
+* __Share status messages and photos privately and in near real time with your friends through “aspects”.__
+* __Friend people across the Internet no matter where Diaspora seed is located.__
+!/images/screenshots/manage_1.png!
+!/images/screenshots/manage_2.png!
+!/images/screenshots/manage_3.png!
+* __Manage friends using “aspects”__
+!/images/screenshots/photo.png!
+!/images/screenshots/drag_and_drop_photos.png!
+!/images/screenshots/album.png!
+!/images/screenshots/albums.png!
+* __Upload of photos and albums__
+* __All traffic is signed and encrypted (except photos, for now).__
 
-h3. current state.
+h3. Near Future.
+* __data portability: allow people to Oauth to a new seed and move their entire account to the new seed, and then notify all of their contacts of the change, so people can move around seamlessly.__
+* __services integration: We are going to be focusing on public publishing to Facebook, Twitter, and OStatus enabled public sites, as well as being able to get your existing friends lists to help you find them on Diaspora.__
+* __Internationalization using I18n: We need to move our text out to locale files so that we can get Diaspora translated. It would be a shame if your couldn’t use Diaspora in Greek.__
+* __In order to scale app-servers horizontally, we need to break the websocket server into a different process and store its session info in the database.__
+* __Server to server authentication: Right now Diaspora is push-only. We need servers to be able to authenticate to each other in order to pull data in, and to delegate that authentication to the browser to avoid replicating large files like photos.__
+* __refining aspects (adding people to multiple aspects, having people only in the public aspects, ect)__
 
-We already have a rudimentary prototype of Diaspora running on our machines, and are working like mad to make it all we can be.  Our current implementations include GPG encryption, scraping Twitter and Flickr, awesome design aesthetics, and the initial stages of connection infrastructure ("friending" other Diaspora instances).
+h3. Important links
 
-h3. first sprint.
+* __"Github":http://github.com/diaspora/diaspora__
+* __"Tracker":http://www.pivotaltracker.com/projects/61641__
+* __"Test Status":http://ci.joindiaspora.com__
+* __"Roadmap & Wishlist":https://github.com/diaspora/diaspora/wiki/Roadmap__
+* __"Development Mailing List":http://groups.google.com/group/diaspora-dev__
+* __"Discuss Mailing List":http://groups.google.com/group/diaspora-discuss__
 
-It is our one and only goal to get Diaspora in the hands of every man, woman, and child at summer's end.  September 2010 will signify the release of the project in its first iteration, fully open-sourced under the AGPL.  This release will be comprised of several key features for Diaspora, mainly:
+To stay up to date with the progress of Diaspora:
 
-* __Full-fledged communications between Seeds (Diaspora instances)__
-* __End to end GPG__
-* __External Service Scraping of most major services (reclaim your data)__
-* __Version 1 of Diaspora's API with documentation__
-* __Public GitHub repository of all Diaspora code__
+* __"twitter":http://twitter.com/joindiaspora__
+* __"identi.ca":http://identi.ca/joindiaspora__
+* __"homepage":http://joindiaspora.com__
+* __"mailing list":http://bit.ly/c94G4h__
 
-h3. second sprint.
 
-Once the core application is finished, we will focus on extending Diaspora, unleashing a battery of add-on modules and updates to the core system with the open-source community.  We will migrate back to New York City to set up house, and will devise plans to make it even easier for the general public to utilize Diaspora, a la a dead-simple, five-minute setup.  Like the first sprint, the second sprint will also be all about reclaiming all that is us.
-
-h3. flooring it to 88mph.
-
-The future will offer a multitude of amazing new capabilities for Diaspora.  A taste of what's floating around in our heads right now:
-
-* __OpenID__
-* __Voice-over IP__
-* __Distributed Encrypted Backups__
-* __Instant Messaging protocol__
-* __UDP integration__
 
 __"The only limit is yourself.":http://www.zombo.com__
 
-For the most up to date info, check out our "kickstarter page":http://kck.st/9QC2zk or our "blog":/blog.html
+For the most up to date info, check out our "roadmap":https://github.com/diaspora/diaspora/wiki/Roadmap or our "blog":/blog.html
