@@ -4,7 +4,7 @@
  <title>Join Diaspora Blog</title>
  <link href="http://www.joindiaspora.com/atom.xml" rel="self"/>
  <link href="http://www.joindiaspora.com/"/>
- <updated>2010-09-27T11:10:43-07:00</updated>
+ <updated>2010-09-27T11:24:27-07:00</updated>
  <id>http://www.joindiaspora.com/</id>
  <author>
    <name>diaspora</name>
@@ -13,11 +13,11 @@
 
  
  <entry>
-   <title>One Week into Developer Release</title>
-   <link href="http://www.joindiaspora.com//2010/09/27/one-week-into-developer-release.html"/>
+   <title>Highlights of the First Week</title>
+   <link href="http://www.joindiaspora.com//2010/09/27/highlights-of-the-first-week.html"/>
    <updated>2010-09-27T00:00:00-07:00</updated>
-   <id>http://www.joindiaspora.com//2010/09/27/one-week-into-developer-release</id>
-   <content type="html">&lt;h2&gt;One Week into Developer Release&lt;/h2&gt;
+   <id>http://www.joindiaspora.com//2010/09/27/highlights-of-the-first-week</id>
+   <content type="html">&lt;h2&gt;Highlights of the First Week&lt;/h2&gt;
 &lt;p class=&quot;meta&quot;&gt;27 September 2010&lt;/p&gt;
 &lt;p&gt;The community’s response to our release has been amazing.  Within the first week of releasing code to developers, Diaspora is the 10th most popular project on &lt;a href=&quot;http://github.com&quot;&gt;Github&lt;/a&gt; with over  2500+ watchers.  We’ve had 412 forks of Diaspora to date, and about a half a million views of the code as well.  Many people have gotten the alpha running on their own machines, and have provided countless bug reports and feature requests.&lt;/p&gt;
 &lt;p&gt;Special thanks goes out to:&lt;/p&gt;
@@ -31,7 +31,7 @@
 &lt;p&gt;We’d also like to thank the people who have reported security holes. Most of what was reported was has already been patched, and if you see any further problems, please let us know at &lt;a href=&quot;mailto:exploits@joindiaspora.com&quot;&gt;exploits@joindiaspora.com&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;We have also gotten lots of great feedback about our contributor agreement, and are talking to many experts on the subject to make the agreement more accurately reflect our goals for Diaspora.  We’ve outlined what we want that document to express &lt;a href=&quot;http://joindiaspora.com/licensing.html&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;The first week of Diaspora source code being released has been huge.  Project releases like this just don’t happen everyday, and we are completely overwhelmed that so many people want to help make Diaspora awesome.  We are doing our best to get as many people involved as soon as possible.  Thank you so much for your continued support!&lt;/p&gt;
-&lt;p&gt;PS. It&amp;#8217;s also Rafi&amp;#8217;s birthday today.&lt;/p&gt;</content>
+&lt;p&gt;PS. Today is Rafi&amp;#8217;s birthday.  (He&amp;#8217;ll be in &lt;a href=&quot;irc://irc.freenode.net/#diaspora-dev&quot;&gt;#diaspora-dev&lt;/a&gt; all day.)&lt;/p&gt;</content>
  </entry>
  
  <entry>

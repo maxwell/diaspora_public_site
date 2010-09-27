@@ -1,6 +1,6 @@
 ---
 layout: post
-title: One Week into Developer Release
+title: Highlights of the First Week
 ---
 h2. {{ page.title }}
 
@@ -23,5 +23,5 @@ We have also gotten lots of great feedback about our contributor agreement, and 
 
 The first week of Diaspora source code being released has been huge.  Project releases like this just don’t happen everyday, and we are completely overwhelmed that so many people want to help make Diaspora awesome.  We are doing our best to get as many people involved as soon as possible.  Thank you so much for your continued support!
 
-PS. It's also Rafi's birthday today.
+PS. Today is Rafi's birthday.  (He'll be in "#diaspora-dev":irc://irc.freenode.net/#diaspora-dev all day.)
 
