@@ -1,0 +1,27 @@
+---
+layout: post
+title: One Week into Developer Release
+---
+h2. {{ page.title }}
+
+p(meta). 27 September 2010
+
+The community’s response to our release has been amazing.  Within the first week of releasing code to developers, Diaspora is the 10th most popular project on "Github":http://github.com with over  2500+ watchers.  We’ve had 412 forks of Diaspora to date, and about a half a million views of the code as well.  Many people have gotten the alpha running on their own machines, and have provided countless bug reports and feature requests.
+
+Special thanks goes out to:
+* "arielo":http://github.com/arielo who setup il8n and many others who contributed to translation of diaspora to 17 different languages.
+* "voxdolo":http://github.com/voxdolo has started to help us improve and refactor our specs.
+* "hemanth":http://github.com/hemanth , "maco":http://github.com/maco , and "drt24":http://github.com/drt24 who wrote the epic Ubuntu setup script.  
+* "manervu":http://github.com/manervu and "aredridel":http://github.com/aredridel who helped us move to Ruby 1.9.2.
+
+
+If you want to help contribute to Diaspora, you can find the source code on github, accompanied with some instructions on how to get started: "http://github.com/diaspora/diaspora":http://github.com/diaspora/diaspora
+
+We’d also like to thank the people who have reported security holes. Most of what was reported was has already been patched, and if you see any further problems, please let us know at "exploits@joindiaspora.com":mailto:exploits@joindiaspora.com.
+
+We have also gotten lots of great feedback about our contributor agreement, and are talking to many experts on the subject to make the agreement more accurately reflect our goals for Diaspora.  We’ve outlined what we want that document to express "here":http://joindiaspora.com/licensing.html.
+
+The first week of Diaspora source code being released has been huge.  Project releases like this just don’t happen everyday, and we are completely overwhelmed that so many people want to help make Diaspora awesome.  We are doing our best to get as many people involved as soon as possible.  Thank you so much for your continued support!
+
+PS. It's also Rafi's birthday today.
+

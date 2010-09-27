@@ -1,0 +1,13 @@
+---
+layout: default
+title: a word on licensing
+---
+
+h1(section_header). {{ page.title }}
+
+
+
+Our current contributor agreement was adapted from Sun’s CLA on the day of our release, when we realized we needed some sort of agreement, to both consolidate the copyright and to prevent craziness like the "Linux kernel tree poisoning":http://en.wikipedia.org/wiki/SCO-Linux_controversies.  Now that we’ve taken some time to think about exactly what rights we want to have, we’re working on scaling it back. 
+
+Essentially, we want to be in a strong position to defend Diaspora’s AGPL license, and we want to be able to refactor non-core components into libraries and contribute them back to the Ruby community, which uses the MIT license. If you know of any similar arrangements, or have any ideas on how we could make our agreement more closely approach that goal without granting us other rights, please email us at "licensing@joindiaspora.com":mailto:licensing@joindiaspora.com.
+
