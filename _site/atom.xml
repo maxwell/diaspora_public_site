@@ -4,13 +4,37 @@
  <title>Join Diaspora Blog</title>
  <link href="http://www.joindiaspora.com/atom.xml" rel="self"/>
  <link href="http://www.joindiaspora.com/"/>
- <updated>2010-09-27T11:24:27-07:00</updated>
+ <updated>2010-10-29T14:52:02-07:00</updated>
  <id>http://www.joindiaspora.com/</id>
  <author>
    <name>diaspora</name>
    <email>team@joindiaspora.com</email>
  </author>
 
+ 
+ <entry>
+   <title>October Update</title>
+   <link href="http://www.joindiaspora.com//2010/10/29/october-update.html"/>
+   <updated>2010-10-29T00:00:00-07:00</updated>
+   <id>http://www.joindiaspora.com//2010/10/29/october-update</id>
+   <content type="html">&lt;h2&gt;October Update&lt;/h2&gt;
+&lt;p class=&quot;meta&quot;&gt;29 October 2010&lt;/p&gt;
+&lt;p&gt;Hey Everyone,&lt;/p&gt;
+&lt;p&gt;Diaspora is getting better every day.  Here are some of the features we’ve added over the last month:&lt;/p&gt;
+&lt;ul&gt;
+	&lt;li&gt;Public messages are can now be posted to Twitter and Facebook&lt;/li&gt;
+	&lt;li&gt;Friends can now be in multiple aspects&lt;/li&gt;
+	&lt;li&gt;Re-sharing of status messages to aspects other than the one originally posted to&lt;/li&gt;
+	&lt;li&gt;An invite system for inviting your friends not hip to Diaspora yet&lt;/li&gt;
+	&lt;li&gt;Email notifications on new friend request and acceptance&lt;/li&gt;
+	&lt;li&gt;Account data is exportable&lt;/li&gt;
+	&lt;li&gt;A more friendly “getting started” experience&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Our basic feature set is almost done.  Once that is stable, we’ll set up an alpha server so that anyone, not just developers, can try Diaspora and help us improve it. We’re shooting to do this before Thanksgiving.&lt;/p&gt;
+&lt;p&gt;Developers, if you haven’t already, please join the &lt;a href=&quot;http://groups.google.com/group/diaspora-dev&quot;&gt;google group&lt;/a&gt; as I will be posting a more technical update in the next couple of days.&lt;/p&gt;
+&lt;p&gt;Thanks,&lt;/p&gt;
+&lt;p&gt;Ilya + Maxwell, Daniel, Raphael&lt;/p&gt;</content>
+ </entry>
  
  <entry>
    <title>Highlights of the First Week</title>

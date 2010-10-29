@@ -1,0 +1,26 @@
+---
+layout: post
+title: October Update
+---
+h2. {{ page.title }}
+
+p(meta). 29 October 2010
+
+Hey Everyone,
+
+Diaspora is getting better every day.  Here are some of the features we’ve added over the last month:
+* Public messages are can now be posted to Twitter and Facebook
+* Friends can now be in multiple aspects
+* Re-sharing of status messages to aspects other than the one originally posted to
+* An invite system for inviting your friends not hip to Diaspora yet
+* Email notifications on new friend request and acceptance
+* Account data is exportable
+* A more friendly “getting started” experience
+
+Our basic feature set is almost done.  Once that is stable, we’ll set up an alpha server so that anyone, not just developers, can try Diaspora and help us improve it. We’re shooting to do this before Thanksgiving. 
+
+Developers, if you haven’t already, please join the "google group":http://groups.google.com/group/diaspora-dev as I will be posting a more technical update in the next couple of days.
+
+Thanks,
+
+Ilya + Maxwell, Daniel, Raphael
