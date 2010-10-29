@@ -4,7 +4,7 @@
  <title>Join Diaspora Blog</title>
  <link href="http://www.joindiaspora.com/atom.xml" rel="self"/>
  <link href="http://www.joindiaspora.com/"/>
- <updated>2010-10-29T14:52:02-07:00</updated>
+ <updated>2010-10-29T15:09:26-07:00</updated>
  <id>http://www.joindiaspora.com/</id>
  <author>
    <name>diaspora</name>
@@ -20,7 +20,7 @@
    <content type="html">&lt;h2&gt;October Update&lt;/h2&gt;
 &lt;p class=&quot;meta&quot;&gt;29 October 2010&lt;/p&gt;
 &lt;p&gt;Hey Everyone,&lt;/p&gt;
-&lt;p&gt;Diaspora is getting better every day.  Here are some of the features we’ve added over the last month:&lt;/p&gt;
+&lt;p&gt;Diaspora is getting better &lt;a href=&quot;http://github.com/diaspora/diaspora/network&quot;&gt;every day&lt;/a&gt;.  Here are some of the features we’ve added over the last month:&lt;/p&gt;
 &lt;ul&gt;
 	&lt;li&gt;Public messages are can now be posted to Twitter and Facebook&lt;/li&gt;
 	&lt;li&gt;Friends can now be in multiple aspects&lt;/li&gt;
@@ -33,7 +33,16 @@
 &lt;p&gt;Our basic feature set is almost done.  Once that is stable, we’ll set up an alpha server so that anyone, not just developers, can try Diaspora and help us improve it. We’re shooting to do this before Thanksgiving.&lt;/p&gt;
 &lt;p&gt;Developers, if you haven’t already, please join the &lt;a href=&quot;http://groups.google.com/group/diaspora-dev&quot;&gt;google group&lt;/a&gt; as I will be posting a more technical update in the next couple of days.&lt;/p&gt;
 &lt;p&gt;Thanks,&lt;/p&gt;
-&lt;p&gt;Ilya + Maxwell, Daniel, Raphael&lt;/p&gt;</content>
+&lt;p&gt;Ilya + Maxwell, Daniel, Raphael&lt;/p&gt;
+&lt;p&gt;To stay up to date with the progress of Diaspora:&lt;/p&gt;
+&lt;ul&gt;
+	&lt;li&gt;&lt;i&gt;&lt;a href=&quot;http://github.com/diaspora/diaspora&quot;&gt;Github&lt;/a&gt;&lt;/i&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;i&gt;&lt;a href=&quot;http://bugs.joindiaspora.com&quot;&gt;Bug Tracker&lt;/a&gt;&lt;/i&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;i&gt;&lt;a href=&quot;http://ci.joindiaspora.com&quot;&gt;Test Status&lt;/a&gt;&lt;/i&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;i&gt;&lt;a href=&quot;https://github.com/diaspora/diaspora/wiki/Roadmap&quot;&gt;Roadmap &amp;amp; Wishlist&lt;/a&gt;&lt;/i&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;i&gt;&lt;a href=&quot;http://groups.google.com/group/diaspora-dev&quot;&gt;Development Mailing List&lt;/a&gt;&lt;/i&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;i&gt;&lt;a href=&quot;http://groups.google.com/group/diaspora-discuss&quot;&gt;Discuss Mailing List&lt;/a&gt;&lt;/i&gt;&lt;/li&gt;
+&lt;/ul&gt;</content>
  </entry>
  
  <entry>
